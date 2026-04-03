@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Nova Borwerk | Mobil Yerinde İşleme ve Teknik Bakım Çözümleri</title>
+  <meta name="description" content="Nova Borwerk; Avcılar / İstanbul merkezli, Marmara Bölgesi genelinde mobil borwerk, yerinde delik işleme, dolgu kaynağı, burç ve pim yatağı revizyonu hizmeti sunar." />
+  <style>
+    :root {
+      --bg: #070b16;
+      --bg-2: #0b1430;
+      --panel: rgba(15, 27, 68, 0.82);
+      --panel-strong: #0f204f;
+      --text: #eef3ff;
+      --muted: #b8c2df;
+      --gold: #f5c542;
+      --gold-2: #ffd970;
+      --line: rgba(255,255,255,.1);
+      --success: #22c55e;
+      --shadow: 0 18px 50px rgba(0,0,0,.35);
+      --radius-xl: 30px;
+      --radius-lg: 22px;
+      --max: 1220px;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: Inter, Arial, Helvetica, sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 90% 10%, rgba(245,197,66,.12), transparent 20%),
+        radial-gradient(circle at 15% 18%, rgba(40,90,220,.22), transparent 22%),
+        linear-gradient(180deg, #05070d 0%, #08101f 100%);
+      line-height: 1.6;
+    }
+    a { color: inherit; text-decoration: none; }
+    img { max-width: 100%; display: block; }
+    .container { width: min(var(--max), calc(100% - 32px)); margin: 0 auto; }
+    .section { padding: 82px 0; }
+    .section-head { max-width: 780px; margin-bottom: 28px; }
+    .eyebrow {
+      display: inline-flex; align-items: center; gap: 10px;
+      padding: 10px 16px; border-radius: 999px;
+      border: 1px solid rgba(245,197,66,.22);
+      background: rgba(245,197,66,.08);
+      color: var(--gold-2); font-size: .88rem; font-weight: 800;
+      letter-spacing: .04em; text-transform: uppercase;
+    }
+    .section-head h2 {
+      margin: 14px 0 10px;
+      font-size: clamp(2rem, 4vw, 3.4rem);
+      line-height: 1.08;
+      letter-spacing: -.03em;
+    }
+    .section-head p { color: var(--muted); font-size: 1.06rem; margin: 0; }
+    .topbar {
+      position: sticky; top: 0; z-index: 40;
+      backdrop-filter: blur(16px);
+      background: rgba(6, 10, 19, .72);
+      border-bottom: 1px solid var(--line);
+    }
+    .topbar-inner {
+      min-height: 78px; display: flex; align-items: center; justify-content: space-between; gap: 18px;
+    }
+    .brand {
+      display: flex; align-items: center; gap: 14px;
+    }
+    .brand-logo {
+      width: 54px; height: 54px; border-radius: 16px; overflow: hidden;
+      border: 1px solid rgba(245,197,66,.28);
+      box-shadow: var(--shadow);
+      background: #0f1c43;
+    }
+    .brand strong {
+      display: block; font-size: 1.08rem; letter-spacing: .05em;
+    }
+    .brand small {
+      display: block; color: var(--muted); text-transform: uppercase; letter-spacing: .18em; font-size: .69rem;
+    }
+    .brand strong span { color: var(--gold); }
+    nav { display: flex; gap: 22px; flex-wrap: wrap; }
+    nav a { color: var(--muted); font-weight: 700; }
+    nav a:hover { color: var(--gold); }
+
+    .hero { padding: 78px 0 46px; }
+    .hero-grid {
+      display: grid; grid-template-columns: 1.08fr .92fr; gap: 34px; align-items: center;
+    }
+    h1 {
+      margin: 18px 0 18px;
+      font-size: clamp(2.4rem, 5vw, 4.95rem);
+      line-height: .98; letter-spacing: -.05em;
+    }
+    .hl { color: var(--gold); }
+    .lead { color: var(--muted); font-size: 1.14rem; max-width: 760px; }
+    .hero-actions {
+      display: flex; gap: 14px; flex-wrap: wrap; margin-top: 26px;
+    }
+    .btn {
+      min-height: 54px; padding: 0 22px; border-radius: 16px;
+      display: inline-flex; align-items: center; justify-content: center;
+      font-weight: 800; transition: .22s ease; border: 1px solid transparent;
+    }
+    .btn:hover { transform: translateY(-2px); }
+    .btn.primary {
+      color: #151a28;
+      background: linear-gradient(180deg, var(--gold-2), var(--gold));
+      box-shadow: 0 14px 26px rgba(245,197,66,.24);
+    }
+    .btn.secondary { border-color: var(--line); background: rgba(255,255,255,.04); }
+    .btn.whatsapp { background: linear-gradient(180deg, #25d366, #1db954); color: white; }
+    .stats {
+      margin-top: 30px;
+      display: grid; grid-template-columns: repeat(4,1fr); gap: 14px;
+    }
+    .stat,
+    .card,
+    .cert-card,
+    .gallery-card,
+    .doc-card,
+    .reference-card,
+    .timeline-item,
+    .contact-card,
+    .proof-card,
+    .map-card {
+      border: 1px solid var(--line);
+      background: linear-gradient(180deg, rgba(255,255,255,.05), rgba(255,255,255,.03));
+      box-shadow: var(--shadow);
+      border-radius: var(--radius-lg);
+    }
+    .stat { padding: 20px; }
+    .stat .num { color: var(--gold); font-weight: 900; font-size: 1.8rem; line-height: 1; }
+    .stat .txt { color: var(--muted); margin-top: 8px; font-weight: 600; }
+
+    .hero-side {
+      padding: 18px;
+      border-radius: var(--radius-xl);
+      border: 1px solid rgba(245,197,66,.18);
+      background: linear-gradient(145deg, rgba(17,34,86,.96), rgba(8,16,32,.98));
+      box-shadow: var(--shadow);
+    }
+    .hero-logo {
+      border-radius: 24px; overflow: hidden; border: 1px solid rgba(245,197,66,.18); background: #0a1430;
+    }
+    .quick-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: 12px; margin-top: 16px; }
+    .quick-card {
+      padding: 16px; border-radius: 18px; border: 1px solid var(--line); background: rgba(255,255,255,.04);
+    }
+    .quick-card strong { display: block; color: var(--gold); font-size: 1rem; margin-bottom: 6px; }
+    .quick-card span { color: var(--muted); font-size: .96rem; }
+
+    .grid-3 { display: grid; grid-template-columns: repeat(3,1fr); gap: 18px; }
+    .grid-4 { display: grid; grid-template-columns: repeat(4,1fr); gap: 18px; }
+    .card { padding: 24px; }
+    .card h3, .cert-card h3, .gallery-card h3, .doc-card h3, .reference-card h3 { margin: 0 0 10px; font-size: 1.2rem; }
+    .card p, .cert-card p, .gallery-card p, .doc-card p, .reference-card p, .timeline-item p, .contact-card p, .proof-card p { margin: 0; color: var(--muted); }
+    .icon {
+      width: 54px; height: 54px; border-radius: 18px;
+      display: grid; place-items: center; margin-bottom: 14px; color: #162033;
+      background: linear-gradient(180deg, var(--gold-2), var(--gold)); font-size: 1.3rem; font-weight: 900;
+    }
+
+    .proof-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+    .proof-card { padding: 24px; }
+    .proof-list { margin: 14px 0 0; padding: 0; list-style: none; display: grid; gap: 12px; }
+    .proof-list li {
+      padding: 14px 16px; border-radius: 16px; border: 1px solid var(--line); background: rgba(255,255,255,.03);
+      color: var(--text);
+    }
+    .proof-list strong { color: var(--gold); display: inline-block; min-width: 118px; }
+
+    .gallery-layout {
+      display: grid; grid-template-columns: 1.1fr .9fr; gap: 18px;
+    }
+    .gallery-column { display: grid; gap: 18px; }
+    .gallery-image {
+      min-height: 260px; background: #0c1535; overflow: hidden; border-bottom: 1px solid var(--line);
+    }
+    .gallery-image.tall { min-height: 520px; }
+    .gallery-image img { width: 100%; height: 100%; object-fit: cover; }
+    .gallery-body { padding: 20px; }
+    .tag-row { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
+    .tag {
+      border: 1px solid rgba(245,197,66,.18); background: rgba(245,197,66,.08); color: var(--gold-2);
+      padding: 8px 12px; border-radius: 999px; font-size: .84rem; font-weight: 700;
+    }
+
+    .cert-grid, .docs-grid, .references-grid, .timeline-grid, .contact-grid { display: grid; gap: 18px; }
+    .cert-grid { grid-template-columns: repeat(2,1fr); }
+    .docs-grid { grid-template-columns: 1fr 1fr; }
+    .references-grid { grid-template-columns: repeat(2,1fr); }
+    .timeline-grid { grid-template-columns: 1fr 1fr; }
+    .contact-grid { grid-template-columns: repeat(3,1fr); }
+    .cert-card, .doc-card, .reference-card, .timeline-item, .contact-card { padding: 24px; }
+    .cert-top, .doc-top { display: flex; justify-content: space-between; gap: 16px; align-items: flex-start; margin-bottom: 14px; }
+    .pill {
+      flex: 0 0 auto; padding: 8px 12px; border-radius: 999px; font-size: .78rem; font-weight: 800;
+      color: var(--gold-2); border: 1px solid rgba(245,197,66,.18); background: rgba(245,197,66,.08);
+    }
+    .doc-link, .cert-link, .reference-link {
+      display: inline-flex; align-items: center; gap: 10px; margin-top: 16px; color: var(--gold); font-weight: 800;
+    }
+    .reference-logo {
+      width: 140px; height: 70px; object-fit: contain; background: white; border-radius: 14px; padding: 10px;
+      border: 1px solid rgba(255,255,255,.08); margin-bottom: 14px;
+    }
+    .timeline-item strong { color: var(--gold); display: block; margin-bottom: 6px; }
+    .timeline-item .date { color: var(--gold-2); font-weight: 800; font-size: .92rem; margin-bottom: 10px; }
+
+    .coverage-wrap {
+      display: grid; grid-template-columns: .92fr 1.08fr; gap: 18px; align-items: stretch;
+    }
+    .map-card { padding: 24px; position: relative; overflow: hidden; }
+    .map-visual {
+      position: relative; min-height: 360px; border-radius: 22px;
+      background:
+        radial-gradient(circle at 22% 42%, rgba(245,197,66,.13), transparent 22%),
+        radial-gradient(circle at 70% 72%, rgba(69,150,255,.18), transparent 26%),
+        linear-gradient(180deg, #0e1a3e 0%, #091022 100%);
+      border: 1px solid var(--line);
+      overflow: hidden;
+    }
+    .shore {
+      position: absolute; inset: auto auto 20% 7%; width: 86%; height: 46%;
+      background: linear-gradient(180deg, rgba(245,197,66,.14), rgba(245,197,66,.05));
+      clip-path: polygon(0 60%, 9% 50%, 20% 58%, 30% 42%, 40% 46%, 49% 30%, 59% 36%, 72% 18%, 86% 30%, 100% 6%, 100% 48%, 89% 58%, 77% 70%, 63% 72%, 49% 88%, 31% 86%, 18% 92%, 0 84%);
+      border: 1px solid rgba(245,197,66,.18);
+      filter: drop-shadow(0 8px 18px rgba(0,0,0,.25));
+    }
+    .city, .pin {
+      position: absolute; display: inline-flex; align-items: center; gap: 8px; font-size: .82rem; font-weight: 800;
+      padding: 8px 10px; border-radius: 999px; background: rgba(7,11,22,.8); border: 1px solid var(--line);
+      color: var(--text);
+    }
+    .pin {
+      background: rgba(245,197,66,.14); color: var(--gold-2); border-color: rgba(245,197,66,.28);
+      box-shadow: 0 0 0 8px rgba(245,197,66,.06);
+    }
+    .city::before, .pin::before {
+      content: ""; width: 8px; height: 8px; border-radius: 999px; background: currentColor;
+      display: inline-block;
+    }
+    .pin::before { background: #ff5959; }
+    .coverage-note {
+      margin-top: 18px; padding: 16px 18px; border-radius: 16px;
+      border: 1px solid var(--line); background: rgba(255,255,255,.03); color: var(--muted);
+    }
+    .map-frame {
+      width: 100%; height: 100%; min-height: 430px; border: 0; border-radius: 22px; box-shadow: var(--shadow);
+    }
+
+    .contact-panel {
+      padding: 28px; border-radius: var(--radius-xl);
+      border: 1px solid rgba(245,197,66,.18);
+      background: linear-gradient(140deg, rgba(245,197,66,.09), rgba(16,27,69,.7));
+      box-shadow: var(--shadow);
+    }
+    .contact-card strong { display: block; font-size: 1.04rem; margin-bottom: 8px; }
+    .contact-card a { color: var(--gold); font-weight: 800; word-break: break-word; }
+    .subtle {
+      color: var(--muted); font-size: .96rem; margin-top: 16px;
+    }
+
+    .float-wa {
+      position: fixed; right: 20px; bottom: 20px; z-index: 60;
+      min-height: 56px; padding: 0 20px; border-radius: 999px;
+      display: inline-flex; align-items: center; justify-content: center; gap: 10px;
+      font-weight: 900; color: white;
+      background: linear-gradient(180deg, #25d366, #1ba84e);
+      box-shadow: 0 18px 34px rgba(37,211,102,.28);
+    }
+
+    footer {
+      border-top: 1px solid var(--line);
+      color: var(--muted);
+    }
+    .footer-inner {
+      min-height: 84px; display: flex; align-items: center; justify-content: space-between; gap: 18px; flex-wrap: wrap;
+    }
+
+    @media (max-width: 1100px) {
+      .hero-grid, .proof-grid, .gallery-layout, .coverage-wrap { grid-template-columns: 1fr; }
+      .grid-4 { grid-template-columns: repeat(2,1fr); }
+      .grid-3 { grid-template-columns: 1fr 1fr; }
+      .contact-grid, .timeline-grid, .references-grid, .docs-grid, .cert-grid { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 760px) {
+      nav { display: none; }
+      .hero { padding-top: 46px; }
+      .stats, .grid-3, .grid-4, .contact-grid, .timeline-grid, .references-grid, .docs-grid, .cert-grid, .quick-grid { grid-template-columns: 1fr; }
+      .container { width: min(var(--max), calc(100% - 20px)); }
+      .section { padding: 62px 0; }
+      .lead { font-size: 1rem; }
+      .topbar-inner { min-height: 70px; }
+      .map-frame { min-height: 320px; }
+      .map-visual { min-height: 320px; }
+      .brand-logo { width: 48px; height: 48px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a href="#anasayfa" class="brand">
+        <div class="brand-logo"><img src="assets/Logo.jpg" alt="Nova Borwerk Logo" /></div>
+        <div>
+          <strong><span>NOVA</span> BORWERK</strong>
+          <small>Mobil Teknik Çözümler</small>
+        </div>
+      </a>
+      <nav>
+        <a href="#hakkimizda">Hakkımızda</a>
+        <a href="#hizmetler">Hizmetler</a>
+        <a href="#belgeler">Belgeler</a>
+        <a href="#galeri">Uygulamalar</a>
+        <a href="#marmara">Hizmet Ağı</a>
+        <a href="#referanslar">Referanslar</a>
+        <a href="#iletisim">İletişim</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="anasayfa">
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <div class="eyebrow">Avcılar / İstanbul merkezli • Tüm Marmara Bölgesi mobil servis</div>
+          <h1>Makinenizi sökmeden <span class="hl">yerinde işleme</span>, dolgu kaynağı ve teknik bakım çözümü</h1>
+          <p class="lead">
+            Nova Borwerk, ağır sanayi ve iş makinesi ekipmanlarında mobil borwerk, delik işleme, pim-burç yatağı revizyonu,
+            dolgu kaynağı ve hassas ölçülendirme hizmeti sunar. Şantiyeye, limana, tersaneye veya fabrika sahasına gider; atölye
+            hassasiyetini doğrudan işin olduğu noktaya taşır.
+          </p>
+          <div class="hero-actions">
+            <a class="btn primary" href="#iletisim">Teklif / Randevu Al</a>
+            <a class="btn whatsapp" href="https://wa.me/905367128257" target="_blank" rel="noopener">WhatsApp'tan Yaz</a>
+            <a class="btn secondary" href="#belgeler">Belgeleri İncele</a>
+          </div>
+
+          <div class="stats">
+            <div class="stat"><div class="num">25+</div><div class="txt">Yıllık torna-freze ve bakım deneyimi</div></div>
+            <div class="stat"><div class="num">Q40–Q320</div><div class="txt">Yerinde hassas delik işleme aralığı</div></div>
+            <div class="stat"><div class="num">7/24</div><div class="txt">Saha odaklı servis yaklaşımı</div></div>
+            <div class="stat"><div class="num">Marmara</div><div class="txt">Liman, tersane ve fabrika erişimi</div></div>
+          </div>
+        </div>
+
+        <aside class="hero-side">
+          <div class="hero-logo"><img src="assets/logo-nova-borwerk.jpg" alt="Nova Borwerk kurumsal logo" /></div>
+          <div class="quick-grid">
+            <div class="quick-card">
+              <strong>Mobil Araçlı Hizmet</strong>
+              <span>Avcılar merkezli, İstanbul ve çevresine sahada müdahale.</span>
+            </div>
+            <div class="quick-card">
+              <strong>Kurumsal Saha Uygunluğu</strong>
+              <span>Vinç operatörlüğü, İSG ve ustalık belgeleriyle güvenli giriş.</span>
+            </div>
+            <div class="quick-card">
+              <strong>AutoCAD Destekli Ölçüm</strong>
+              <span>Teknik resme uygun, kontrollü ve hassas ölçülendirme.</span>
+            </div>
+            <div class="quick-card">
+              <strong>Pim / Burç Revizyonu</strong>
+              <span>Pim yatağı aşınmaları ve delik büyütme işlemlerinde profesyonel çözüm.</span>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section" id="hakkimizda">
+      <div class="container">
+        <div class="section-head">
+          <div class="eyebrow">Kurumsal özet</div>
+          <h2>Ağır sanayi sahalarında hızlı, güvenli ve ölçüye sadık çözüm</h2>
+          <p>
+            Ustalık, saha pratiği ve mobil ekipman gücünü aynı yapıda topluyoruz. Liman işletmeleri, tersaneler, iş makinesi sahaları
+            ve büyük fabrika hatlarında, söküm ve nakliye süresini ortadan kaldıran yerinde müdahale modeli ile çalışıyoruz.
+          </p>
+        </div>
+
+        <div class="grid-4">
+          <div class="card">
+            <div class="icon">01</div>
+            <h3>Yerinde Müdahale</h3>
+            <p>Parçayı atölyeye taşıma ihtiyacını azaltır; süre, maliyet ve operasyon kaybını minimumda tutar.</p>
+          </div>
+          <div class="card">
+            <div class="icon">02</div>
+            <h3>Pim ve Burç Yatakları</h3>
+            <p>Kulak, bom, bağlantı ve şase bölgelerindeki aşınmış delikler yeniden işlenir, genişletilir veya kaynatılıp revize edilir.</p>
+          </div>
+          <div class="card">
+            <div class="icon">03</div>
+            <h3>Kurumsal Uygunluk</h3>
+            <p>Yüksek riskli çalışma alanlarına girişte talep edilen ustalık, işaretçi-sapancı, AutoCAD ve vinç operatörlüğü belgeleri mevcuttur.</p>
+          </div>
+          <div class="card">
+            <div class="icon">04</div>
+            <h3>Teknik Disiplin</h3>
+            <p>Ölçü kontrol, kalite kontrol, teknik resim okuma ve sahada hizalama ile sonuç odaklı uygulama yapılır.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="hizmetler">
+      <div class="container">
+        <div class="section-head">
+          <div class="eyebrow">Hizmetler</div>
+          <h2>İş makineleri, liman ekipmanları ve fabrika hatları için mobil teknik çözümler</h2>
+          <p>
+            Sahaya götürdüğümüz mobil borwerk sistemiyle; delik işleme, dolgu kaynağı, pim-burç yuvası yenileme, hassas ölçülendirme
+            ve mekanik bakım işleri tek yapı altında yönetilir.
+          </p>
+        </div>
+
+        <div class="proof-grid">
+          <div class="proof-card">
+            <h3>Operasyon Kapsamı</h3>
+            <ul class="proof-list">
+              <li><strong>Q40 - Q320</strong> arası hassas delik işleme ve profesyonel dolgu kaynağı</li>
+              <li><strong>Pim / Burç</strong> yerlerinde revizyon, genişletme ve tekrar ölçüye getirme</li>
+              <li><strong>Yerinde bakım</strong> ile sökme-takma ve nakliye kaynaklı zaman kaybını azaltma</li>
+              <li><strong>AutoCAD</strong> destekli teknik ölçülendirme ve teknik resme uygun iş akışı</li>
+            </ul>
+          </div>
+          <div class="proof-card">
+            <h3>Neden Sahada Yapıyoruz?</h3>
+            <ul class="proof-list">
+              <li><strong>Aşınma riski</strong> kule vinç, bom ve mafsal bölgelerinde delikler zamanla ovallaşabilir.</li>
+              <li><strong>Yerinde onarım</strong> büyük ve ağır parçaları depoya taşımadan revizyon imkânı sunar.</li>
+              <li><strong>Hizalama</strong> ve genişletme işlemleri, parçaların tekrar tam oturmasını sağlar.</li>
+              <li><strong>Kurumsal sahalar</strong> için belge sunumu ve teknik teklif dosyası hızlıca hazırlanır.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="belgeler">
+      <div class="container">
+        <div class="section-head">
+          <div class="eyebrow">Belgeler ve güven</div>
+          <h2>Teknik yetkinlik</h2>
+          <p>
+            Sertifikalar; mobil bakım, mekanik onarım, işaretçi-sapancı eğitimi, AutoCAD geliştirme ve köprülü vinç
+            operatörlüğü alanlarında resmi belge altyapısını temsil eder. Talep halinde teklif dosyasına eklenebilir.
+          </p>
+        </div>
+
+        <div class="cert-grid">
+          <div class="cert-card">
+            <div class="cert-top">
+              <div>
+                <h3>Ustalık Belgesi</h3>
+                <p>Makine Teknolojisi / Makine Bakım Onarım alanında düzenlenmiş resmi ustalık belgesi.</p>
+              </div>
+              <span class="pill">MEB Onaylı</span>
+            </div>
+            <p>Makine Bakım Onarım meslek dalı için 01.07.2021 tarihli ustalık belgesine dayalı uzmanlık.</p>
+            <a class="cert-link" href="assets/ustalik-belgesi.pdf" target="_blank">Belgeyi aç →</a>
+          </div>
+
+          <div class="cert-card">
+            <div class="cert-top">
+              <div>
+                <h3>İşaretçi ve Sapancı Eğitimi</h3>
+                <p>Tehlikeli ve Çok Tehlikeli İşlerde İşaretçi ve Sapancı Eğitimi.</p>
+              </div>
+              <span class="pill">40 Saat</span>
+            </div>
+            <p>Yük kaldırma, yönlendirme ve sapanlama gerektiren saha operasyonlarında güvenli çalışma altyapısı.</p>
+            <a class="cert-link" href="assets/sapanlama-sertifikasi.pdf" target="_blank">Belgeyi aç →</a>
+          </div>
+
+          <div class="cert-card">
+            <div class="cert-top">
+              <div>
+                <h3>AutoCAD Geliştirme ve Uyum Eğitimi</h3>
+                <p>Bilgisayar Destekli 2 Boyutlu Çizim - AutoCAD eğitimi.</p>
+              </div>
+              <span class="pill">64 Saat</span>
+            </div>
+            <p>Teknik çizim okuma ve ölçülendirmeyi sahadaki mekanik uygulamayla birleştiren çizim altyapısı.</p>
+            <a class="cert-link" href="assets/autocad-sertifikasi.pdf" target="_blank">Belgeyi aç →</a>
+          </div>
+
+          <div class="cert-card">
+            <div class="cert-top">
+              <div>
+                <h3>Vinç Operatörlüğü Belgesi</h3>
+                <p>Kaldırma Taşıma Raylı Sistem Köprülü Vinci Operatörü Yetiştirme Kursu.</p>
+              </div>
+              <span class="pill">Operatörlük</span>
+            </div>
+            <p>Köprülü vinç altyapısı, uzak kumandalı vinç deneyimi ve yüksek riskli sahalara uyum.</p>
+            <a class="cert-link" href="assets/vinc-operatorlugu.pdf" target="_blank">Belgeyi aç →</a>
+          </div>
+        </div>
+
+        <div class="section-head" style="margin-top:34px;">
+          <div class="eyebrow">Kurumsal dosyalar</div>
+          <h2>Teknik profil</h2>
+          <p>Kurumsal satın alma ve bakım ekipleri için hızlı paylaşılabilecek iki ek dosya burada yer alır.</p>
+        </div>
+
+        <div class="docs-grid">
+          <div class="doc-card">
+            <div class="doc-top">
+              <div>
+                <h3>İbrahim Sarı Teknik Profil</h3>
+                <p>23 yıllık Ereğli Demir ve Çelik tecrübesi, tesviye, universal torna-freze, CNC freze, vinç ve kalite kontrol geçmişi.</p>
+              </div>
+              <span class="pill">CV / Profil</span>
+            </div>
+            <a class="doc-link" href="assets/ibrahim-sari-teknik-profil.pdf" target="_blank">Teknik profili aç →</a>
+          </div>
+      </div>
+    </section>
+
+    <section class="section" id="galeri">
+      <div class="container">
+        <div class="section-head">
+          <div class="eyebrow">Uygulama örnekleri</div>
+          <h2>Sahadan gerçek işler: delik büyütme, pim yatağı yenileme, burç ve kaynak revizyonu</h2>
+          <p>
+            Aşağıdaki görseller, mobil borwerk uygulamalarının sahadaki gerçek örneklerini gösterir. Sarı ve lacivert kurumsal dil korunarak,
+            yapılan işlerin açık şekilde sergilenmesi için seçildi.
+          </p>
+        </div>
+
+        <div class="gallery-layout">
+          <div class="gallery-card">
+            <div class="gallery-image tall"><img src="assets/gallery-borwerk-1.jpg" alt="Yerinde delik işleme ve dolgu kaynağı uygulamaları" /></div>
+            <div class="gallery-body">
+              <h3>Yerinde Delik İşleme ve Kaynak Revizyonu</h3>
+              <p>Q40 - Q320 aralığındaki delik işleme, pim yatağı kaynak dolgusu, burç yeri hazırlama ve delik büyütme işlemleri tek sahada yönetilir.</p>
+              <div class="tag-row">
+                <span class="tag">Delik Büyütme</span>
+                <span class="tag">Pim Yeri İşleme</span>
+                <span class="tag">Burç Yuvası Revizyonu</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="gallery-column">
+            <div class="gallery-card">
+              <div class="gallery-image"><img src="assets/gallery-borwerk-2.jpg" alt="Mekanik işleme ve saha kurulum görselleri" /></div>
+              <div class="gallery-body">
+                <h3>Hassas Mekanik İşleme</h3>
+                <p>Ölçüye uygun işleme, mobil sistem kurulumu ve parça hizalama süreçleri görsel olarak sunulur.</p>
+              </div>
+            </div>
+            <div class="gallery-card">
+              <div class="gallery-body">
+                <h3>Saha Notu</h3>
+                <p>
+                  Büyük ve ağır parçalar için atölye taşımak yerine sahada in-situ işlem yapılması; kule vinç, iş makinesi ve fabrika hattı gibi kritik
+                  sistemlerde duruş süresini azaltır ve maliyet avantajı sağlar.
+                </p>
+                <div class="tag-row">
+                  <span class="tag">Şantiye</span>
+                  <span class="tag">Liman</span>
+                  <span class="tag">Tersane</span>
+                  <span class="tag">Fabrika</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <div class="eyebrow">İbrahim Sarı tecrübe özeti</div>
+          <h2>Yıllara yayılan tecrübeyi sahaya taşıyan teknik arka plan</h2>
+          <p>
+            Profil dosyasında yer alan deneyim ve yetkinlikler, Nova Borwerk markasının neden güven verdiğini gösterir. Bu bölüm, teknik kariyerin en güçlü yanlarını sade bir özet halinde sunar.
+          </p>
+        </div>
+        <div class="timeline-grid">
+          <div class="timeline-item">
+            <div class="date">1997 – 1999</div>
+            <strong>Ereğli Demir ve Çelik / Taşeron saha deneyimi</strong>
+            <p>Oksijenle metal kesicilik ve eleme tesisi bakım işleri ile başlayan ilk ağır sanayi pratiği.</p>
+          </div>
+          <div class="timeline-item">
+            <div class="date">2001 – 2023</div>
+            <strong>23 yıl Ereğli Demir ve Çelik tecrübesi</strong>
+            <p>Tesviye operatörlüğü, universal torna-freze, ölçü kontrol, kalite kontrol, CNC freze ve uzaktan kumandalı vinç operatörlüğü.</p>
+          </div>
+          <div class="timeline-item">
+            <div class="date">Teknik Yetkinlikler</div>
+            <strong>Operatörlükten çizime kadar geniş beceri seti</strong>
+            <p>Teknik resim okuma, ölçü aletleri kullanımı, AutoCAD 2D çizim, G kodları ile CNC programlama ve yüzeysel taşlama bilgisi.</p>
+          </div>
+          <div class="timeline-item">
+            <div class="date">Saha Güveni</div>
+            <strong>Belge + saha pratiği + mobil ekipman</strong>
+            <p>Ustalık belgesi, işaretçi-sapancı eğitimi, vinç operatörlüğü ve bakım-onarım altyapısı ile kurumsal sahalara uygun operasyon.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="marmara">
+      <div class="container">
+        <div class="section-head">
+          <div class="eyebrow">Hizmet ağı</div>
+          <h2>Marmara Bölgesi genelinde mobil saha erişimi</h2>
+          <p>
+            Avcılar merkez
+          </p>
+        </div>
+
+        <div class="coverage-wrap">
+          <div class="map-card">
+            <div class="map-visual">
+              <div class="shore"></div>
+              <div class="pin" style="top:19%; left:22%;">Avcılar / İstanbul</div>
+              <div class="city" style="top:22%; left:63%;">Kocaeli</div>
+              <div class="city" style="top:24%; left:83%;">Sakarya</div>
+              <div class="city" style="top:18%; left:51%;">Yalova</div>
+              <div class="city" style="top:48%; left:34%;">Bursa</div>
+              <div class="city" style="top:10%; left:5%;">Tekirdağ</div>
+              <div class="city" style="top:69%; left:49%;">Balıkesir</div>
+              <div class="city" style="top:78%; left:8%;">Çanakkale</div>
+            </div>
+            <div class="coverage-note">
+              <strong style="color:var(--gold); display:block; margin-bottom:6px;">Hizmet notu</strong>
+              Mobil araçla İstanbul, Avcılar merkezli çıkış yapılarak tüm Marmara Bölgesi'ne saha hizmeti sağlanır. Liman, tersane, fabrika ve iş makinesi sahalarına uygun saha çözümü sunulur.
+            </div>
+          </div>
+          <iframe class="map-frame" src="https://maps.google.com/maps?q=Avc%C4%B1lar%20Istanbul&t=&z=7&ie=UTF8&iwloc=&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="referanslar">
+      <div class="container">
+        <div class="section-head">
+          <div class="eyebrow">Referanslar</div>
+          <h2>Bizleri tercih etmiş firmalar</h2>
+          <p>
+            Hizmet sağladığımız ve işlem sağladığımız firmalar
+          </p>
+        </div>
+
+        <div class="references-grid">
+          <div class="reference-card">
+            <img class="reference-logo" src="assets/reference-dvm-mold.jpg" alt="DVM Mold logo" />
+            <h3>DVM Mold</h3>
+            <p>Çelik fabrikası</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="iletisim">
+      <div class="container">
+        <div class="contact-panel">
+          <div class="section-head" style="margin-bottom:24px; max-width:860px;">
+            <div class="eyebrow">İletişim</div>
+            <h2>Sahaya gelmemizi istiyorsanız doğrudan ulaşın</h2>
+            <p>
+              Delik işleme, dolgu kaynağı, pim-burç revizyonu, kurumsal teklif veya belge paylaşımı için bizimle hemen iletişime geçebilirsiniz.
+            </p>
+          </div>
+
+          <div class="contact-grid">
+            <div class="contact-card">
+              <strong>İbrahim Sarı</strong>
+              <p>Ana saha iletişimi</p>
+              <a href="tel:+905367128257">0536 712 82 57</a>
+            </div>
+            <div class="contact-card">
+              <strong>Ertuğrul Sarı</strong>
+              <p>İletişim / yönlendirme</p>
+              <a href="tel:+905070328880">0507 032 88 80</a>
+            </div>
+            <div class="contact-card">
+              <strong>E-posta</strong>
+              <p>Kurumsal dosya ve teklif gönderimi</p>
+              <a href="mailto:novaborwerk@gmail.com">novaborwerk@gmail.com</a>
+            </div>
+          </div>
+
+          <p class="subtle">Not: Talep halinde İSG belgeleri, vinç operatörlüğü belgesi ve ustalık belgesi teklif formuna eklenerek paylaşılabilir.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <a class="float-wa" href="https://wa.me/905367128257" target="_blank" rel="noopener">WhatsApp İletişim</a>
+
+  <footer>
+    <div class="container footer-inner">
+      <div>
+        <strong style="color:var(--text)"><span style="color:var(--gold)">NOVA</span> BORWERK</strong><br>
+        Mobil Teknik Çözümler · Avcılar / İstanbul · Tüm Marmara Bölgesi Servis
+      </div>
+      <div>© 2026 Nova Borwerk. Tüm hakları saklıdır.</div>
+    </div>
+  </footer>
+</body>
+</html>
