@@ -1,0 +1,3255 @@
+{
+  "generated_at": "2026-05-21T12:54:22Z",
+  "legal_note": "Images sourced from official manufacturer websites (gapkompresor.com, gaptools.net). Use for Nova Borwerk product catalog representation as authorized dealer/distributor. Verify licensing for commercial use.",
+  "sources": {
+    "gapkompresor.com": "https://www.gapkompresor.com",
+    "gaptools.net": "https://gaptools.net"
+  },
+  "products": {
+    "pistonlu-hava-kompresorleri-001-gp-50": {
+      "product_id": "pistonlu-hava-kompresorleri-001-gp-50",
+      "category_id": "pistonlu-hava-kompresorleri",
+      "title": "50 lt 8 Bar 2 Hp Pistonlu Hava Kompresörü - GP 50",
+      "model": "GP 50",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.932,
+      "source_page": "https://www.gapkompresor.com/tr/urun/50-lt-8-bar-2-hp-pistonlu-hava-kompresoru/1",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-001-gp-50-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0ba00169-38b6-4e6e-a37e-2e1eb55f1940.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-001-gp-50-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_5d8fe4a6-cc16-4459-a02d-d2b7c10e4308.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-001-gp-50-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_a9f41e69-149b-4a5d-8c84-c7670dc1b24f.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "pistonlu-hava-kompresorleri-002-gp-100": {
+      "product_id": "pistonlu-hava-kompresorleri-002-gp-100",
+      "category_id": "pistonlu-hava-kompresorleri",
+      "title": "100 lt 2 Kafa 8 Bar 2 Hp Pistonlu Hava Kompresörü - GP 100",
+      "model": "GP 100",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.933,
+      "source_page": "https://www.gapkompresor.com/tr/urun/100-lt-2-kafa-8-bar-2-hp-pistonlu-hava-kompresoru/3",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-002-gp-100-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_66a4e6bc-2a8f-4977-b35e-9d4c9d882629.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-002-gp-100-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_b23a021f-24eb-48a8-af84-fbf56962c058.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-002-gp-100-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_de1c1cd6-df8d-49eb-94c4-8c7a0e8d7a8b.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "pistonlu-hava-kompresorleri-004-gp-200": {
+      "product_id": "pistonlu-hava-kompresorleri-004-gp-200",
+      "category_id": "pistonlu-hava-kompresorleri",
+      "title": "200 lt 2 Kafa 8 Bar 3 Hp Pistonlu Hava Kompresörü - GP 200",
+      "model": "GP 200",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.933,
+      "source_page": "https://www.gapkompresor.com/tr/urun/200-lt-2-kafa-8-bar-3-hp-pistonlu-hava-kompresoru/4",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-004-gp-200-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_476f82f9-04cd-4a98-9dc5-affe96404e81.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-004-gp-200-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_a9a6f0e5-f990-4d68-8f1a-3a9bcd795308.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-004-gp-200-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_d71b9c5a-1944-415d-a9cd-4296086ad182.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "pistonlu-hava-kompresorleri-005-gp-290": {
+      "product_id": "pistonlu-hava-kompresorleri-005-gp-290",
+      "category_id": "pistonlu-hava-kompresorleri",
+      "title": "300 lt 2 Kafa 8 Bar 5.5 Hp Pistonlu Hava Kompresörü - GP 290",
+      "model": "GP 290",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.936,
+      "source_page": "https://www.gapkompresor.com/tr/urun/300-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru/5",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-005-gp-290-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_55f0729e-f5f7-44c4-8996-929c4d59e5f5.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-005-gp-290-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_63e6d6ab-107d-47e9-b174-e616d5712adc.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-005-gp-290-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_a52144d9-b35e-413f-9c73-811e91475bb1.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "pistonlu-hava-kompresorleri-007-300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru": {
+      "product_id": "pistonlu-hava-kompresorleri-007-300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru",
+      "category_id": "pistonlu-hava-kompresorleri",
+      "title": "300 lt 2 Kafa 12 Bar 5.5 Hp Pistonlu Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru/2",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-007-300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_1f4344f7-1b86-44fd-b610-46ebe2c29539.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-007-300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_e8a211cf-9a7b-448e-b361-4a35a6de1286.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-007-300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_fe1e91d6-261d-49c3-9ee0-42cd3488b046.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "pistonlu-hava-kompresorleri-008-500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru": {
+      "product_id": "pistonlu-hava-kompresorleri-008-500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru",
+      "category_id": "pistonlu-hava-kompresorleri",
+      "title": "500 lt 2 Kafa 8 Bar 5.5 Hp Pistonlu Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru/6",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-008-500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_4b484a2e-15f4-488c-bc3b-1709c78009c4.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-008-500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_b979711f-812c-4a53-9a2c-9cc7201fa1e8.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-008-500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_de9fd497-7921-4b78-8f0a-cbf84f78975a.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "pistonlu-hava-kompresorleri-010-gp-390": {
+      "product_id": "pistonlu-hava-kompresorleri-010-gp-390",
+      "category_id": "pistonlu-hava-kompresorleri",
+      "title": "500 lt 3 Kafa 8 Bar 10 Hp Pistonlu Hava Kompresörü - GP 390",
+      "model": "GP 390",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.935,
+      "source_page": "https://www.gapkompresor.com/tr/urun/500-lt-3-kafa-8-bar-10-hp-pistonlu-hava-kompresoru/7",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-010-gp-390-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_b2c88b13-b12e-40f0-b736-a519e50be39e.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-010-gp-390-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_bb2afc4e-46f3-4f5e-9fa7-5cfb4639ec28.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-010-gp-390-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_d6154cb4-83cc-4ef6-825b-eca8de414050.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "pistonlu-hava-kompresorleri-011-500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru": {
+      "product_id": "pistonlu-hava-kompresorleri-011-500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru",
+      "category_id": "pistonlu-hava-kompresorleri",
+      "title": "500 lt 3 Kafa 12 Bar 10 Hp Pistonlu Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru/8",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-011-500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_268c82c9-b3b0-428d-be9d-2914f531e62f.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-011-500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_9281da9b-781e-4c20-a81c-57aff1f70235.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-011-500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_a33ed939-834c-492e-ab8c-60a573611eef.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "pistonlu-hava-kompresorleri-013-gp-600": {
+      "product_id": "pistonlu-hava-kompresorleri-013-gp-600",
+      "category_id": "pistonlu-hava-kompresorleri",
+      "title": "600 lt 3 Kafa 8 Bar 10 Hp Pistonlu Hava Kompresörü - GP 600",
+      "model": "GP 600",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.935,
+      "source_page": "https://www.gapkompresor.com/tr/urun/600-lt-3-kafa-8-bar-10-hp-pistonlu-hava-kompresoru/9",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-013-gp-600-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0a17456f-24af-4e7e-96b8-6b4a6d400f44.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-013-gp-600-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_5ed87001-2230-4880-9cb7-40070b7a89a0.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-013-gp-600-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_c7705e3a-1ae7-41b6-98eb-eab6c2429bfb.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "pistonlu-hava-kompresorleri-014-600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru": {
+      "product_id": "pistonlu-hava-kompresorleri-014-600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru",
+      "category_id": "pistonlu-hava-kompresorleri",
+      "title": "600 lt 3 Kafa 12 Bar 10 Hp Pistonlu Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru/10",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-014-600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_1f1cf5b6-2083-47a7-bbca-a55a767b8e0f.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-014-600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_4598af44-0ce7-488e-aecf-ac3ef9045b0b.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-014-600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f329cb62-79ba-46d1-88f3-553c5fe24a8e.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sessiz-ve-yagsiz-hava-kompresorleri-001-gps-750": {
+      "product_id": "sessiz-ve-yagsiz-hava-kompresorleri-001-gps-750",
+      "category_id": "sessiz-ve-yagsiz-hava-kompresorleri",
+      "title": "50 lt Sessiz ve Yağsız Hava Kompresörü - GPS 750",
+      "model": "GPS 750",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.905,
+      "source_page": "https://www.gapkompresor.com/tr/urun/50-lt-sessiz-ve-yagsiz-hava-kompresoru/33",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-001-gps-750-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_595418c3-636d-462f-8cb7-176ce2896176.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-001-gps-750-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_b2b501e9-20be-4a13-aeff-e24ba64f8c0c.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-001-gps-750-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_fbeb5612-c092-4db2-a36d-54ed3c58b21b.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sessiz-ve-yagsiz-hava-kompresorleri-004-gps-750x2": {
+      "product_id": "sessiz-ve-yagsiz-hava-kompresorleri-004-gps-750x2",
+      "category_id": "sessiz-ve-yagsiz-hava-kompresorleri",
+      "title": "50 lt Sessiz ve Yağsız Hava Kompresörü - GPS 750x2",
+      "model": "GPS 750X2",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.884,
+      "source_page": "https://www.gapkompresor.com/tr/urun/50-lt-sessiz-ve-yagsiz-hava-kompresoru/33",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-004-gps-750x2-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_595418c3-636d-462f-8cb7-176ce2896176.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-004-gps-750x2-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_b2b501e9-20be-4a13-aeff-e24ba64f8c0c.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-004-gps-750x2-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_fbeb5612-c092-4db2-a36d-54ed3c58b21b.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sessiz-ve-yagsiz-hava-kompresorleri-005-gps-750x3": {
+      "product_id": "sessiz-ve-yagsiz-hava-kompresorleri-005-gps-750x3",
+      "category_id": "sessiz-ve-yagsiz-hava-kompresorleri",
+      "title": "100 lt Sessiz ve Yağsız Hava Kompresörü - GPS 750x3",
+      "model": "GPS 750X3",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.886,
+      "source_page": "https://www.gapkompresor.com/tr/urun/100-lt-sessiz-ve-yagsiz-hava-kompresoru/38",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-005-gps-750x3-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_757a7395-cc57-4d2c-bb65-b2b2829aa372.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-005-gps-750x3-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_cd1c962c-6866-4806-8d8b-e4205a99dcf5.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-005-gps-750x3-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_df358857-af6d-4e5b-838f-6c4f91d0a46c.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sessiz-ve-yagsiz-hava-kompresorleri-007-gps-1100x3": {
+      "product_id": "sessiz-ve-yagsiz-hava-kompresorleri-007-gps-1100x3",
+      "category_id": "sessiz-ve-yagsiz-hava-kompresorleri",
+      "title": "100 lt Sessiz ve Yağsız Hava Kompresörü - GPS 1100x3",
+      "model": "GPS 1100X3",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.876,
+      "source_page": "https://www.gapkompresor.com/tr/urun/100-lt-sessiz-ve-yagsiz-hava-kompresoru/38",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-007-gps-1100x3-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_757a7395-cc57-4d2c-bb65-b2b2829aa372.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-007-gps-1100x3-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_cd1c962c-6866-4806-8d8b-e4205a99dcf5.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-007-gps-1100x3-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_df358857-af6d-4e5b-838f-6c4f91d0a46c.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sessiz-ve-yagsiz-hava-kompresorleri-008-200-lt-sessiz-ve-yagsiz-hava-kompresoru": {
+      "product_id": "sessiz-ve-yagsiz-hava-kompresorleri-008-200-lt-sessiz-ve-yagsiz-hava-kompresoru",
+      "category_id": "sessiz-ve-yagsiz-hava-kompresorleri",
+      "title": "200 lt Sessiz ve Yağsız Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/200-lt-sessiz-ve-yagsiz-hava-kompresoru/36",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-008-200-lt-sessiz-ve-yagsiz-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_06ad855d-07f1-463a-bd6c-b1f1d2e8cc9b.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-008-200-lt-sessiz-ve-yagsiz-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0fc2c062-82e3-4d81-a739-45d8cea1c6a1.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-008-200-lt-sessiz-ve-yagsiz-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_ee7b6c8b-13ce-4f47-ab1e-d2c8386401e6.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sessiz-ve-yagsiz-hava-kompresorleri-010-gps-750x4": {
+      "product_id": "sessiz-ve-yagsiz-hava-kompresorleri-010-gps-750x4",
+      "category_id": "sessiz-ve-yagsiz-hava-kompresorleri",
+      "title": "200 lt Sessiz ve Yağsız Hava Kompresörü - GPS 750x4",
+      "model": "GPS 750X4",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.886,
+      "source_page": "https://www.gapkompresor.com/tr/urun/200-lt-sessiz-ve-yagsiz-hava-kompresoru/36",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-010-gps-750x4-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_06ad855d-07f1-463a-bd6c-b1f1d2e8cc9b.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-010-gps-750x4-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0fc2c062-82e3-4d81-a739-45d8cea1c6a1.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-010-gps-750x4-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_ee7b6c8b-13ce-4f47-ab1e-d2c8386401e6.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sessiz-ve-yagsiz-hava-kompresorleri-011-gps-1100x4": {
+      "product_id": "sessiz-ve-yagsiz-hava-kompresorleri-011-gps-1100x4",
+      "category_id": "sessiz-ve-yagsiz-hava-kompresorleri",
+      "title": "220 lt Sessiz ve Yağsız Hava Kompresörü - GPS 1100x4",
+      "model": "GPS 1100X4",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.876,
+      "source_page": "https://www.gapkompresor.com/tr/urun/220-lt-sessiz-ve-yagsiz-hava-kompresoru/39",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-011-gps-1100x4-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_bf0113ca-338f-4930-ab7d-77cfd5d5bd98.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-011-gps-1100x4-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_ed57c63a-f21e-44ca-8b01-205d50e0ba27.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-011-gps-1100x4-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f3222ffb-a2b5-4735-9c24-0c2d4f28b84a.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sessiz-ve-yagsiz-hava-kompresorleri-013-gps-1100x6": {
+      "product_id": "sessiz-ve-yagsiz-hava-kompresorleri-013-gps-1100x6",
+      "category_id": "sessiz-ve-yagsiz-hava-kompresorleri",
+      "title": "300 lt Sessiz ve Yağsız Hava Kompresörü - GPS 1100x6",
+      "model": "GPS 1100X6",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.876,
+      "source_page": "https://www.gapkompresor.com/tr/urun/300-lt-sessiz-ve-yagsiz-hava-kompresoru/40",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-013-gps-1100x6-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_165451f1-77a9-49a9-9390-4cfa505442b9.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-013-gps-1100x6-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_a8273900-9844-4f92-8a6c-10a51e4686b1.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-013-gps-1100x6-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_b79b0fd5-b447-41a1-928d-0a549ae9b276.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sessiz-ve-yagsiz-hava-kompresorleri-014-gps-1500x6": {
+      "product_id": "sessiz-ve-yagsiz-hava-kompresorleri-014-gps-1500x6",
+      "category_id": "sessiz-ve-yagsiz-hava-kompresorleri",
+      "title": "500 lt Sessiz ve Yağsız Hava Kompresörü - GPS 1500x6",
+      "model": "GPS 1500X6",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.876,
+      "source_page": "https://www.gapkompresor.com/tr/urun/500-lt-sessiz-ve-yagsiz-hava-kompresoru/41",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-014-gps-1500x6-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_27677f23-fcd9-4dae-b48f-2b291b8e3d57.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-014-gps-1500x6-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_344b7cb3-fadd-4dd7-a2f9-d9b56e84caf4.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-014-gps-1500x6-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_70d6e983-9664-4b69-92b2-ac3f2b4cbabb.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "yuksek-emisli-yagsiz-kompresorler-001-gpy-1500": {
+      "product_id": "yuksek-emisli-yagsiz-kompresorler-001-gpy-1500",
+      "category_id": "yuksek-emisli-yagsiz-kompresorler",
+      "title": "50 lt Yüksek Emişli Yağsız Teknoloji Hava Kompresörü - GPY 1500",
+      "model": "GPY 1500",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.92,
+      "source_page": "https://www.gapkompresor.com/tr/urun/50-lt-yuksek-emisli-yagsiz-teknoloji-hava-kompresoru/43",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-001-gpy-1500-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_568cec06-eb7c-47a7-bb02-ede879b190af.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-001-gpy-1500-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_6c185c85-8a35-405c-9891-5c96ce84e7a7.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-001-gpy-1500-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f13f444e-8de2-481f-9396-48f10445547b.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "yuksek-emisli-yagsiz-kompresorler-004-gpy-1500x2": {
+      "product_id": "yuksek-emisli-yagsiz-kompresorler-004-gpy-1500x2",
+      "category_id": "yuksek-emisli-yagsiz-kompresorler",
+      "title": "100 lt Yüksek Emişli Yağsız Teknoloji Hava Kompresörü - GPY 1500x2",
+      "model": "GPY 1500X2",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.906,
+      "source_page": "https://www.gapkompresor.com/tr/urun/100-lt-yuksek-emisli-yagsiz-teknoloji-hava-kompresoru/45",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-004-gpy-1500x2-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0f68f750-0f14-4b35-befb-d68fe0187612.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-004-gpy-1500x2-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_4c6b13a5-8757-4329-8aa5-3c8c76827f92.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-004-gpy-1500x2-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f43a2f6b-cb58-42b4-83c4-11cf80870e71.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "yuksek-emisli-yagsiz-kompresorler-008-gpy-1500x4": {
+      "product_id": "yuksek-emisli-yagsiz-kompresorler-008-gpy-1500x4",
+      "category_id": "yuksek-emisli-yagsiz-kompresorler",
+      "title": "200 lt Yüksek Emişli Yağsız Teknoloji Hava Kompresörü - GPY 1500x4",
+      "model": "GPY 1500X4",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.906,
+      "source_page": "https://www.gapkompresor.com/tr/urun/200-lt-yuksek-emisli-yagsiz-teknoloji-hava-kompresoru/47",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-008-gpy-1500x4-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_03aee46f-5e3b-400e-80b3-0862862bd3dc.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-008-gpy-1500x4-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_a1a2fd45-232c-433b-a37c-e606487cf48c.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-008-gpy-1500x4-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f7eceae7-eb98-4980-94d0-50e02824c434.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "yuksek-emisli-yagsiz-kompresorler-014-cift-piston-8-bar-kompresor-kafasi": {
+      "product_id": "yuksek-emisli-yagsiz-kompresorler-014-cift-piston-8-bar-kompresor-kafasi",
+      "category_id": "yuksek-emisli-yagsiz-kompresorler",
+      "title": "Çift Piston 8 Bar Kompresör Kafası",
+      "model": "",
+      "status": "no_match",
+      "match_method": "none",
+      "match_score": 0.0,
+      "source_page": null,
+      "source_name": null,
+      "images": []
+    },
+    "yuksek-emisli-yagsiz-kompresorler-015-cift-piston-12-bar-kompresor-kafasi": {
+      "product_id": "yuksek-emisli-yagsiz-kompresorler-015-cift-piston-12-bar-kompresor-kafasi",
+      "category_id": "yuksek-emisli-yagsiz-kompresorler",
+      "title": "Çift Piston 12 Bar Kompresör Kafası",
+      "model": "",
+      "status": "no_match",
+      "match_method": "none",
+      "match_score": 0.0,
+      "source_page": null,
+      "source_name": null,
+      "images": []
+    },
+    "yuksek-emisli-yagsiz-kompresorler-017-uc-piston-12-bar-kompresor-kafasi": {
+      "product_id": "yuksek-emisli-yagsiz-kompresorler-017-uc-piston-12-bar-kompresor-kafasi",
+      "category_id": "yuksek-emisli-yagsiz-kompresorler",
+      "title": "Üç Piston 12 Bar Kompresör Kafası",
+      "model": "",
+      "status": "no_match",
+      "match_method": "none",
+      "match_score": 0.0,
+      "source_page": null,
+      "source_name": null,
+      "images": []
+    },
+    "yuksek-emisli-yagsiz-kompresorler-020-100-litre-hava-tanki-ile-kullanima-uygun": {
+      "product_id": "yuksek-emisli-yagsiz-kompresorler-020-100-litre-hava-tanki-ile-kullanima-uygun",
+      "category_id": "yuksek-emisli-yagsiz-kompresorler",
+      "title": "100 Litre hava tankı ile kullanıma uygun",
+      "model": "",
+      "status": "no_match",
+      "match_method": "none",
+      "match_score": 0.0,
+      "source_page": null,
+      "source_name": null,
+      "images": []
+    },
+    "yuksek-emisli-yagsiz-kompresorler-023-500-litre-hava-tanki-ile-kullanimina-uygun": {
+      "product_id": "yuksek-emisli-yagsiz-kompresorler-023-500-litre-hava-tanki-ile-kullanimina-uygun",
+      "category_id": "yuksek-emisli-yagsiz-kompresorler",
+      "title": "500 Litre hava tankı ile kullanımına uygun",
+      "model": "",
+      "status": "no_match",
+      "match_method": "none",
+      "match_score": 0.0,
+      "source_page": null,
+      "source_name": null,
+      "images": []
+    },
+    "vidali-hava-kompresorleri-001-10-hp-500-lt-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-001-10-hp-500-lt-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "10 Hp 500 lt Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.885,
+      "source_page": "https://www.gapkompresor.com/tr/urun/10-hp-vidali-hava-kompresoru/11",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-001-10-hp-500-lt-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_43322ccb-60a2-422f-93c3-d603ce218bb4.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-001-10-hp-500-lt-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_78b74208-d67b-4861-8108-f731dc21deb6.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-001-10-hp-500-lt-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_d32972cb-e131-4259-a065-540155878106.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-002-gphk-1200": {
+      "product_id": "vidali-hava-kompresorleri-002-gphk-1200",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 1200",
+      "model": "GPHK 1200",
+      "status": "downloaded",
+      "match_method": "model:GPHK-1200",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/1200luk-hava-kurutucu/48",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-002-gphk-1200-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_064b529e-c40e-4169-85cc-fbd06ca00746.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-004-15-hp-500-lt-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-004-15-hp-500-lt-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "15 Hp 500 lt Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.885,
+      "source_page": "https://www.gapkompresor.com/tr/urun/15-hp-vidali-hava-kompresoru/12",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-004-15-hp-500-lt-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_16bdc00f-ef78-4582-8f79-fe65de8e9f32.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-004-15-hp-500-lt-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_1b8f7114-218b-49bf-b7db-eb9fd3cc1d33.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-004-15-hp-500-lt-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_fd69a317-30fe-4c24-b07e-c0759ded1961.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-005-gphk-1800": {
+      "product_id": "vidali-hava-kompresorleri-005-gphk-1800",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 1800",
+      "model": "GPHK 1800",
+      "status": "downloaded",
+      "match_method": "model:GPHK 1800",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/1800luk-hava-kurutucu/49",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-005-gphk-1800-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_7e53abe4-ee31-40bf-b8c9-db716e4a275e.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-007-20-hp-1000-lt-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-007-20-hp-1000-lt-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "20 Hp 1000 lt Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.871,
+      "source_page": "https://www.gapkompresor.com/tr/urun/20-hp-vidali-hava-kompresoru/13",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-007-20-hp-1000-lt-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_3e75131b-4344-4c23-9d1d-6e24096ceb7b.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-007-20-hp-1000-lt-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_d3572334-ac94-4448-9671-7c98e6b523a3.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-007-20-hp-1000-lt-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_e74149b8-ea01-41e8-9eb2-5618a1a60ed0.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-008-gphk-2600": {
+      "product_id": "vidali-hava-kompresorleri-008-gphk-2600",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 2600",
+      "model": "GPHK 2600",
+      "status": "downloaded",
+      "match_method": "model:GPHK2600",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/2600luk-hava-kurutucu/50",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-008-gphk-2600-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0db2b01f-b543-46f8-ac7d-099777968352.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-010-30-hp-1000-lt-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-010-30-hp-1000-lt-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "30 Hp 1000 lt Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.871,
+      "source_page": "https://www.gapkompresor.com/tr/urun/30-hp-vidali-hava-kompresoru/14",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-010-30-hp-1000-lt-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_74fa97e5-47bc-4413-9feb-291d77ca7385.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-010-30-hp-1000-lt-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_c1583188-d74e-4b36-82ae-7e1d6ff045a7.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-010-30-hp-1000-lt-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_dffb2c0b-4c26-4cd1-812f-e436d0e08437.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-011-gphk-3700": {
+      "product_id": "vidali-hava-kompresorleri-011-gphk-3700",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 3700",
+      "model": "GPHK 3700",
+      "status": "downloaded",
+      "match_method": "model:GPHK3700",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/3700luk-hava-kurutucu/51",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-011-gphk-3700-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_288ec376-e864-4739-a734-157714c3ff6f.png",
+          "width": 1919,
+          "height": 1280
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-013-50-hp-1000-lt-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-013-50-hp-1000-lt-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "50 Hp 1000 lt Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.871,
+      "source_page": "https://www.gapkompresor.com/tr/urun/50-hp-vidali-hava-kompresoru/15",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-013-50-hp-1000-lt-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_45ede511-8559-4344-a6e9-78fe5d0597c2.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-013-50-hp-1000-lt-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_80d77335-debf-450f-bcd1-d0894e60ae4a.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-013-50-hp-1000-lt-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_fdd3a4a5-0106-4d73-ac8f-2600daae8058.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-014-gphk-6500": {
+      "product_id": "vidali-hava-kompresorleri-014-gphk-6500",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 6500",
+      "model": "GPHK 6500",
+      "status": "downloaded",
+      "match_method": "model:GPHK6500",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/6500luk-hava-kurutucu/52",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-014-gphk-6500-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f335837f-28e1-40c6-b249-f214e6d172f3.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-014-gphk-6500-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f9849dc8-ce41-45f4-be5c-29cef630ca62.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-024-10-hp-500-lt-depo-ustu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-024-10-hp-500-lt-depo-ustu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "10 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/10-hp-500-lt-depo-ustu-vidali-hava-kompresoru/23",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-024-10-hp-500-lt-depo-ustu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0b9198e4-0d10-48c9-885d-466a2105e059.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-024-10-hp-500-lt-depo-ustu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_3896dc6c-752a-499f-9e85-c1d1a0339bb7.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-024-10-hp-500-lt-depo-ustu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_49f0cb20-c69b-4104-b953-f5ec211f1ec7.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-025-15-hp-500-lt-depo-ustu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-025-15-hp-500-lt-depo-ustu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "15 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/15-hp-500-lt-depo-ustu-vidali-hava-kompresoru/24",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-025-15-hp-500-lt-depo-ustu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0725e417-5bcb-4c61-9a08-fb8458aebba6.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-025-15-hp-500-lt-depo-ustu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_7de2d317-d30f-4e82-8779-820ef5a657c4.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-025-15-hp-500-lt-depo-ustu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_c89be7cd-1880-4077-b0e7-766598d52bad.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-027-20-hp-500-lt-depo-ustu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-027-20-hp-500-lt-depo-ustu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "20 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/20-hp-500-lt-depo-ustu-vidali-hava-kompresoru/25",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-027-20-hp-500-lt-depo-ustu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_66300c38-ae9c-4ee5-87f5-a1c11ff20a6a.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-027-20-hp-500-lt-depo-ustu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_bc49d4a0-0491-4ff1-b9af-37c269f689dc.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-027-20-hp-500-lt-depo-ustu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_d59399a8-0317-419e-83c0-52bac39b85c4.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-030-10-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-030-10-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "10 Hp 500 lt İnvertörlü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.928,
+      "source_page": "https://www.gapkompresor.com/tr/urun/16-bar-20-hp-500-lt-invertorlu-vidali-hava-kompresoru/29",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-030-10-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_a2975c58-461f-4983-b7ab-9fa5eeedd697.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-030-10-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_bb064ab0-ab37-4acb-9567-f2128d999082.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-030-10-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_cc43b8eb-d567-4085-b935-572ec89072d7.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-031-gphk-1200": {
+      "product_id": "vidali-hava-kompresorleri-031-gphk-1200",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 1200",
+      "model": "GPHK 1200",
+      "status": "downloaded",
+      "match_method": "model:GPHK-1200",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/1200luk-hava-kurutucu/48",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-031-gphk-1200-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_064b529e-c40e-4169-85cc-fbd06ca00746.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-033-15-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-033-15-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "15 Hp 500 lt İnvertörlü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.916,
+      "source_page": "https://www.gapkompresor.com/tr/urun/15-hp-invertorlu-vidali-hava-kompresoru/17",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-033-15-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_27bf11a4-f91d-4425-8165-f75296eccf19.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-033-15-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_75c9c22d-85d6-4fc3-87d8-b4cc3e079f59.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-033-15-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_da001ac3-0311-4c14-885d-652f967c928a.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-034-gphk-1800": {
+      "product_id": "vidali-hava-kompresorleri-034-gphk-1800",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 1800",
+      "model": "GPHK 1800",
+      "status": "downloaded",
+      "match_method": "model:GPHK 1800",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/1800luk-hava-kurutucu/49",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-034-gphk-1800-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_7e53abe4-ee31-40bf-b8c9-db716e4a275e.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-036-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-036-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "20 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.909,
+      "source_page": "https://www.gapkompresor.com/tr/urun/16-bar-50-hp-1000-lt-invertorlu-vidali-hava-kompresoru/31",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-036-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_c82ad13e-9937-40dd-a1a7-8eb02c080728.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-036-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f9ba9dc4-a576-4b43-9474-7508a9824e0e.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-036-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_ffd1d88a-c79f-48a9-b101-cb1d4ee48bc6.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-037-gphk-2600": {
+      "product_id": "vidali-hava-kompresorleri-037-gphk-2600",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 2600",
+      "model": "GPHK 2600",
+      "status": "downloaded",
+      "match_method": "model:GPHK2600",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/2600luk-hava-kurutucu/50",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-037-gphk-2600-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0db2b01f-b543-46f8-ac7d-099777968352.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-039-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-039-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "30 Hp 1000 lt İnvertörlü  Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.929,
+      "source_page": "https://www.gapkompresor.com/tr/urun/16-bar-30-hp-1000-lt-invertorlu-vidali-hava-kompresoru/30",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-039-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_19e8e24b-9e4b-4cb1-9e9f-1f2f2c42c3a2.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-039-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_315f52de-d53b-43a1-82c2-cda2d2c9ac6c.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-039-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_bb58f407-3eb6-45e0-ac41-66b39a2ccb37.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-040-gphk-3700": {
+      "product_id": "vidali-hava-kompresorleri-040-gphk-3700",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 3700",
+      "model": "GPHK 3700",
+      "status": "downloaded",
+      "match_method": "model:GPHK3700",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/3700luk-hava-kurutucu/51",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-040-gphk-3700-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_288ec376-e864-4739-a734-157714c3ff6f.png",
+          "width": 1919,
+          "height": 1280
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-042-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-042-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "50 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.929,
+      "source_page": "https://www.gapkompresor.com/tr/urun/16-bar-50-hp-1000-lt-invertorlu-vidali-hava-kompresoru/31",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-042-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_c82ad13e-9937-40dd-a1a7-8eb02c080728.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-042-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f9ba9dc4-a576-4b43-9474-7508a9824e0e.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-042-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_ffd1d88a-c79f-48a9-b101-cb1d4ee48bc6.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-043-gphk-6500": {
+      "product_id": "vidali-hava-kompresorleri-043-gphk-6500",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 6500",
+      "model": "GPHK 6500",
+      "status": "downloaded",
+      "match_method": "model:GPHK6500",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/6500luk-hava-kurutucu/52",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-043-gphk-6500-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f335837f-28e1-40c6-b249-f214e6d172f3.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-043-gphk-6500-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f9849dc8-ce41-45f4-be5c-29cef630ca62.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-045-75-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-045-75-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "75 Hp 2000 lt İnvertörlü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.905,
+      "source_page": "https://www.gapkompresor.com/tr/urun/75-hp-invertorlu-vidali-hava-kompresoru/21",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-045-75-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_65ba1081-1fd3-4dae-800a-d8d48c3a6af4.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-045-75-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_a0446ce6-2641-4a1f-9e13-f2c6a4ef5bf3.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-045-75-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_bc5eab1c-20e7-4653-90fa-b14db29d2537.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-046-gphk-11000": {
+      "product_id": "vidali-hava-kompresorleri-046-gphk-11000",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 11000",
+      "model": "GPHK 11000",
+      "status": "downloaded",
+      "match_method": "model:GPHK-11000",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/11000luk-hava-kurutucu/53",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-046-gphk-11000-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0a8376d9-e68b-4654-8212-8d5243568d35.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-046-gphk-11000-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_179a0c3a-d77e-4785-882b-77aba1d061b6.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-048-100-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-048-100-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "100 Hp 2000 lt İnvertörlü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.907,
+      "source_page": "https://www.gapkompresor.com/tr/urun/100-hp-invertorlu-vidali-hava-kompresoru/22",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-048-100-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0bdbd439-c09d-47e2-b9a5-632b3df7d3a8.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-048-100-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_648f2f74-4bb3-438d-9467-238a58e775a0.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-048-100-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_e6066022-bea5-4cff-ac5d-31b5ff07798c.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-049-gphk-13000": {
+      "product_id": "vidali-hava-kompresorleri-049-gphk-13000",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 13000",
+      "model": "GPHK 13000",
+      "status": "downloaded",
+      "match_method": "model:GPHK 13000",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/13000luk-hava-kurutucu/54",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-049-gphk-13000-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_81330e75-ed60-4257-bf7c-c5ed87c086bb.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-049-gphk-13000-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_e7664004-99c7-4bdc-a328-69eecb15f6ec.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-059-10-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-059-10-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "10 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/10-hp-500-lt-depo-ustu-invertorlu-vidali-hava-kompresoru/26",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-059-10-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_01f70e82-fb8e-4011-aca5-e866c9cb0297.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-059-10-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_6c14749d-7d59-46bf-87c1-b7fc7cf08647.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-059-10-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f3f18f80-4aed-46d6-aba4-6773df381351.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-060-15-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-060-15-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "15 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/15-hp-500-lt-depo-ustu-invertorlu-vidali-hava-kompresoru/27",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-060-15-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_30bbf13d-edcd-4fcc-8fbe-a212961bc7eb.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-060-15-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_e9bb594d-7c49-45d2-b7ce-e514e6f0a500.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-060-15-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_fa0f46c7-b09d-4cf1-979d-694c03617beb.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-062-20-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-062-20-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "20 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/20-hp-500-lt-depo-ustu-invertorlu-vidali-hava-kompresoru/28",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-062-20-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_25a60de4-de6c-47ee-8f54-e4bcbfe586d5.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-062-20-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_90d84e17-14b4-4c50-8aa5-caa1c3b22c71.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-062-20-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_938532cd-3b80-4484-986e-09151caca272.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-065-16-bar-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-065-16-bar-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "16 Bar 20 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.981,
+      "source_page": "https://www.gapkompresor.com/tr/urun/16-bar-50-hp-1000-lt-invertorlu-vidali-hava-kompresoru/31",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-065-16-bar-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_c82ad13e-9937-40dd-a1a7-8eb02c080728.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-065-16-bar-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f9ba9dc4-a576-4b43-9474-7508a9824e0e.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-065-16-bar-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_ffd1d88a-c79f-48a9-b101-cb1d4ee48bc6.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-066-gphk-1800": {
+      "product_id": "vidali-hava-kompresorleri-066-gphk-1800",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 1800",
+      "model": "GPHK 1800",
+      "status": "downloaded",
+      "match_method": "model:GPHK 1800",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/1800luk-hava-kurutucu/49",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-066-gphk-1800-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_7e53abe4-ee31-40bf-b8c9-db716e4a275e.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-068-16-bar-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-068-16-bar-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "16 Bar 30 Hp 1000 lt İnvertörlü  Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/16-bar-30-hp-1000-lt-invertorlu-vidali-hava-kompresoru/30",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-068-16-bar-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_19e8e24b-9e4b-4cb1-9e9f-1f2f2c42c3a2.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-068-16-bar-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_315f52de-d53b-43a1-82c2-cda2d2c9ac6c.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-068-16-bar-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_bb58f407-3eb6-45e0-ac41-66b39a2ccb37.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-069-gphk-2600": {
+      "product_id": "vidali-hava-kompresorleri-069-gphk-2600",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 2600",
+      "model": "GPHK 2600",
+      "status": "downloaded",
+      "match_method": "model:GPHK2600",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/2600luk-hava-kurutucu/50",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-069-gphk-2600-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0db2b01f-b543-46f8-ac7d-099777968352.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-071-16-bar-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru": {
+      "product_id": "vidali-hava-kompresorleri-071-16-bar-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "16 Bar 50 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/16-bar-50-hp-1000-lt-invertorlu-vidali-hava-kompresoru/31",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-071-16-bar-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_c82ad13e-9937-40dd-a1a7-8eb02c080728.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-071-16-bar-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_f9ba9dc4-a576-4b43-9474-7508a9824e0e.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-071-16-bar-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_ffd1d88a-c79f-48a9-b101-cb1d4ee48bc6.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vidali-hava-kompresorleri-072-gphk-3700": {
+      "product_id": "vidali-hava-kompresorleri-072-gphk-3700",
+      "category_id": "vidali-hava-kompresorleri",
+      "title": "GPHK 3700",
+      "model": "GPHK 3700",
+      "status": "downloaded",
+      "match_method": "model:GPHK3700",
+      "match_score": 1.0,
+      "source_page": "https://www.gapkompresor.com/tr/urun/3700luk-hava-kurutucu/51",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-072-gphk-3700-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_288ec376-e864-4739-a734-157714c3ff6f.png",
+          "width": 1919,
+          "height": 1280
+        }
+      ]
+    },
+    "hava-kurutucu-ve-filtreler-001-gpdk": {
+      "product_id": "hava-kurutucu-ve-filtreler-001-gpdk",
+      "category_id": "hava-kurutucu-ve-filtreler",
+      "title": "Alüminyum Gövdeli Kimyasal Hava Kurutucuları - GPDK 1800/2600/3700",
+      "model": "GPDK",
+      "status": "no_match",
+      "match_method": "none",
+      "match_score": 0.0,
+      "source_page": null,
+      "source_name": null,
+      "images": []
+    },
+    "hava-kurutucu-ve-filtreler-002-gpac": {
+      "product_id": "hava-kurutucu-ve-filtreler-002-gpac",
+      "category_id": "hava-kurutucu-ve-filtreler",
+      "title": "Alüminyum Gövdeli Aktif Karbon Kuleleri - GPAC 1800/2600/3700",
+      "model": "GPAC",
+      "status": "no_match",
+      "match_method": "none",
+      "match_score": 0.0,
+      "source_page": null,
+      "source_name": null,
+      "images": []
+    },
+    "hava-kurutucu-ve-filtreler-003-gpf-1800": {
+      "product_id": "hava-kurutucu-ve-filtreler-003-gpf-1800",
+      "category_id": "hava-kurutucu-ve-filtreler",
+      "title": "3/4\" Su Tutucu Filtre - GPF 1800",
+      "model": "GPF 1800",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.816,
+      "source_page": "https://www.gapkompresor.com/tr/urun/3-4-su-tutucu-filtre/60",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-003-gpf-1800-1.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0cdfd763-5e56-4774-aa6a-9e47a7ff6a72.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-003-gpf-1800-2.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_c8107cf9-d4af-40e5-ac09-c1870671cddc.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "hava-kurutucu-ve-filtreler-004-gpf-2600": {
+      "product_id": "hava-kurutucu-ve-filtreler-004-gpf-2600",
+      "category_id": "hava-kurutucu-ve-filtreler",
+      "title": "1\" Su Tutucu Filtre - GPF 2600",
+      "model": "GPF 2600",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.8,
+      "source_page": "https://www.gapkompresor.com/tr/urun/1-su-tutucu-filtre/61",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-004-gpf-2600-page.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_0bd546a2-d106-4f77-8b27-4814f3edef8e.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "hava-kurutucu-ve-filtreler-005-gpf-3700": {
+      "product_id": "hava-kurutucu-ve-filtreler-005-gpf-3700",
+      "category_id": "hava-kurutucu-ve-filtreler",
+      "title": "1-1/2\" Su Tutucu Filtre - GPF 3700",
+      "model": "GPF 3700",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.83,
+      "source_page": "https://www.gapkompresor.com/tr/urun/1-1-2-su-tutucu-filtre/62",
+      "source_name": "gapkompresor.com",
+      "images": [
+        {
+          "path": "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-005-gpf-3700-page.webp",
+          "status": "ok",
+          "url": "https://www.gapkompresor.com/Content/images/product/product_848f6153-d9c8-47fd-b8bf-86cf194ad53b.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "arac-kaldirma-liftleri-001-gpl-101": {
+      "product_id": "arac-kaldirma-liftleri-001-gpl-101",
+      "category_id": "arac-kaldirma-liftleri",
+      "title": "4 Ton İki Sütunlu Elektro Hidrolik Lift (Yarı Otomatik) - GPL 101",
+      "model": "GPL 101",
+      "status": "downloaded",
+      "match_method": "title-overlap",
+      "match_score": 0.713,
+      "source_page": "https://gaptools.net/tr/urun/4-ton-iki-sutunlu-yari-otomatik-hidrolik-lift/1",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-001-gpl-101-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_0320e339-d8fa-4db9-8579-81782bd61d00.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "arac-kaldirma-liftleri-002-gpl-102": {
+      "product_id": "arac-kaldirma-liftleri-002-gpl-102",
+      "category_id": "arac-kaldirma-liftleri",
+      "title": "4 Ton İki Sütunlu Elektro Hidrolik Lift (Tam Otomatik) - GPL 102",
+      "model": "GPL 102",
+      "status": "downloaded",
+      "match_method": "title-overlap",
+      "match_score": 0.713,
+      "source_page": "https://gaptools.net/tr/urun/4-ton-iki-sutunlu-tam-otomatik-hidrolik-lift/2",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-002-gpl-102-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_6b00ebe7-c456-42d3-8b07-4aff7dba8139.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "arac-kaldirma-liftleri-003-gpl-102u": {
+      "product_id": "arac-kaldirma-liftleri-003-gpl-102u",
+      "category_id": "arac-kaldirma-liftleri",
+      "title": "4 Ton İki Sütunlu Üstten Bağlantılı Tam Otomatik Hidrolik Lift - GPL 102U",
+      "model": "GPL 102U",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.931,
+      "source_page": "https://gaptools.net/tr/urun/4-ton-iki-sutunlu-ustten-baglantili-tam-otomatik-hidrolik-lift/3",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-003-gpl-102u-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_4950bb87-af4f-4397-a83e-d1435927a205.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "arac-kaldirma-liftleri-004-gpl-103": {
+      "product_id": "arac-kaldirma-liftleri-004-gpl-103",
+      "category_id": "arac-kaldirma-liftleri",
+      "title": "5 Ton İki Sütunlu Elektro Hidrolik Lift (Tam Otomatik) - GPL 103",
+      "model": "GPL 103",
+      "status": "downloaded",
+      "match_method": "title-overlap",
+      "match_score": 0.713,
+      "source_page": "https://gaptools.net/tr/urun/5-ton-iki-sutunlu-tam-otomatik-hidrolik-lift/4",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-004-gpl-103-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_0c390daf-1fd4-424f-9ca3-6e3a50d4f53c.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "arac-kaldirma-liftleri-005-gpl-103u": {
+      "product_id": "arac-kaldirma-liftleri-005-gpl-103u",
+      "category_id": "arac-kaldirma-liftleri",
+      "title": "5 Ton İki Sütunlu Üsten Bağlantılı Tam Otomatik Hidrolik Lift - GPL 103U",
+      "model": "GPL 103U",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.93,
+      "source_page": "https://gaptools.net/tr/urun/5-ton-iki-sutunlu-usten-baglantili-tam-otomatik-hidrolik-lift/5",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-005-gpl-103u-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_5ce22b63-8177-4574-851e-ca8aae4d4bd3.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "arac-kaldirma-liftleri-006-gpml-102": {
+      "product_id": "arac-kaldirma-liftleri-006-gpml-102",
+      "category_id": "arac-kaldirma-liftleri",
+      "title": "3 Ton 1 Metre Makaslı Lift - GPML 102",
+      "model": "GPML 102",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.847,
+      "source_page": "https://gaptools.net/tr/urun/3-ton-1-metre-makasli-lift/6",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-006-gpml-102-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_497a5eec-298f-41cd-8e28-083f0526209c.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "arac-kaldirma-liftleri-007-gpml-101": {
+      "product_id": "arac-kaldirma-liftleri-007-gpml-101",
+      "category_id": "arac-kaldirma-liftleri",
+      "title": "3.5 Ton 2 Metre Makaslı Lift - GPML 101",
+      "model": "GPML 101",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.857,
+      "source_page": "https://gaptools.net/tr/urun/3-5-ton-2-metre-makasli-lift/7",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-007-gpml-101-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_4831ec33-c12d-4263-81d1-ecfa774ea27d.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "oto-servis-ekipmanlari-001-gpt-101": {
+      "product_id": "oto-servis-ekipmanlari-001-gpt-101",
+      "category_id": "oto-servis-ekipmanlari",
+      "title": "İki Ton Katlanır Vinç - GPT 101",
+      "model": "GPT 101",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.741,
+      "source_page": "https://gaptools.net/tr/urun/iki-ton-katlanabilir-vinc/19",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-001-gpt-101-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_97524100-13c2-472f-be41-084d5dd742b4.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "oto-servis-ekipmanlari-002-gpt-102": {
+      "product_id": "oto-servis-ekipmanlari-002-gpt-102",
+      "category_id": "oto-servis-ekipmanlari",
+      "title": "Üç Ton Alçak Şase Garaj Krikosu - GPT 102",
+      "model": "GPT 102",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.886,
+      "source_page": "https://gaptools.net/tr/urun/uc-ton-alcak-sase-garaj-krikosu/8",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-002-gpt-102-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_45f4390f-f6de-4cb3-97b1-19fa883ee3aa.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "oto-servis-ekipmanlari-003-gpt-103": {
+      "product_id": "oto-servis-ekipmanlari-003-gpt-103",
+      "category_id": "oto-servis-ekipmanlari",
+      "title": "0.5 Ton Dikey Şanzıman Krikosu - GPT 103",
+      "model": "GPT 103",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.882,
+      "source_page": "https://gaptools.net/tr/urun/0-5-ton-dikey-sanziman-krikosu/9",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-003-gpt-103-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_24083586-c060-46e4-9772-acc723a3b9df.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "oto-servis-ekipmanlari-004-gpt-104": {
+      "product_id": "oto-servis-ekipmanlari-004-gpt-104",
+      "category_id": "oto-servis-ekipmanlari",
+      "title": "450 Kg Motor Standı - GPT 104",
+      "model": "GPT 104",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.818,
+      "source_page": "https://gaptools.net/tr/urun/450-kg-motor-standi/20",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-004-gpt-104-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_39a98130-b024-4170-84e8-5347e2fa8209.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "oto-servis-ekipmanlari-005-gpt-105": {
+      "product_id": "oto-servis-ekipmanlari-005-gpt-105",
+      "category_id": "oto-servis-ekipmanlari",
+      "title": "650 Kg Motor Standı - GPT 105",
+      "model": "GPT 105",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.818,
+      "source_page": "https://gaptools.net/tr/urun/650-kg-motor-standi/21",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-005-gpt-105-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_98aa8f53-7ff5-4f1f-9b78-5fcce8d8f6b8.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-005-gpt-105-2.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_c80bd0a2-88a4-4ed8-9907-d729b054acdb.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "oto-servis-ekipmanlari-009-gpt-101": {
+      "product_id": "oto-servis-ekipmanlari-009-gpt-101",
+      "category_id": "oto-servis-ekipmanlari",
+      "title": "İki Ton Katlanır Vinç - GPT 101",
+      "model": "GPT 101",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.741,
+      "source_page": "https://gaptools.net/tr/urun/iki-ton-katlanabilir-vinc/19",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-009-gpt-101-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_97524100-13c2-472f-be41-084d5dd742b4.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "oto-servis-ekipmanlari-010-gpt-110": {
+      "product_id": "oto-servis-ekipmanlari-010-gpt-110",
+      "category_id": "oto-servis-ekipmanlari",
+      "title": "10 Ton Hidrolik Oto Doğrultma - GPT 110",
+      "model": "GPT 110",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.879,
+      "source_page": "https://gaptools.net/tr/urun/10-ton-hidrolik-oto-dogrultma/17",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-010-gpt-110-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_8854af40-a124-49c5-a0d7-db69d6ccf9e7.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "oto-servis-ekipmanlari-012-gpt-101": {
+      "product_id": "oto-servis-ekipmanlari-012-gpt-101",
+      "category_id": "oto-servis-ekipmanlari",
+      "title": "İki Ton Katlanır Vinç - GPT 101",
+      "model": "GPT 101",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.741,
+      "source_page": "https://gaptools.net/tr/urun/iki-ton-katlanabilir-vinc/19",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-012-gpt-101-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_97524100-13c2-472f-be41-084d5dd742b4.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "oto-servis-ekipmanlari-013-gpt-119": {
+      "product_id": "oto-servis-ekipmanlari-013-gpt-119",
+      "category_id": "oto-servis-ekipmanlari",
+      "title": "Motor Askı Aparatı - GPT 119",
+      "model": "GPT 119",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.8,
+      "source_page": "https://gaptools.net/tr/urun/motor-aski-aparati/22",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-013-gpt-119-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_098c4758-0a75-470e-b262-1c73c170d9c1.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "oto-servis-ekipmanlari-016-gpt-116": {
+      "product_id": "oto-servis-ekipmanlari-016-gpt-116",
+      "category_id": "oto-servis-ekipmanlari",
+      "title": "10 Ton Manuel Hidrolik Pres - GPT 116",
+      "model": "GPT 116",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.871,
+      "source_page": "https://gaptools.net/tr/urun/10-ton-manuel-hidrolik-pres/79",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-016-gpt-116-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_98bb972f-a95f-4f7a-af91-ed56d0844a75.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "oto-servis-ekipmanlari-021-gpt-117": {
+      "product_id": "oto-servis-ekipmanlari-021-gpt-117",
+      "category_id": "oto-servis-ekipmanlari",
+      "title": "15 Ton Manuel Hidrolik Pres - GPT 117",
+      "model": "GPT 117",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.871,
+      "source_page": "https://gaptools.net/tr/urun/15-ton-manuel-hidrolik-pres/80",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-021-gpt-117-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_c3e85a2d-ba76-4693-b511-5159cce12a94.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "oto-servis-ekipmanlari-025-gpt-118": {
+      "product_id": "oto-servis-ekipmanlari-025-gpt-118",
+      "category_id": "oto-servis-ekipmanlari",
+      "title": "30 Ton Manuel Hidrolik Pres - GPT 118",
+      "model": "GPT 118",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.871,
+      "source_page": "https://gaptools.net/tr/urun/30-ton-manuel-hidrolik-pres/81",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-025-gpt-118-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_4afe2762-0c8d-4f50-b82c-07492995092f.jpg",
+          "width": 1200,
+          "height": 1800
+        }
+      ]
+    },
+    "yaglama-ve-yikama-001-gp-2000dc": {
+      "product_id": "yaglama-ve-yikama-001-gp-2000dc",
+      "category_id": "yaglama-ve-yikama",
+      "title": "150 Bar Basınçlı Yıkama Makinesi - GP 2000DC",
+      "model": "GP 2000DC",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.861,
+      "source_page": "https://gaptools.net/tr/urun/150-bar-basincli-yikama-makinesi/26",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-001-gp-2000dc-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_1463800d-4f04-4c08-ac1a-08bdd61f0ec8.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "yaglama-ve-yikama-002-gp-2100ac": {
+      "product_id": "yaglama-ve-yikama-002-gp-2100ac",
+      "category_id": "yaglama-ve-yikama",
+      "title": "165 Bar İndüksiyon Motorlu Yıkama Makinesi - GP 2100AC",
+      "model": "GP 2100AC",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.894,
+      "source_page": "https://gaptools.net/tr/urun/165-bar-induksiyon-motorlu-yikama-makinesi/27",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-002-gp-2100ac-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_d333ace0-87ab-485e-8958-d3490d27dd4a.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "yaglama-ve-yikama-004-gp-2500ac": {
+      "product_id": "yaglama-ve-yikama-004-gp-2500ac",
+      "category_id": "yaglama-ve-yikama",
+      "title": "195 Bar İndüksiyon Motorlu Yıkama Makinesi - GP 2500AC",
+      "model": "GP 2500AC",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.894,
+      "source_page": "https://gaptools.net/tr/urun/195-bar-induksiyon-motorlu-yikama-makinesi/28",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-004-gp-2500ac-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_a72f21a7-fd4a-4bf4-a902-bb0e5d955820.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "yaglama-ve-yikama-005-gp-3200ac": {
+      "product_id": "yaglama-ve-yikama-005-gp-3200ac",
+      "category_id": "yaglama-ve-yikama",
+      "title": "225 Bar İndüksiyon Motorlu Yıkama Makinesi - GP 3200AC",
+      "model": "GP 3200AC",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.894,
+      "source_page": "https://gaptools.net/tr/urun/225-bar-induksiyon-motorlu-yikama-makinesi/29",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-005-gp-3200ac-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_56d2689b-d5bb-4fea-846f-29c2e672aef3.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "yaglama-ve-yikama-007-gp-12a1": {
+      "product_id": "yaglama-ve-yikama-007-gp-12a1",
+      "category_id": "yaglama-ve-yikama",
+      "title": "12 lt Havalı Gres Pompası - GP 12A1",
+      "model": "GP 12A1",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.852,
+      "source_page": "https://gaptools.net/tr/urun/12-lt-havali-gres-pompasi/30",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-007-gp-12a1-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_2219d901-fd63-47e6-814c-9967c1a2cd47.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "yaglama-ve-yikama-008-metal-gres-siyirici": {
+      "product_id": "yaglama-ve-yikama-008-metal-gres-siyirici",
+      "category_id": "yaglama-ve-yikama",
+      "title": "Metal Gres Sıyırıcı",
+      "model": "",
+      "status": "no_match",
+      "match_method": "none",
+      "match_score": 0.0,
+      "source_page": null,
+      "source_name": null,
+      "images": []
+    },
+    "yaglama-ve-yikama-009-gp-35a1": {
+      "product_id": "yaglama-ve-yikama-009-gp-35a1",
+      "category_id": "yaglama-ve-yikama",
+      "title": "35 lt Havalı Gres Pompası - GP 35A1",
+      "model": "GP 35A1",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.852,
+      "source_page": "https://gaptools.net/tr/urun/35-lt-havali-gres-pompasi/31",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-009-gp-35a1-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_0a35ed81-5a46-4116-a616-5b8c8454c309.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "yaglama-ve-yikama-012-gp-12a2": {
+      "product_id": "yaglama-ve-yikama-012-gp-12a2",
+      "category_id": "yaglama-ve-yikama",
+      "title": "12 lt Havalı Gres Pompası - GP 12A2",
+      "model": "GP 12A2",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.852,
+      "source_page": "https://gaptools.net/tr/urun/12-lt-havali-gres-pompasi/30",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-012-gp-12a2-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_2219d901-fd63-47e6-814c-9967c1a2cd47.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "yaglama-ve-yikama-013-metal-gres-siyirici": {
+      "product_id": "yaglama-ve-yikama-013-metal-gres-siyirici",
+      "category_id": "yaglama-ve-yikama",
+      "title": "Metal Gres Sıyırıcı",
+      "model": "",
+      "status": "no_match",
+      "match_method": "none",
+      "match_score": 0.0,
+      "source_page": null,
+      "source_name": null,
+      "images": []
+    },
+    "yaglama-ve-yikama-014-gp-35a2": {
+      "product_id": "yaglama-ve-yikama-014-gp-35a2",
+      "category_id": "yaglama-ve-yikama",
+      "title": "35 lt Havalı Gres Pompası - GP 35A2",
+      "model": "GP 35A2",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.852,
+      "source_page": "https://gaptools.net/tr/urun/35-lt-havali-gres-pompasi/31",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-014-gp-35a2-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_0a35ed81-5a46-4116-a616-5b8c8454c309.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sarjli-ve-havali-el-aletleri-001-gp-850": {
+      "product_id": "sarjli-ve-havali-el-aletleri-001-gp-850",
+      "category_id": "sarjli-ve-havali-el-aletleri",
+      "title": "850 Nm 1/2 Darbeli Somun Sökme - GP 850",
+      "model": "GP 850",
+      "status": "downloaded",
+      "match_method": "title-overlap",
+      "match_score": 0.621,
+      "source_page": "https://gaptools.net/tr/urun/1-2-havali-somun-sokme/35",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-001-gp-850-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_bde9b798-ad56-4087-9f06-51c9abe2e010.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sarjli-ve-havali-el-aletleri-002-gp-1300": {
+      "product_id": "sarjli-ve-havali-el-aletleri-002-gp-1300",
+      "category_id": "sarjli-ve-havali-el-aletleri",
+      "title": "1300 Nm 1/2 Darbeli Somun Sökme - GP 1300",
+      "model": "GP 1300",
+      "status": "downloaded",
+      "match_method": "title-overlap",
+      "match_score": 0.6,
+      "source_page": "https://gaptools.net/tr/urun/1-2-havali-somun-sokme/35",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-002-gp-1300-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_bde9b798-ad56-4087-9f06-51c9abe2e010.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sarjli-ve-havali-el-aletleri-004-gpm-1201": {
+      "product_id": "sarjli-ve-havali-el-aletleri-004-gpm-1201",
+      "category_id": "sarjli-ve-havali-el-aletleri",
+      "title": "1/2 Mini Havalı Somun Sökme - GPM 1201",
+      "model": "GPM 1201",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.852,
+      "source_page": "https://gaptools.net/tr/urun/1-2-mini-havali-somun-sokme/34",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-004-gpm-1201-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_872d6634-5bec-4b8d-bbb8-18044d9f0672.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sarjli-ve-havali-el-aletleri-006-gp-1201": {
+      "product_id": "sarjli-ve-havali-el-aletleri-006-gp-1201",
+      "category_id": "sarjli-ve-havali-el-aletleri",
+      "title": "1/2 Havalı Somun Sökme - GP 1201",
+      "model": "GP 1201",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.84,
+      "source_page": "https://gaptools.net/tr/urun/1-2-havali-somun-sokme/35",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-006-gp-1201-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_bde9b798-ad56-4087-9f06-51c9abe2e010.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sarjli-ve-havali-el-aletleri-007-gp-3401": {
+      "product_id": "sarjli-ve-havali-el-aletleri-007-gp-3401",
+      "category_id": "sarjli-ve-havali-el-aletleri",
+      "title": "3/4 Havalı Somun Sökme - GP 3401",
+      "model": "GP 3401",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.84,
+      "source_page": "https://gaptools.net/tr/urun/3-4-havali-somun-sokme/36",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-007-gp-3401-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_f60cbcdd-7e88-4e65-b702-217765be8823.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sarjli-ve-havali-el-aletleri-009-gp-101": {
+      "product_id": "sarjli-ve-havali-el-aletleri-009-gp-101",
+      "category_id": "sarjli-ve-havali-el-aletleri",
+      "title": "1 Havalı Kısa Tip Somun Sökme - GP 101",
+      "model": "GP 101",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.889,
+      "source_page": "https://gaptools.net/tr/urun/1-havali-kisa-tip-somun-sokme/37",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-009-gp-101-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_2fa2850d-f51c-4747-ac43-5f7dda815769.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sarjli-ve-havali-el-aletleri-010-gp-102": {
+      "product_id": "sarjli-ve-havali-el-aletleri-010-gp-102",
+      "category_id": "sarjli-ve-havali-el-aletleri",
+      "title": "Binek Araç Lastik Sökme Takma Makinası  - GP 102",
+      "model": "GP 102",
+      "status": "no_match",
+      "match_method": "none",
+      "match_score": 0.0,
+      "source_page": null,
+      "source_name": null,
+      "images": []
+    },
+    "sarjli-ve-havali-el-aletleri-012-1-4-havali-circir-kolu": {
+      "product_id": "sarjli-ve-havali-el-aletleri-012-1-4-havali-circir-kolu",
+      "category_id": "sarjli-ve-havali-el-aletleri",
+      "title": "1/4 Havalı Cırcır Kolu",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 1.0,
+      "source_page": "https://gaptools.net/tr/urun/1-4-havali-circir-kolu/40",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-012-1-4-havali-circir-kolu-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_646a4ab7-aff5-46ce-9477-9230e56f65fe.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "sarjli-ve-havali-el-aletleri-013-havali-ortbital-zimpara": {
+      "product_id": "sarjli-ve-havali-el-aletleri-013-havali-ortbital-zimpara",
+      "category_id": "sarjli-ve-havali-el-aletleri",
+      "title": "Havalı Ortbital Zımpara",
+      "model": "",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.977,
+      "source_page": "https://gaptools.net/tr/urun/havali-orbital-zimpara/42",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-013-havali-ortbital-zimpara-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_ee47fced-d3b2-42bb-958f-ce2436e9f109.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vinc-ve-kaldırma-ekipmanlari-001-gp250-500": {
+      "product_id": "vinc-ve-kaldırma-ekipmanlari-001-gp250-500",
+      "category_id": "vinc-ve-kaldırma-ekipmanlari",
+      "title": "250-500 kg Elektrikli Vinç - GP250-500",
+      "model": "GP250-500",
+      "status": "downloaded",
+      "match_method": "title-overlap",
+      "match_score": 0.815,
+      "source_page": "https://gaptools.net/tr/urun/250-500-kg-kapasiteli-elektrikli-vinc/48",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-001-gp250-500-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_58a3eb93-b39e-4ed0-adda-c281a2c0c8ae.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vinc-ve-kaldırma-ekipmanlari-002-gp400-800": {
+      "product_id": "vinc-ve-kaldırma-ekipmanlari-002-gp400-800",
+      "category_id": "vinc-ve-kaldırma-ekipmanlari",
+      "title": "400-800 kg Elektrikli Vinç - GP400-800",
+      "model": "GP400-800",
+      "status": "downloaded",
+      "match_method": "title-overlap",
+      "match_score": 0.815,
+      "source_page": "https://gaptools.net/tr/urun/400-800-kg-kapasiteli-elektrikli-vinc/49",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-002-gp400-800-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_4ee32275-c587-4cd7-99f0-1bc080d71764.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vinc-ve-kaldırma-ekipmanlari-003-gph15t": {
+      "product_id": "vinc-ve-kaldırma-ekipmanlari-003-gph15t",
+      "category_id": "vinc-ve-kaldırma-ekipmanlari",
+      "title": "1.5 Ton Zincirli Caraskal - GPH15T",
+      "model": "GPH15T",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.78,
+      "source_page": "https://gaptools.net/tr/urun/1-ton-5-m-zincirli-caraskal/70",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-003-gph15t-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_e43c4fb3-660d-4261-bdaf-74451843a3f3.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vinc-ve-kaldırma-ekipmanlari-004-gph3t": {
+      "product_id": "vinc-ve-kaldırma-ekipmanlari-004-gph3t",
+      "category_id": "vinc-ve-kaldırma-ekipmanlari",
+      "title": "3 Ton Zincirli Caraskal - GPH3T",
+      "model": "GPH3T",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.821,
+      "source_page": "https://gaptools.net/tr/urun/3-ton-3-m-zincirli-caraskal/73",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-004-gph3t-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_f4fb9d9c-7cca-4ee2-885f-d20102dbeed6.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vinc-ve-kaldırma-ekipmanlari-005-gpc1t3m": {
+      "product_id": "vinc-ve-kaldırma-ekipmanlari-005-gpc1t3m",
+      "category_id": "vinc-ve-kaldırma-ekipmanlari",
+      "title": "1 Ton 3 m Hubzug - GPC1T3M",
+      "model": "GPC1T3M",
+      "status": "downloaded",
+      "match_method": "title-overlap",
+      "match_score": 0.643,
+      "source_page": "https://gaptools.net/tr/urun/1-ton-3-m-zincirli-caraskal/69",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-005-gpc1t3m-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_adaeaef8-94ea-46c9-b5f7-f5986f9b9f59.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vinc-ve-kaldırma-ekipmanlari-006-gpc1t5m": {
+      "product_id": "vinc-ve-kaldırma-ekipmanlari-006-gpc1t5m",
+      "category_id": "vinc-ve-kaldırma-ekipmanlari",
+      "title": "1 Ton 5 m Hubzug - GPC1T5M",
+      "model": "GPC1T5M",
+      "status": "downloaded",
+      "match_method": "title-overlap",
+      "match_score": 0.646,
+      "source_page": "https://gaptools.net/tr/urun/1-5-ton-kapasiteli-hubzug/75",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-006-gpc1t5m-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_abef678c-add0-4d29-9573-f470b2edeabe.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vinc-ve-kaldırma-ekipmanlari-007-gpc2t3m": {
+      "product_id": "vinc-ve-kaldırma-ekipmanlari-007-gpc2t3m",
+      "category_id": "vinc-ve-kaldırma-ekipmanlari",
+      "title": "2 Ton 3 m Hubzug - GPC2T3M",
+      "model": "GPC2T3M",
+      "status": "downloaded",
+      "match_method": "title-overlap",
+      "match_score": 0.643,
+      "source_page": "https://gaptools.net/tr/urun/2-ton-3-m-zincirli-caraskal/71",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-007-gpc2t3m-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_fcce09ff-4981-4099-9d00-c38f832df9d3.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vinc-ve-kaldırma-ekipmanlari-008-gpc2t5m": {
+      "product_id": "vinc-ve-kaldırma-ekipmanlari-008-gpc2t5m",
+      "category_id": "vinc-ve-kaldırma-ekipmanlari",
+      "title": "2 Ton 5 m Hubzug - GPC2T5M",
+      "model": "GPC2T5M",
+      "status": "downloaded",
+      "match_method": "title-overlap",
+      "match_score": 0.643,
+      "source_page": "https://gaptools.net/tr/urun/2-ton-5-m-zincirli-caraskal/72",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-008-gpc2t5m-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_c01bbcb4-13a1-4449-b820-72e2d5c5ee7d.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vinc-ve-kaldırma-ekipmanlari-009-gp-25110k": {
+      "product_id": "vinc-ve-kaldırma-ekipmanlari-009-gp-25110k",
+      "category_id": "vinc-ve-kaldırma-ekipmanlari",
+      "title": "2.5 Ton Transpalet - GP 25110K",
+      "model": "GP 25110K",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.783,
+      "source_page": "https://gaptools.net/tr/urun/2-5-ton-transpalet/78",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-009-gp-25110k-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_d43fe0a9-1f75-4761-ab74-a5a41ad84a6c.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "vinc-ve-kaldırma-ekipmanlari-010-gp-25110p": {
+      "product_id": "vinc-ve-kaldırma-ekipmanlari-010-gp-25110p",
+      "category_id": "vinc-ve-kaldırma-ekipmanlari",
+      "title": "2.5 Ton Transpalet - GP 25110P",
+      "model": "GP 25110P",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.783,
+      "source_page": "https://gaptools.net/tr/urun/2-5-ton-transpalet/78",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-010-gp-25110p-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_d43fe0a9-1f75-4761-ab74-a5a41ad84a6c.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "kaynak-ve-kaporta-cektirme-001-gp-165i": {
+      "product_id": "kaynak-ve-kaporta-cektirme-001-gp-165i",
+      "category_id": "kaynak-ve-kaporta-cektirme",
+      "title": "165 Amper İnvertörlü Kaynak Makinesi - GP 165i",
+      "model": "GP 165I",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.9,
+      "source_page": "https://gaptools.net/tr/urun/165-amper-invertorlu-kaynak-makinesi/59",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-001-gp-165i-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_9a4bdfb5-e7a5-4fe4-93c9-1155487a0647.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "kaynak-ve-kaporta-cektirme-002-gp-200i": {
+      "product_id": "kaynak-ve-kaporta-cektirme-002-gp-200i",
+      "category_id": "kaynak-ve-kaporta-cektirme",
+      "title": "200 Amper İnvertörlü Kaynak Makinesi - GP 200i",
+      "model": "GP 200I",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.9,
+      "source_page": "https://gaptools.net/tr/urun/200-amper-invertorlu-kaynak-makinesi/60",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-002-gp-200i-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_49c3aad6-21a2-496a-91b5-621a2b59823a.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "kaynak-ve-kaporta-cektirme-004-gp-5kva": {
+      "product_id": "kaynak-ve-kaporta-cektirme-004-gp-5kva",
+      "category_id": "kaynak-ve-kaporta-cektirme",
+      "title": "5 kVA Kaporta Çektirme Makinesi - GP 5KVA",
+      "model": "GP 5KVA",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.87,
+      "source_page": "https://gaptools.net/tr/urun/5kva-kaporta-cektirme-makinesi/61",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-004-gp-5kva-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_9884f3b8-fff7-4a9d-b644-20afb6a497d4.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "kaynak-ve-kaporta-cektirme-007-gp-10kva": {
+      "product_id": "kaynak-ve-kaporta-cektirme-007-gp-10kva",
+      "category_id": "kaynak-ve-kaporta-cektirme",
+      "title": "10 kVA Kaporta Çektirme Makinesi - GP 10KVA",
+      "model": "GP 10KVA",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.877,
+      "source_page": "https://gaptools.net/tr/urun/10-kva-kaporta-cektirme-makinesi/62",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-007-gp-10kva-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_de139120-8180-45a5-baea-466b694c3fe3.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "kaynak-ve-kaporta-cektirme-011-gp-12kva": {
+      "product_id": "kaynak-ve-kaporta-cektirme-011-gp-12kva",
+      "category_id": "kaynak-ve-kaporta-cektirme",
+      "title": "12 kVA Kaporta Çektirme Makinası - GP 12KVA",
+      "model": "GP 12KVA",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.833,
+      "source_page": "https://gaptools.net/tr/urun/12-kva-kaporta-cektirme-makinesi/63",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-011-gp-12kva-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_eaf14d45-f46e-4951-8978-2e63bd0383cc.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "kaynak-ve-kaporta-cektirme-014-gp-10max": {
+      "product_id": "kaynak-ve-kaporta-cektirme-014-gp-10max",
+      "category_id": "kaynak-ve-kaporta-cektirme",
+      "title": "Elektronik 10 kVA Kaporta Çektirme Makinası - GP 10MAX",
+      "model": "GP 10MAX",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.872,
+      "source_page": "https://gaptools.net/tr/urun/elektronik-10-kva-kaporta-cektirme-makinesi/64",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-014-gp-10max-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_fc4208e9-78e5-4168-a1c3-06fe9d362eca.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "kaynak-ve-kaporta-cektirme-016-cektirme-yapilacak-kaporta-kalinligina-gore-kaportada": {
+      "product_id": "kaynak-ve-kaporta-cektirme-016-cektirme-yapilacak-kaporta-kalinligina-gore-kaportada",
+      "category_id": "kaynak-ve-kaporta-cektirme",
+      "title": "Çektirme yapılacak kaporta kalınlığına göre kaportada",
+      "model": "",
+      "status": "no_match",
+      "match_method": "none",
+      "match_score": 0.0,
+      "source_page": null,
+      "source_name": null,
+      "images": []
+    },
+    "kaynak-ve-kaporta-cektirme-019-gp-12pro": {
+      "product_id": "kaynak-ve-kaporta-cektirme-019-gp-12pro",
+      "category_id": "kaynak-ve-kaporta-cektirme",
+      "title": "Elektronik 12 kVA Kaporta Çektirme Makinası - GP 12PRO",
+      "model": "GP 12PRO",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.872,
+      "source_page": "https://gaptools.net/tr/urun/elektronik-12-kva-kaporta-cektirme-makinesi/65",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-019-gp-12pro-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_63b78eaa-5dc7-46b0-9e55-7c36ccb19eb6.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "kaynak-ve-kaporta-cektirme-021-cektirme-yapilacak-kaporta-kalinligina-gore-kaportada": {
+      "product_id": "kaynak-ve-kaporta-cektirme-021-cektirme-yapilacak-kaporta-kalinligina-gore-kaportada",
+      "category_id": "kaynak-ve-kaporta-cektirme",
+      "title": "Çektirme yapılacak kaporta kalınlığına göre kaportada",
+      "model": "",
+      "status": "no_match",
+      "match_method": "none",
+      "match_score": 0.0,
+      "source_page": null,
+      "source_name": null,
+      "images": []
+    },
+    "takim-arabalari-ve-tezgahlari-001-gpt-201": {
+      "product_id": "takim-arabalari-ve-tezgahlari-001-gpt-201",
+      "category_id": "takim-arabalari-ve-tezgahlari",
+      "title": "Çekmecesiz Takım Arabası - GPT 201",
+      "model": "GPT 201",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.852,
+      "source_page": "https://gaptools.net/tr/urun/cekmecesiz-takim-arabasi/51",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-001-gpt-201-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_771a768d-840b-43fa-8ee6-0cee8327ec1f.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-001-gpt-201-2.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_85613282-be4c-49e9-aaf6-fe4fc588f2b5.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "takim-arabalari-ve-tezgahlari-002-gpt-202": {
+      "product_id": "takim-arabalari-ve-tezgahlari-002-gpt-202",
+      "category_id": "takim-arabalari-ve-tezgahlari",
+      "title": "Tek Çekmeceli Takım Arabası - GPT 202",
+      "model": "GPT 202",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.867,
+      "source_page": "https://gaptools.net/tr/urun/tek-cekmeceli-takim-arabasi/52",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-002-gpt-202-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_4ded5728-9e5b-44c4-8f15-b570db5d6b80.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-002-gpt-202-2.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_9981206b-f92f-4961-b406-b06c66aea737.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-002-gpt-202-3.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_fd0dd827-ffdd-43f8-8436-0dde7e66a54a.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "takim-arabalari-ve-tezgahlari-004-gpt-203": {
+      "product_id": "takim-arabalari-ve-tezgahlari-004-gpt-203",
+      "category_id": "takim-arabalari-ve-tezgahlari",
+      "title": "İki Çekmeceli Takım Arabası - GPT 203",
+      "model": "GPT 203",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.867,
+      "source_page": "https://gaptools.net/tr/urun/iki-cekmeceli-takim-arabasi/53",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-004-gpt-203-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_01235ce2-9bc7-458d-ba28-1e2afe0bf91b.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-004-gpt-203-2.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_a0b9f42c-b9d0-42a6-91c2-e7a1811397ec.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-004-gpt-203-3.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_a81e0f73-0605-4612-99ce-17e06843b9bb.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "takim-arabalari-ve-tezgahlari-005-gpt-204": {
+      "product_id": "takim-arabalari-ve-tezgahlari-005-gpt-204",
+      "category_id": "takim-arabalari-ve-tezgahlari",
+      "title": "5 Çekmeceli Takım Arabası - GPT 204",
+      "model": "GPT 204",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.857,
+      "source_page": "https://gaptools.net/tr/urun/5-cekmeceli-takim-arabasi/54",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-005-gpt-204-1.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_26546064-2c81-448f-820e-77ce2d865942.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-005-gpt-204-2.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_6ece56e2-5c2a-4df5-ac87-3fff3bc1e842.png",
+          "width": 1244,
+          "height": 829
+        },
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-005-gpt-204-3.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_f69d06c5-1962-4403-99cf-c809f49e7bc8.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "takim-arabalari-ve-tezgahlari-008-gpt-205": {
+      "product_id": "takim-arabalari-ve-tezgahlari-008-gpt-205",
+      "category_id": "takim-arabalari-ve-tezgahlari",
+      "title": "1500 mm Endüstriyel Çekmeceli Çalışma Tezgahı - GPT 205",
+      "model": "GPT 205",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.917,
+      "source_page": "https://gaptools.net/tr/urun/1500-mm-endustriyel-cekmeceli-calisma-tezgahi/56",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-008-gpt-205-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_5afecbd9-0c39-4585-94b4-5f16ffddad0e.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "takim-arabalari-ve-tezgahlari-011-gpt-206": {
+      "product_id": "takim-arabalari-ve-tezgahlari-011-gpt-206",
+      "category_id": "takim-arabalari-ve-tezgahlari",
+      "title": "2000 mm Endüstriyel Çekmeceli Çalışma Tezgahı - GPT 206",
+      "model": "GPT 206",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.917,
+      "source_page": "https://gaptools.net/tr/urun/2000-mm-endustriyel-cekmeceli-calisma-tezgahi/57",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-011-gpt-206-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_b522464c-1932-48d4-9d86-ebc625118bb4.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    },
+    "takim-arabalari-ve-tezgahlari-013-gpt-207": {
+      "product_id": "takim-arabalari-ve-tezgahlari-013-gpt-207",
+      "category_id": "takim-arabalari-ve-tezgahlari",
+      "title": "2000 mm Endüstriyel Dolaplı Çalışma Tezgahı - GPT 207",
+      "model": "GPT 207",
+      "status": "downloaded",
+      "match_method": "title-fuzzy",
+      "match_score": 0.911,
+      "source_page": "https://gaptools.net/tr/urun/2000-mm-endustriyel-dolapli-calisma-tezgahi/58",
+      "source_name": "gaptools.net",
+      "images": [
+        {
+          "path": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-013-gpt-207-page.webp",
+          "status": "ok",
+          "url": "https://gaptools.net/Content/images/product/product_daa13900-2ed0-46a9-aee9-9ed997a54c36.png",
+          "width": 1244,
+          "height": 829
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total": 132,
+    "matched": 120,
+    "downloaded": 120,
+    "skipped_existing": 0,
+    "failed": 0,
+    "no_match": 12
+  }
+}
