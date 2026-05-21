@@ -1,0 +1,3369 @@
+{
+  "categories": [
+    {
+      "id": "pistonlu-hava-kompresorleri",
+      "name": "Pistonlu Hava Kompresörleri",
+      "description": "GP serisi yağlı pistonlu hava kompresörleri; farklı depo hacmi ve güç seçenekleriyle atölye ve sanayi kullanımına uygundur.",
+      "cover": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-cover.webp",
+      "products": [
+        {
+          "id": "pistonlu-hava-kompresorleri-001-gp-50",
+          "title": "50 lt 8 Bar 2 Hp Pistonlu Hava Kompresörü - GP 50",
+          "model": "GP 50",
+          "features": [
+            "Çift Hava Çıkışı",
+            "Yağlı Sistem"
+          ],
+          "specs": {
+            "Depo Hacmi": "50 lt",
+            "Güç": "1.5 kW/2 Hp",
+            "Hava Emişi": "198 lt/dk",
+            "Basınç": "8 Bar",
+            "Devir": "2850 r/dk",
+            "Voltaj": "220 V",
+            "Piston Çapı": "47 mm",
+            "Ağırlık": "30 kg",
+            "Ölçüler": "68x32x68 cm"
+          },
+          "images": [
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-001-gp-50-1.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-001-gp-50-2.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-001-gp-50-3.webp"
+          ],
+          "thumb": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-001-gp-50-1.webp"
+        },
+        {
+          "id": "pistonlu-hava-kompresorleri-002-gp-100",
+          "title": "100 lt 2 Kafa 8 Bar 2 Hp Pistonlu Hava Kompresörü - GP 100",
+          "model": "GP 100",
+          "features": [
+            "Yağlı Sistem",
+            "Döküm Gövde",
+            "Çift Piston"
+          ],
+          "specs": {
+            "Depo Hacmi": "100 lt",
+            "Güç": "1.5 kW/2 Hp",
+            "Hava Emişi": "250 lt/dk",
+            "Basınç": "8 Bar",
+            "Devir": "920 r/dk",
+            "Voltaj": "220 V",
+            "Piston Çapı": "51x2 mm",
+            "Ölçüler": "100 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-002-gp-100-1.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-002-gp-100-2.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-002-gp-100-3.webp"
+          ],
+          "thumb": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-002-gp-100-1.webp"
+        },
+        {
+          "id": "pistonlu-hava-kompresorleri-004-gp-200",
+          "title": "200 lt 2 Kafa 8 Bar 3 Hp Pistonlu Hava Kompresörü - GP 200",
+          "model": "GP 200",
+          "features": [
+            "Yağlı Sistem",
+            "Döküm Gövde",
+            "Çift Piston"
+          ],
+          "specs": {
+            "Depo Hacmi": "200 lt",
+            "Güç": "2.2 kW/3 Hp",
+            "Hava Emişi": "350 lt/dk",
+            "Basınç": "8 Bar",
+            "Devir": "920 r/dk",
+            "Voltaj": "220 V (AC)",
+            "Piston Çapı": "65x2 mm",
+            "Ölçüler": "12 x 35 x 19,5 cm",
+            "Ağırlık": "4 kg"
+          },
+          "images": [
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-004-gp-200-1.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-004-gp-200-2.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-004-gp-200-3.webp"
+          ],
+          "thumb": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-004-gp-200-1.webp"
+        },
+        {
+          "id": "pistonlu-hava-kompresorleri-005-gp-290",
+          "title": "300 lt 2 Kafa 8 Bar 5.5 Hp Pistonlu Hava Kompresörü - GP 290",
+          "model": "GP 290",
+          "features": [
+            "Yağlı Sistem",
+            "Döküm Gövde",
+            "Çift Piston"
+          ],
+          "specs": {
+            "Depo Hacmi": "300 lt",
+            "Güç": "4 kW/5.5 Hp",
+            "Hava Emişi": "750 lt/dk",
+            "Basınç": "8 Bar",
+            "Devir": "860 r/dk",
+            "Voltaj": "380 V",
+            "Piston Çapı": "90x2 mm",
+            "Ölçüler": "300 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-005-gp-290-1.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-005-gp-290-2.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-005-gp-290-3.webp"
+          ],
+          "thumb": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-005-gp-290-1.webp"
+        },
+        {
+          "id": "pistonlu-hava-kompresorleri-007-300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru",
+          "title": "300 lt 2 Kafa 12 Bar 5.5 Hp Pistonlu Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Yağlı Sistem",
+            "Döküm Gövde",
+            "Çift Piston"
+          ],
+          "specs": {
+            "Depo Hacmi": "300 lt",
+            "Güç": "4 kW/5.5 Hp",
+            "Hava Emişi": "550 lt/dk",
+            "Basınç": "12 Bar",
+            "Devir": "860 r/dk",
+            "Voltaj": "380 V",
+            "Piston Çapı": "90/65 mm",
+            "Ölçüler": "300 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-007-300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru-1.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-007-300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru-2.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-007-300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-007-300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "pistonlu-hava-kompresorleri-008-500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru",
+          "title": "500 lt 2 Kafa 8 Bar 5.5 Hp Pistonlu Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Yağlı Sistem",
+            "Döküm Gövde",
+            "Çift Piston"
+          ],
+          "specs": {
+            "Depo Hacmi": "500 lt",
+            "Güç": "4 kW/5.5 Hp",
+            "Hava Emişi": "750 lt/dk",
+            "Basınç": "8 Bar",
+            "Devir": "860 r/dk",
+            "Voltaj": "380 V",
+            "Piston Çapı": "90x2 mm",
+            "Ölçüler": "500 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-008-500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru-1.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-008-500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru-2.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-008-500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-008-500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "pistonlu-hava-kompresorleri-010-gp-390",
+          "title": "500 lt 3 Kafa 8 Bar 10 Hp Pistonlu Hava Kompresörü - GP 390",
+          "model": "GP 390",
+          "features": [
+            "Yağlı Sistem",
+            "Döküm Gövde",
+            "Üç Piston"
+          ],
+          "specs": {
+            "Depo Hacmi": "500 lt",
+            "Güç": "7.5 kW/10  Hp",
+            "Hava Emişi": "1200 lt/dk",
+            "Basınç": "8 Bar",
+            "Devir": "860 r/dk",
+            "Voltaj": "380 V",
+            "Piston Çapı": "90x3 mm",
+            "Ölçüler": "500 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-010-gp-390-1.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-010-gp-390-2.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-010-gp-390-3.webp"
+          ],
+          "thumb": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-010-gp-390-1.webp"
+        },
+        {
+          "id": "pistonlu-hava-kompresorleri-011-500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru",
+          "title": "500 lt 3 Kafa 12 Bar 10 Hp Pistonlu Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Yağlı Sistem",
+            "Döküm Gövde",
+            "Üç Piston"
+          ],
+          "specs": {
+            "Depo Hacmi": "500 lt",
+            "Güç": "7.5 kW/10  Hp",
+            "Hava Emişi": "900 lt/dk",
+            "Basınç": "12 Bar",
+            "Devir": "860 r/dk",
+            "Voltaj": "380 V",
+            "Piston Çapı": "90x2/65 mm",
+            "Ölçüler": "500 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-011-500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-1.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-011-500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-2.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-011-500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-011-500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "pistonlu-hava-kompresorleri-013-gp-600",
+          "title": "600 lt 3 Kafa 8 Bar 10 Hp Pistonlu Hava Kompresörü - GP 600",
+          "model": "GP 600",
+          "features": [
+            "Yağlı Sistem",
+            "Döküm Gövde",
+            "Üç Piston"
+          ],
+          "specs": {
+            "Depo Hacmi": "600 lt",
+            "Güç": "7.5 kW/10  Hp",
+            "Hava Emişi": "1400 lt/dk",
+            "Basınç": "8 Bar",
+            "Devir": "820 r/dk",
+            "Voltaj": "380 V",
+            "Piston Çapı": "90x3 mm",
+            "Ölçüler": "600 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-013-gp-600-1.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-013-gp-600-2.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-013-gp-600-3.webp"
+          ],
+          "thumb": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-013-gp-600-1.webp"
+        },
+        {
+          "id": "pistonlu-hava-kompresorleri-014-600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru",
+          "title": "600 lt 3 Kafa 12 Bar 10 Hp Pistonlu Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Yağlı Sistem",
+            "Döküm Gövde",
+            "Üç Piston"
+          ],
+          "specs": {
+            "Depo Hacmi": "600 lt",
+            "Güç": "7.5 kW/10  Hp",
+            "Hava Emişi": "1100 lt/dk",
+            "Basınç": "12 Bar",
+            "Devir": "820 r/dk",
+            "Voltaj": "380 V",
+            "Piston Çapı": "90x2/65 mm",
+            "Ölçüler": "600 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-014-600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-1.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-014-600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-2.webp",
+            "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-014-600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-014-600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-1.webp"
+        }
+      ]
+    },
+    {
+      "id": "sessiz-ve-yagsiz-hava-kompresorleri",
+      "name": "Sessiz ve Yağsız Hava Kompresörleri",
+      "description": "GPS serisi sessiz ve yağsız hava kompresörleri; temiz hava gerektiren uygulamalar için idealdir.",
+      "cover": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-cover.webp",
+      "products": [
+        {
+          "id": "sessiz-ve-yagsiz-hava-kompresorleri-001-gps-750",
+          "title": "50 lt Sessiz ve Yağsız Hava Kompresörü - GPS 750",
+          "model": "GPS 750",
+          "features": [
+            "Sessiz ve Yağsız",
+            "Selenoid Valf Sistemi",
+            "2 Filtreli",
+            "Ses Düzeyi"
+          ],
+          "specs": {
+            "Depo Hacmi": "50 lt",
+            "Güç": "750 W/1 Hp",
+            "Hava Emişi": "225 lt/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "220 V",
+            "Devir": "1400 r/dk",
+            "Ölçüler": "50 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-001-gps-750-1.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-001-gps-750-2.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-001-gps-750-3.webp"
+          ],
+          "thumb": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-001-gps-750-1.webp"
+        },
+        {
+          "id": "sessiz-ve-yagsiz-hava-kompresorleri-004-gps-750x2",
+          "title": "50 lt Sessiz ve Yağsız Hava Kompresörü - GPS 750x2",
+          "model": "GPS 750X2",
+          "features": [
+            "Sessiz ve Yağsız",
+            "Selenoid Valf Sistemi",
+            "4 Filtreli",
+            "Ses Düzeyi"
+          ],
+          "specs": {
+            "Depo Hacmi": "50 lt",
+            "Güç": "750x2 W/2 Hp",
+            "Hava Emişi": "300 lt/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "220 V",
+            "Devir": "1400 r/dk",
+            "Ölçüler": "50 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-004-gps-750x2-1.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-004-gps-750x2-2.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-004-gps-750x2-3.webp"
+          ],
+          "thumb": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-004-gps-750x2-1.webp"
+        },
+        {
+          "id": "sessiz-ve-yagsiz-hava-kompresorleri-005-gps-750x3",
+          "title": "100 lt Sessiz ve Yağsız Hava Kompresörü - GPS 750x3",
+          "model": "GPS 750X3",
+          "features": [
+            "Sessiz ve Yağsız",
+            "Selenoid Valf Sistemi",
+            "6 Filtreli",
+            "Ses Düzeyi"
+          ],
+          "specs": {
+            "Depo Hacmi": "100 lt",
+            "Güç": "750x3 W/3 Hp",
+            "Hava Emişi": "470 lt/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "220 V",
+            "Devir": "1400 r/dk",
+            "Ölçüler": "100 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-005-gps-750x3-1.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-005-gps-750x3-2.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-005-gps-750x3-3.webp"
+          ],
+          "thumb": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-005-gps-750x3-1.webp"
+        },
+        {
+          "id": "sessiz-ve-yagsiz-hava-kompresorleri-007-gps-1100x3",
+          "title": "100 lt Sessiz ve Yağsız Hava Kompresörü - GPS 1100x3",
+          "model": "GPS 1100X3",
+          "features": [
+            "Sessiz ve Yağsız",
+            "Selenoid Valf Sistemi",
+            "6 Filtreli",
+            "Ses Düzeyi"
+          ],
+          "specs": {
+            "Depo Hacmi": "100 lt",
+            "Güç": "1100x3 W/4.5 Hp",
+            "Hava Emişi": "600 lt/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "220 V",
+            "Devir": "1400 r/dk",
+            "Ölçüler": "100 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-007-gps-1100x3-1.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-007-gps-1100x3-2.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-007-gps-1100x3-3.webp"
+          ],
+          "thumb": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-007-gps-1100x3-1.webp"
+        },
+        {
+          "id": "sessiz-ve-yagsiz-hava-kompresorleri-008-200-lt-sessiz-ve-yagsiz-hava-kompresoru",
+          "title": "200 lt Sessiz ve Yağsız Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Sessiz ve Yağsız",
+            "Selenoid Valf Sistemi",
+            "6 Filtreli",
+            "Ses Düzeyi"
+          ],
+          "specs": {
+            "Depo Hacmi": "200 lt",
+            "Güç": "750x3 W/3 Hp",
+            "Hava Emişi": "470 lt/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "220 V",
+            "Devir": "1400 r/dk",
+            "Ölçüler": "200 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-008-200-lt-sessiz-ve-yagsiz-hava-kompresoru-1.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-008-200-lt-sessiz-ve-yagsiz-hava-kompresoru-2.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-008-200-lt-sessiz-ve-yagsiz-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-008-200-lt-sessiz-ve-yagsiz-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "sessiz-ve-yagsiz-hava-kompresorleri-010-gps-750x4",
+          "title": "200 lt Sessiz ve Yağsız Hava Kompresörü - GPS 750x4",
+          "model": "GPS 750X4",
+          "features": [
+            "Sessiz ve Yağsız",
+            "Selenoid Valf Sistemi",
+            "8 Filtreli",
+            "Ses Düzeyi",
+            "Dijital Gösterge"
+          ],
+          "specs": {
+            "Depo Hacmi": "200 lt",
+            "Güç": "750x4 W/4 Hp",
+            "Hava Emişi": "550 lt/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "220 V",
+            "Devir": "1400 r/dk",
+            "Ölçüler": "200 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-010-gps-750x4-1.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-010-gps-750x4-2.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-010-gps-750x4-3.webp"
+          ],
+          "thumb": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-010-gps-750x4-1.webp"
+        },
+        {
+          "id": "sessiz-ve-yagsiz-hava-kompresorleri-011-gps-1100x4",
+          "title": "220 lt Sessiz ve Yağsız Hava Kompresörü - GPS 1100x4",
+          "model": "GPS 1100X4",
+          "features": [
+            "Sessiz ve Yağsız",
+            "Selenoid Valf Sistemi",
+            "8 Filtreli",
+            "Ses Düzeyi",
+            "Dijital Gösterge"
+          ],
+          "specs": {
+            "Depo Hacmi": "220 lt",
+            "Güç": "1100x4 W/6 Hp",
+            "Hava Emişi": "850 lt/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "220 V",
+            "Devir": "1400 r/dk",
+            "Ölçüler": "220 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-011-gps-1100x4-1.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-011-gps-1100x4-2.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-011-gps-1100x4-3.webp"
+          ],
+          "thumb": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-011-gps-1100x4-1.webp"
+        },
+        {
+          "id": "sessiz-ve-yagsiz-hava-kompresorleri-013-gps-1100x6",
+          "title": "300 lt Sessiz ve Yağsız Hava Kompresörü - GPS 1100x6",
+          "model": "GPS 1100X6",
+          "features": [
+            "Sessiz ve Yağsız",
+            "Selenoid Valf Sistemi",
+            "12 Filtreli",
+            "Ses Düzeyi",
+            "Dijital Gösterge"
+          ],
+          "specs": {
+            "Depo Hacmi": "300 lt",
+            "Güç": "1100x6 W/9 Hp",
+            "Hava Emişi": "850 lt/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "220 V",
+            "Devir": "1400 r/dk",
+            "Ölçüler": "300 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-013-gps-1100x6-1.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-013-gps-1100x6-2.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-013-gps-1100x6-3.webp"
+          ],
+          "thumb": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-013-gps-1100x6-1.webp"
+        },
+        {
+          "id": "sessiz-ve-yagsiz-hava-kompresorleri-014-gps-1500x6",
+          "title": "500 lt Sessiz ve Yağsız Hava Kompresörü - GPS 1500x6",
+          "model": "GPS 1500X6",
+          "features": [
+            "Sessiz ve Yağsız",
+            "Selenoid Valf Sistemi",
+            "12 Filtreli",
+            "Ses Düzeyi",
+            "Dijital Gösterge"
+          ],
+          "specs": {
+            "Depo Hacmi": "500 lt",
+            "Güç": "1500x6 W/12 Hp",
+            "Hava Emişi": "1000 lt/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "220 V",
+            "Devir": "1400 r/dk",
+            "Ölçüler": "500 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-014-gps-1500x6-1.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-014-gps-1500x6-2.webp",
+            "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-014-gps-1500x6-3.webp"
+          ],
+          "thumb": "assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-014-gps-1500x6-1.webp"
+        }
+      ]
+    },
+    {
+      "id": "yuksek-emisli-yagsiz-kompresorler",
+      "name": "Yüksek Emişli Yağsız Kompresörler",
+      "description": "GPY serisi yüksek emişli yağsız kompresörler; yüksek debi ve verimli çalışma sunar.",
+      "cover": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-cover.webp",
+      "products": [
+        {
+          "id": "yuksek-emisli-yagsiz-kompresorler-001-gpy-1500",
+          "title": "50 lt Yüksek Emişli Yağsız Teknoloji Hava Kompresörü - GPY 1500",
+          "model": "GPY 1500",
+          "features": [
+            "Yüksek Emişli ve Yağsız",
+            "Selenoid Valf Sistemi",
+            "2 Filtreli",
+            "Ses Düzeyi",
+            "Ergonomik Dizayn"
+          ],
+          "specs": {
+            "Depo Hacmi": "50 lt",
+            "Güç": "1500 W/2 Hp",
+            "Hava Emişi": "350 lt/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "220 V",
+            "Devir": "2800 r/dk",
+            "Ölçüler": "2 Hp"
+          },
+          "images": [
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-001-gpy-1500-1.webp",
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-001-gpy-1500-2.webp",
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-001-gpy-1500-3.webp"
+          ],
+          "thumb": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-001-gpy-1500-1.webp"
+        },
+        {
+          "id": "yuksek-emisli-yagsiz-kompresorler-004-gpy-1500x2",
+          "title": "100 lt Yüksek Emişli Yağsız Teknoloji Hava Kompresörü - GPY 1500x2",
+          "model": "GPY 1500X2",
+          "features": [
+            "Yüksek Emişli ve Yağsız",
+            "Selenoid Valf Sistemi",
+            "4 Filtreli",
+            "Ses Düzeyi",
+            "Dijital Gösterge",
+            "Ergonomik Dizayn"
+          ],
+          "specs": {
+            "Depo Hacmi": "100 lt",
+            "Güç": "1500x2 W/4 Hp",
+            "Hava Emişi": "450 lt/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "220 V",
+            "Devir": "2800 r/dk",
+            "Ölçüler": "100 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-004-gpy-1500x2-1.webp",
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-004-gpy-1500x2-2.webp",
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-004-gpy-1500x2-3.webp"
+          ],
+          "thumb": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-004-gpy-1500x2-1.webp"
+        },
+        {
+          "id": "yuksek-emisli-yagsiz-kompresorler-008-gpy-1500x4",
+          "title": "200 lt Yüksek Emişli Yağsız Teknoloji Hava Kompresörü - GPY 1500x4",
+          "model": "GPY 1500X4",
+          "features": [
+            "Yüksek Emişli ve Yağsız",
+            "Selenoid Valf Sistemi",
+            "8 Filtreli",
+            "Ses Düzeyi",
+            "Dijital Gösterge",
+            "Ergonomik Dizayn"
+          ],
+          "specs": {
+            "Depo Hacmi": "200 lt",
+            "Güç": "1500x4 W/8 Hp",
+            "Hava Emişi": "1000 lt/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "220 V",
+            "Devir": "2800 r/dk",
+            "Ölçüler": "200 Lt Tank"
+          },
+          "images": [
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-008-gpy-1500x4-1.webp",
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-008-gpy-1500x4-2.webp",
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-008-gpy-1500x4-3.webp"
+          ],
+          "thumb": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-008-gpy-1500x4-1.webp"
+        },
+        {
+          "id": "yuksek-emisli-yagsiz-kompresorler-014-cift-piston-8-bar-kompresor-kafasi",
+          "title": "Çift Piston 8 Bar Kompresör Kafası",
+          "model": "",
+          "features": [
+            "Kasnak Çapı",
+            "Silindir Sayısı",
+            "Dönüş hızı  maksimium 92"
+          ],
+          "specs": {
+            "Basınç": "8 Bar",
+            "Hava Emişi": "350 lt/dk",
+            "Piston Çapı": "51 mm"
+          },
+          "images": [
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-014-cift-piston-8-bar-kompresor-kafasi-1.webp",
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-014-cift-piston-8-bar-kompresor-kafasi-2.webp"
+          ],
+          "thumb": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-014-cift-piston-8-bar-kompresor-kafasi-1.webp"
+        },
+        {
+          "id": "yuksek-emisli-yagsiz-kompresorler-015-cift-piston-12-bar-kompresor-kafasi",
+          "title": "Çift Piston 12 Bar Kompresör Kafası",
+          "model": "",
+          "features": [
+            "Kasnak Çapı",
+            "Silindir Sayısı",
+            "Dönüş hızı  maksimium 86"
+          ],
+          "specs": {
+            "Basınç": "12 Bar",
+            "Hava Emişi": "550 lt/dk",
+            "Piston Çapı": "90 mm"
+          },
+          "images": [
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-015-cift-piston-12-bar-kompresor-kafasi-1.webp",
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-015-cift-piston-12-bar-kompresor-kafasi-2.webp"
+          ],
+          "thumb": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-015-cift-piston-12-bar-kompresor-kafasi-1.webp"
+        },
+        {
+          "id": "yuksek-emisli-yagsiz-kompresorler-017-uc-piston-12-bar-kompresor-kafasi",
+          "title": "Üç Piston 12 Bar Kompresör Kafası",
+          "model": "",
+          "features": [
+            "Kasnak Çapı",
+            "Silindir Sayısı",
+            "Dönüş hızı  maksimium 86"
+          ],
+          "specs": {
+            "Basınç": "12 Bar",
+            "Hava Emişi": "1200 lt/dk",
+            "Piston Çapı": "90 mm"
+          },
+          "images": [
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-017-uc-piston-12-bar-kompresor-kafasi-1.webp"
+          ],
+          "thumb": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-017-uc-piston-12-bar-kompresor-kafasi-1.webp"
+        },
+        {
+          "id": "yuksek-emisli-yagsiz-kompresorler-020-100-litre-hava-tanki-ile-kullanima-uygun",
+          "title": "100 Litre hava tankı ile kullanıma uygun",
+          "model": "",
+          "features": [
+            "Kafa Kasnak Çapı",
+            "Motor Kasnak Çapı",
+            "Silindir Sayısı"
+          ],
+          "specs": {
+            "Güç": "4 kW/5.5 Hp",
+            "Basınç": "12 Bar",
+            "Hava Emişi": "550 lt/dk",
+            "Devir": "860 r/dk",
+            "Voltaj": "380 V",
+            "Piston Çapı": "90 mm"
+          },
+          "images": [
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-020-100-litre-hava-tanki-ile-kullanima-uygun-1.webp"
+          ],
+          "thumb": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-020-100-litre-hava-tanki-ile-kullanima-uygun-1.webp"
+        },
+        {
+          "id": "yuksek-emisli-yagsiz-kompresorler-023-500-litre-hava-tanki-ile-kullanimina-uygun",
+          "title": "500 Litre hava tankı ile kullanımına uygun",
+          "model": "",
+          "features": [
+            "Kafa Kasnak Çapı",
+            "Motor Kasnak Çapı",
+            "Silindir Sayısı"
+          ],
+          "specs": {
+            "Güç": "7.5 kW/10 Hp",
+            "Basınç": "12 Bar",
+            "Hava Emişi": "1100 lt/dk",
+            "Devir": "820 r/dk",
+            "Voltaj": "380 V",
+            "Piston Çapı": "90 mm"
+          },
+          "images": [
+            "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-023-500-litre-hava-tanki-ile-kullanimina-uygun-page.webp"
+          ],
+          "thumb": "assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-023-500-litre-hava-tanki-ile-kullanimina-uygun-page.webp"
+        }
+      ]
+    },
+    {
+      "id": "vidali-hava-kompresorleri",
+      "name": "Vidalı Hava Kompresörleri",
+      "description": "GPV serisi vidalı, invertörlü ve depo üstü kompresör sistemleri.",
+      "cover": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-cover.webp",
+      "products": [
+        {
+          "id": "vidali-hava-kompresorleri-001-10-hp-500-lt-vidali-hava-kompresoru",
+          "title": "10 Hp 500 lt Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Direkt Akuple",
+            "Minimum Isı",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Minimum Enerji",
+            "Maksimum Performans"
+          ],
+          "specs": {
+            "Güç": "7.5 kW/10 Hp",
+            "Hava Emişi": "1200 lt/dk",
+            "Devir": "2850 r/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-001-10-hp-500-lt-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-001-10-hp-500-lt-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-001-10-hp-500-lt-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-001-10-hp-500-lt-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-002-gphk-1200",
+          "title": "GPHK 1200",
+          "model": "GPHK 1200",
+          "features": [
+            "Robot Kaynağı",
+            "500 Litre",
+            "Maks. Hava Basıncı",
+            "Maks. Çalışma Isısı",
+            "45 °C",
+            "Maks. Kurutma",
+            "3 °C",
+            "Ölçül"
+          ],
+          "specs": {
+            "Kapasite": "1.2 m3/dk",
+            "Çalışma Basıncı": "11 Bar",
+            "Test Basıncı": "16 Bar",
+            "Sac Kalınlığı": "4 mm",
+            "Ağırlık": "130 kg",
+            "Güç": "16 Hp - 2.2 Bar",
+            "Yükseklik": "210 cm",
+            "Voltaj": "220 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-002-gphk-1200-1.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-002-gphk-1200-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-004-15-hp-500-lt-vidali-hava-kompresoru",
+          "title": "15 Hp 500 lt Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Direkt Akuple",
+            "Minimum Isı",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Minimum Enerji",
+            "Maksimum Performans"
+          ],
+          "specs": {
+            "Güç": "11 kW/15 Hp",
+            "Hava Emişi": "1800 lt/dk",
+            "Devir": "2850 r/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-004-15-hp-500-lt-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-004-15-hp-500-lt-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-004-15-hp-500-lt-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-004-15-hp-500-lt-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-005-gphk-1800",
+          "title": "GPHK 1800",
+          "model": "GPHK 1800",
+          "features": [
+            "Robot Kaynağı",
+            "1.8 m3/dk",
+            "45 °C",
+            "3 °C",
+            "220 V",
+            "Ölçüle"
+          ],
+          "specs": {
+            "Kapasite": "500 Litre",
+            "Çalışma Basıncı": "Maks. Hava Basıncı",
+            "Test Basıncı": "Maks. Çalışma Isısı",
+            "Sac Kalınlığı": "Maks. Kurutma",
+            "Güç": "130 kg",
+            "Voltaj": "210 cm"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-005-gphk-1800-1.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-005-gphk-1800-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-007-20-hp-1000-lt-vidali-hava-kompresoru",
+          "title": "20 Hp 1000 lt Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Direkt Akuple",
+            "Minimum Isı",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Minimum Enerji",
+            "Maksimum Performans"
+          ],
+          "specs": {
+            "Depo Hacmi": "1000 lt",
+            "Güç": "15 kW/20 Hp",
+            "Voltaj": "380 V",
+            "Basınç": "8 Bar",
+            "Hava Emişi": "2600 lt/dk"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-007-20-hp-1000-lt-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-007-20-hp-1000-lt-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-007-20-hp-1000-lt-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-007-20-hp-1000-lt-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-008-gphk-2600",
+          "title": "GPHK 2600",
+          "model": "GPHK 2600",
+          "features": [
+            "Robot Kaynağı",
+            "1000 Litre",
+            "Maks. Hava Basıncı",
+            "Maks. Çalışma Isısı",
+            "Maks. Kurutma"
+          ],
+          "specs": {
+            "Kapasite": "2.6 m3/dk",
+            "Çalışma Basıncı": "16 Bar",
+            "Test Basıncı": "45 °C",
+            "Sac Kalınlığı": "3 °C",
+            "Ağırlık": "16 Hp - 2.2 Bar",
+            "Yükseklik": "220 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-008-gphk-2600-1.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-008-gphk-2600-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-010-30-hp-1000-lt-vidali-hava-kompresoru",
+          "title": "30 Hp 1000 lt Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Direkt Akuple",
+            "Minimum Isı",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Minimum Enerji",
+            "Maksimum Performans"
+          ],
+          "specs": {
+            "Güç": "22 kW/30 Hp",
+            "Hava Emişi": "3700 lt/dk",
+            "Devir": "2850 r/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-010-30-hp-1000-lt-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-010-30-hp-1000-lt-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-010-30-hp-1000-lt-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-010-30-hp-1000-lt-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-011-gphk-3700",
+          "title": "GPHK 3700",
+          "model": "GPHK 3700",
+          "features": [
+            "Robot Kaynağı",
+            "3.7 m3/dk",
+            "Maks. Hava Basıncı",
+            "Maks. Çalışma Isısı",
+            "45 °C",
+            "Maks. Kurutma",
+            "3 °C"
+          ],
+          "specs": {
+            "Kapasite": "1000 Litre",
+            "Çalışma Basıncı": "11 Bar",
+            "Test Basıncı": "16 Bar",
+            "Sac Kalınlığı": "5 mm",
+            "Güç": "16 Hp - 2.2 Bar",
+            "Ağırlık": "240 kg",
+            "Voltaj": "220 V",
+            "Yükseklik": "220 cm"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-011-gphk-3700-1.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-011-gphk-3700-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-013-50-hp-1000-lt-vidali-hava-kompresoru",
+          "title": "50 Hp 1000 lt Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Direkt Akuple",
+            "Minimum Isı",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Minimum Enerji",
+            "Maksimum Performans"
+          ],
+          "specs": {
+            "Güç": "37 kW/50 Hp",
+            "Hava Emişi": "6500 lt/dk",
+            "Devir": "2850 r/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-013-50-hp-1000-lt-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-013-50-hp-1000-lt-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-013-50-hp-1000-lt-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-013-50-hp-1000-lt-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-014-gphk-6500",
+          "title": "GPHK 6500",
+          "model": "GPHK 6500",
+          "features": [
+            "Robot Kaynağı",
+            "6.5 m3/dk",
+            "Maks. Hava Basıncı",
+            "Maks. Çalışma Isısı",
+            "45 °C",
+            "Maks. Kurutma",
+            "3 °C"
+          ],
+          "specs": {
+            "Kapasite": "1000 Litre",
+            "Çalışma Basıncı": "11 Bar",
+            "Test Basıncı": "16 Bar",
+            "Sac Kalınlığı": "5 mm",
+            "Güç": "16 Hp - 2.2 Bar",
+            "Ağırlık": "240 kg",
+            "Voltaj": "220 V",
+            "Yükseklik": "220 cm"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-014-gphk-6500-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-014-gphk-6500-2.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-014-gphk-6500-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-024-10-hp-500-lt-depo-ustu-vidali-hava-kompresoru",
+          "title": "10 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "HAVA KURUTUCU",
+            "HAVA TANKI",
+            "KOMPRESÖR",
+            "500 Litre",
+            "Maks. Çalışma Isısı",
+            "380 V",
+            "45 °C",
+            "Maks. Kurutma"
+          ],
+          "specs": {
+            "Kapasite": "1.2 m3/dk",
+            "Hava Emişi": "Maks. Hava Basıncı",
+            "Çalışma Basıncı": "11 Bar",
+            "Voltaj": "16 Bar",
+            "Sac Kalınlığı": "3 °C",
+            "Devir": "130 kg",
+            "Ölçüler": "65 dB"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-024-10-hp-500-lt-depo-ustu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-024-10-hp-500-lt-depo-ustu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-024-10-hp-500-lt-depo-ustu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-024-10-hp-500-lt-depo-ustu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-025-15-hp-500-lt-depo-ustu-vidali-hava-kompresoru",
+          "title": "15 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "HAVA KURUTUCU",
+            "HAVA TANKI",
+            "KOMPRESÖR",
+            "500 Litre",
+            "Maks. Çalışma Isısı",
+            "380 V",
+            "45 °C",
+            "Maks. Kurutma"
+          ],
+          "specs": {
+            "Kapasite": "1.8 m3/dk",
+            "Hava Emişi": "Maks. Hava Basıncı",
+            "Çalışma Basıncı": "11 Bar",
+            "Voltaj": "16 Bar",
+            "Sac Kalınlığı": "3 °C",
+            "Güç": "130 kg",
+            "Ölçüler": "67 dB"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-025-15-hp-500-lt-depo-ustu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-025-15-hp-500-lt-depo-ustu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-025-15-hp-500-lt-depo-ustu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-025-15-hp-500-lt-depo-ustu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-027-20-hp-500-lt-depo-ustu-vidali-hava-kompresoru",
+          "title": "20 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "HAVA KURUTUCU",
+            "HAVA TANKI",
+            "KOMPRESÖR",
+            "2.6 m3/dk",
+            "500 Litre",
+            "Maks. Çalışma Isısı",
+            "380 V",
+            "45 °C"
+          ],
+          "specs": {
+            "Kapasite": "15 kW/20 Hp",
+            "Hava Emişi": "Maks. Hava Basıncı",
+            "Çalışma Basıncı": "11 Bar",
+            "Voltaj": "16 Bar",
+            "Sac Kalınlığı": "3 °C",
+            "Güç": "130 kg",
+            "Ölçüler": "68 dB"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-027-20-hp-500-lt-depo-ustu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-027-20-hp-500-lt-depo-ustu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-027-20-hp-500-lt-depo-ustu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-027-20-hp-500-lt-depo-ustu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-030-10-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru",
+          "title": "10 Hp 500 lt İnvertörlü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Direkt Akuple",
+            "Minimum Isı",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Maksimum Performans",
+            "%50‘ye Varan Enerji Tasarru"
+          ],
+          "specs": {
+            "Güç": "7.5 kW/10 Hp",
+            "Hava Emişi": "1200 lt/dk",
+            "Devir": "3000 r/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-030-10-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-030-10-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-030-10-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-030-10-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-031-gphk-1200",
+          "title": "GPHK 1200",
+          "model": "GPHK 1200",
+          "features": [
+            "Robot Kaynağı",
+            "500 Litre",
+            "Maks. Hava Basıncı",
+            "Maks. Çalışma Isısı",
+            "45 °C",
+            "Maks. Kurutma",
+            "3 °C",
+            "Ölçüle"
+          ],
+          "specs": {
+            "Kapasite": "1.2 m3/dk",
+            "Çalışma Basıncı": "11 Bar",
+            "Test Basıncı": "16 Bar",
+            "Sac Kalınlığı": "4 mm",
+            "Ağırlık": "130 kg",
+            "Güç": "16 Hp - 2.2 Bar",
+            "Yükseklik": "210 cm",
+            "Voltaj": "220 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-031-gphk-1200-1.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-031-gphk-1200-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-033-15-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru",
+          "title": "15 Hp 500 lt İnvertörlü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Direkt Akuple",
+            "Minimum Isı",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Maksimum Performans",
+            "%50‘ye Varan Enerji Tasarru"
+          ],
+          "specs": {
+            "Güç": "11 kW/15 Hp",
+            "Hava Emişi": "1800 lt/dk",
+            "Devir": "3000 r/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-033-15-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-033-15-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-033-15-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-033-15-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-034-gphk-1800",
+          "title": "GPHK 1800",
+          "model": "GPHK 1800",
+          "features": [
+            "Robot Kaynağı",
+            "1.8 m3/dk",
+            "45 °C",
+            "3 °C",
+            "220 V",
+            "Ölçüle"
+          ],
+          "specs": {
+            "Kapasite": "500 Litre",
+            "Çalışma Basıncı": "Maks. Hava Basıncı",
+            "Test Basıncı": "Maks. Çalışma Isısı",
+            "Sac Kalınlığı": "Maks. Kurutma",
+            "Güç": "130 kg",
+            "Voltaj": "210 cm"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-034-gphk-1800-1.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-034-gphk-1800-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-036-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru",
+          "title": "20 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Direkt Akuple",
+            "Minimum Isı",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Maksimum Performans",
+            "%50 ‘ye Varan Enerji Tasarr"
+          ],
+          "specs": {
+            "Güç": "15 kW/20 Hp",
+            "Hava Emişi": "2600 lt/dk",
+            "Devir": "3000 r/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-036-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-036-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-036-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-036-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-037-gphk-2600",
+          "title": "GPHK 2600",
+          "model": "GPHK 2600",
+          "features": [
+            "Robot Kaynağı",
+            "1000 Litre",
+            "Maks. Hava Basıncı",
+            "Maks. Çalışma Isısı",
+            "Maks. Kurutma"
+          ],
+          "specs": {
+            "Kapasite": "2.6 m3/dk",
+            "Çalışma Basıncı": "16 Bar",
+            "Test Basıncı": "45 °C",
+            "Sac Kalınlığı": "3 °C",
+            "Ağırlık": "16 Hp - 2.2 Bar",
+            "Yükseklik": "220 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-037-gphk-2600-1.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-037-gphk-2600-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-039-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru",
+          "title": "30 Hp 1000 lt İnvertörlü  Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Direkt Akuple",
+            "Minimum Isı",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Maksimum Performans",
+            "%50‘ye Varan Enerji Tasarru"
+          ],
+          "specs": {
+            "Güç": "22 kW/30 Hp",
+            "Hava Emişi": "3700 lt/dk",
+            "Devir": "3000 r/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-039-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-039-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-039-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-039-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-040-gphk-3700",
+          "title": "GPHK 3700",
+          "model": "GPHK 3700",
+          "features": [
+            "Robot Kaynağı",
+            "3.7 m3/dk",
+            "Maks. Hava Basıncı",
+            "Maks. Çalışma Isısı",
+            "45 °C",
+            "Maks. Kurutma",
+            "3 °C"
+          ],
+          "specs": {
+            "Kapasite": "1000 Litre",
+            "Çalışma Basıncı": "11 Bar",
+            "Test Basıncı": "16 Bar",
+            "Sac Kalınlığı": "5 mm",
+            "Güç": "16 Hp - 2.2 Bar",
+            "Ağırlık": "240 kg",
+            "Voltaj": "220 V",
+            "Yükseklik": "220 cm"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-040-gphk-3700-1.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-040-gphk-3700-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-042-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru",
+          "title": "50 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Direkt Akuple",
+            "Minimum Isı",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Maksimum Performans",
+            "%50‘ye Varan Enerji Tasarru"
+          ],
+          "specs": {
+            "Güç": "37 kW/50 Hp",
+            "Hava Emişi": "6500 lt/dk",
+            "Devir": "3000 r/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-042-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-042-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-042-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-042-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-043-gphk-6500",
+          "title": "GPHK 6500",
+          "model": "GPHK 6500",
+          "features": [
+            "Robot Kaynağı",
+            "6.5 m3/dk",
+            "Maks. Hava Basıncı",
+            "Maks. Çalışma Isısı",
+            "45 °C",
+            "Maks. Kurutma",
+            "3 °C"
+          ],
+          "specs": {
+            "Kapasite": "1000 Litre",
+            "Çalışma Basıncı": "11 Bar",
+            "Test Basıncı": "16 Bar",
+            "Sac Kalınlığı": "5 mm",
+            "Güç": "16 Hp - 2.2 Bar",
+            "Ağırlık": "240 kg",
+            "Voltaj": "220 V",
+            "Yükseklik": "220 cm"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-043-gphk-6500-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-043-gphk-6500-2.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-043-gphk-6500-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-045-75-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru",
+          "title": "75 Hp 2000 lt İnvertörlü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Direkt Akuple",
+            "Minimum Isı",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Maksimum Performans",
+            "%50‘ye Varan Enerji Tasarru"
+          ],
+          "specs": {
+            "Güç": "55 kW/75 Hp",
+            "Hava Emişi": "9600  lt/dk",
+            "Devir": "3000 r/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-045-75-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-045-75-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-045-75-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-045-75-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-046-gphk-11000",
+          "title": "GPHK 11000",
+          "model": "GPHK 11000",
+          "features": [
+            "Robot Kaynağı",
+            "11 m3/dk",
+            "Maks. Hava Basıncı",
+            "Maks. Çalışma Isısı",
+            "45 °C",
+            "Maks. Kurutma",
+            "3 °C"
+          ],
+          "specs": {
+            "Kapasite": "2000 Litre",
+            "Çalışma Basıncı": "11 Bar",
+            "Test Basıncı": "16 Bar",
+            "Sac Kalınlığı": "6 mm",
+            "Güç": "16 Hp - 2.2 Bar",
+            "Ağırlık": "480 kg",
+            "Voltaj": "220 V",
+            "Yükseklik": "235 cm"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-046-gphk-11000-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-046-gphk-11000-2.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-046-gphk-11000-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-048-100-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru",
+          "title": "100 Hp 2000 lt İnvertörlü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Direkt Akuple",
+            "Minimum Isı",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Maksimum Performans",
+            "%50‘ye Varan Enerji Tasarru"
+          ],
+          "specs": {
+            "Güç": "75 kW/100 Hp",
+            "Hava Emişi": "12600  lt/dk",
+            "Devir": "3000 r/dk",
+            "Basınç": "8 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-048-100-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-048-100-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-048-100-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-048-100-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-049-gphk-13000",
+          "title": "GPHK 13000",
+          "model": "GPHK 13000",
+          "features": [
+            "Robot Kaynağı",
+            "13 m3/dk",
+            "Maks. Hava Basıncı",
+            "Maks. Çalışma Isısı",
+            "45 °C",
+            "Maks. Kurutma",
+            "3 °C"
+          ],
+          "specs": {
+            "Kapasite": "2000 Litre",
+            "Çalışma Basıncı": "11 Bar",
+            "Test Basıncı": "16 Bar",
+            "Sac Kalınlığı": "6 mm",
+            "Güç": "16 Hp - 2.2 Bar",
+            "Ağırlık": "480 kg",
+            "Voltaj": "220 V",
+            "Yükseklik": "235 cm"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-049-gphk-13000-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-049-gphk-13000-2.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-049-gphk-13000-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-059-10-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru",
+          "title": "10 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "HAVA KURUTUCU",
+            "HAVA TANKI",
+            "KOMPRESÖR",
+            "500 Litre",
+            "Maks. Çalışma Isısı",
+            "380 V",
+            "45 °C",
+            "Maks. Kurutma"
+          ],
+          "specs": {
+            "Kapasite": "1.2 m3/dk",
+            "Hava Emişi": "Maks. Hava Basıncı",
+            "Çalışma Basıncı": "11 Bar",
+            "Voltaj": "16 Bar",
+            "Sac Kalınlığı": "3 °C",
+            "Güç": "130 kg",
+            "Ölçüler": "65 dB"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-059-10-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-059-10-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-059-10-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-059-10-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-060-15-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru",
+          "title": "15 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "HAVA KURUTUCU",
+            "HAVA TANKI",
+            "KOMPRESÖR",
+            "500 Litre",
+            "Maks. Çalışma Isısı",
+            "380 V",
+            "45 °C",
+            "Maks. Kurutma"
+          ],
+          "specs": {
+            "Kapasite": "1.8 m3/dk",
+            "Hava Emişi": "Maks. Hava Basıncı",
+            "Çalışma Basıncı": "11 Bar",
+            "Voltaj": "16 Bar",
+            "Sac Kalınlığı": "3 °C",
+            "Güç": "130 kg",
+            "Ölçüler": "67 dB"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-060-15-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-060-15-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-060-15-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-060-15-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-062-20-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru",
+          "title": "20 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "HAVA KURUTUCU",
+            "HAVA TANKI",
+            "KOMPRESÖRÜ",
+            "2.6 m3/dk",
+            "500 Litre",
+            "Maks. Çalışma Isısı",
+            "380 V",
+            "45 °C"
+          ],
+          "specs": {
+            "Kapasite": "15 kW/20 Hp",
+            "Hava Emişi": "Maks. Hava Basıncı",
+            "Çalışma Basıncı": "11 Bar",
+            "Voltaj": "16 Bar",
+            "Sac Kalınlığı": "3 °C",
+            "Güç": "130 kg",
+            "Ölçüler": "68 dB"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-062-20-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-062-20-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-062-20-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-062-20-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-065-16-bar-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru",
+          "title": "16 Bar 20 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Minimum Isı",
+            "Direkt Akuple",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Maksimum Performans",
+            "%50‘ye Varan Enerji Tasarru"
+          ],
+          "specs": {
+            "Güç": "15 kW/20 Hp",
+            "Hava Emişi": "1800 lt/dk",
+            "Devir": "3000 r/dk",
+            "Basınç": "16 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-065-16-bar-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-065-16-bar-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-065-16-bar-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-065-16-bar-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-066-gphk-1800",
+          "title": "GPHK 1800",
+          "model": "GPHK 1800",
+          "features": [
+            "Robot Kaynağı",
+            "500 Litre",
+            "Maks. Hava Basıncı",
+            "Maks. Çalışma Isısı",
+            "45 °C",
+            "Maks. Kurutma",
+            "3 °C",
+            "Ölçüle"
+          ],
+          "specs": {
+            "Kapasite": "1.8 m3/dk",
+            "Çalışma Basıncı": "16 Bar",
+            "Test Basıncı": "24 Bar",
+            "Sac Kalınlığı": "5 mm",
+            "Ağırlık": "180 kg",
+            "Güç": "16 Hp - 2.2 Bar",
+            "Yükseklik": "210 cm",
+            "Voltaj": "220 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-066-gphk-1800-1.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-066-gphk-1800-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-068-16-bar-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru",
+          "title": "16 Bar 30 Hp 1000 lt İnvertörlü  Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Minimum Isı",
+            "Direkt Akuple",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Maksimum Performans",
+            "%50‘ye Varan Enerji Tasarru"
+          ],
+          "specs": {
+            "Güç": "22 kW/30 Hp",
+            "Hava Emişi": "2600 lt/dk",
+            "Devir": "3000 r/dk",
+            "Basınç": "16 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-068-16-bar-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-068-16-bar-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-068-16-bar-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-068-16-bar-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-069-gphk-2600",
+          "title": "GPHK 2600",
+          "model": "GPHK 2600",
+          "features": [
+            "Robot Kaynağı",
+            "1000 Litre",
+            "Maks. Hava Basıncı",
+            "Maks. Çalışma Isısı",
+            "Maks. Kurutma"
+          ],
+          "specs": {
+            "Kapasite": "2.6 m3/dk",
+            "Çalışma Basıncı": "16 Bar",
+            "Test Basıncı": "45 °C",
+            "Sac Kalınlığı": "3 °C",
+            "Ağırlık": "16 Hp - 2.2 Bar",
+            "Yükseklik": "220 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-069-gphk-2600-1.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-069-gphk-2600-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-071-16-bar-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru",
+          "title": "16 Bar 50 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü",
+          "model": "",
+          "features": [
+            "Tayvan Vida Grubu",
+            "Minimum Isı",
+            "Direkt Akuple",
+            "Ses Düzeyi",
+            "Minimum Ses",
+            "Dijital Ekran",
+            "Maksimum Performans",
+            "%50‘ye Varan Enerji Tasarruf"
+          ],
+          "specs": {
+            "Güç": "37 kW/50 Hp",
+            "Hava Emişi": "3700 lt/dk",
+            "Devir": "3000 r/dk",
+            "Basınç": "16 Bar",
+            "Voltaj": "380 V"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-071-16-bar-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-071-16-bar-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp",
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-071-16-bar-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-071-16-bar-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp"
+        },
+        {
+          "id": "vidali-hava-kompresorleri-072-gphk-3700",
+          "title": "GPHK 3700",
+          "model": "GPHK 3700",
+          "features": [
+            "Robot Kaynağı",
+            "3.7 m3/dk",
+            "Maks. Hava Basıncı",
+            "Maks. Çalışma Isısı",
+            "45 °C",
+            "Maks. Kurutma",
+            "3 °C"
+          ],
+          "specs": {
+            "Kapasite": "1000 Litre",
+            "Çalışma Basıncı": "16 Bar",
+            "Test Basıncı": "24 Bar",
+            "Sac Kalınlığı": "6 mm",
+            "Güç": "16 Hp - 2.2 Bar",
+            "Ağırlık": "330 kg",
+            "Voltaj": "220 V",
+            "Yükseklik": "220 cm"
+          },
+          "images": [
+            "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-072-gphk-3700-1.webp"
+          ],
+          "thumb": "assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-072-gphk-3700-1.webp"
+        }
+      ]
+    },
+    {
+      "id": "hava-kurutucu-ve-filtreler",
+      "name": "Hava Kurutucu ve Filtreler",
+      "description": "Hava kurutucular, su tutucu filtreler, kimyasal kurutucu ve aktif karbon kuleleri.",
+      "cover": "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-cover.webp",
+      "products": [
+        {
+          "id": "hava-kurutucu-ve-filtreler-001-gpdk",
+          "title": "Alüminyum Gövdeli Kimyasal Hava Kurutucuları - GPDK 1800/2600/3700",
+          "model": "GPDK",
+          "features": [
+            "Sağlam ve dayanıklı alüminyum gövde",
+            "Geniş kurutma alanı",
+            "Güçlü hava akımı",
+            "Ayarlanabilir fan hızı ve ısı ayarı",
+            "Patlama emniyetli tasarım",
+            "Kullanımı kolay kontrol paneli"
+          ],
+          "specs": {
+            "Bağlantı": "1\"",
+            "Kapasite": "1800 / 2600 / 3700 Lt/dk",
+            "Voltaj": "220 V/1 PH/50 Hz",
+            "Basınç": "16 Bar",
+            "Ölçüler": "394x388x784 mm (1800 model)",
+            "Ağırlık": "35 kg (1800 model)"
+          },
+          "images": [
+            "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-001-gpdk-1.webp",
+            "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-001-gpdk-2.webp"
+          ],
+          "thumb": "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-001-gpdk-1.webp"
+        },
+        {
+          "id": "hava-kurutucu-ve-filtreler-002-gpac",
+          "title": "Alüminyum Gövdeli Aktif Karbon Kuleleri - GPAC 1800/2600/3700",
+          "model": "GPAC",
+          "features": [
+            "Yağ buharı ve koku giderimi",
+            "Yüksek verimlilik (%99,9'a kadar)",
+            "Kolay montaj ve kullanım",
+            "Düşük bakım maliyeti",
+            "Geniş uygulama alanı",
+            "Çevre dostu aktif karbon dolgu"
+          ],
+          "specs": {
+            "Bağlantı": "1\"",
+            "Kapasite": "1200 / 2200 Lt/dk",
+            "Basınç": "16 Bar",
+            "Ölçüler": "220x1050 mm (1800 model)",
+            "Ağırlık": "25 kg (1800 model)"
+          },
+          "images": [
+            "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-002-gpac-1.webp"
+          ],
+          "thumb": "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-002-gpac-1.webp"
+        },
+        {
+          "id": "hava-kurutucu-ve-filtreler-003-gpf-1800",
+          "title": "3/4\" Su Tutucu Filtre - GPF 1800",
+          "model": "GPF 1800",
+          "features": [
+            "Yüksek Kalite",
+            "Döküm Gövde",
+            "Değişebilir İç Element"
+          ],
+          "specs": {
+            "Bağlantı": "3/4\"",
+            "Gövde": "Döküm",
+            "Tip": "Su Tutucu Filtre",
+            "Max. Basınç": "16 Bar"
+          },
+          "images": [
+            "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-003-gpf-1800-1.webp",
+            "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-003-gpf-1800-2.webp"
+          ],
+          "thumb": "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-003-gpf-1800-1.webp"
+        },
+        {
+          "id": "hava-kurutucu-ve-filtreler-004-gpf-2600",
+          "title": "1\" Su Tutucu Filtre - GPF 2600",
+          "model": "GPF 2600",
+          "features": [
+            "Yüksek Kalite",
+            "Döküm Gövde",
+            "Değişebilir İç Element"
+          ],
+          "specs": {
+            "Bağlantı": "1\"",
+            "Gövde": "Döküm",
+            "Tip": "Su Tutucu Filtre",
+            "Max. Basınç": "16 Bar"
+          },
+          "images": [
+            "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-004-gpf-2600-page.webp"
+          ],
+          "thumb": "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-004-gpf-2600-page.webp"
+        },
+        {
+          "id": "hava-kurutucu-ve-filtreler-005-gpf-3700",
+          "title": "1-1/2\" Su Tutucu Filtre - GPF 3700",
+          "model": "GPF 3700",
+          "features": [
+            "Yüksek Kalite",
+            "Döküm Gövde",
+            "Değişebilir İç Element"
+          ],
+          "specs": {
+            "Bağlantı": "1-1/2\"",
+            "Gövde": "Döküm",
+            "Tip": "Su Tutucu Filtre",
+            "Max. Basınç": "16 Bar"
+          },
+          "images": [
+            "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-005-gpf-3700-page.webp"
+          ],
+          "thumb": "assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-005-gpf-3700-page.webp"
+        }
+      ]
+    },
+    {
+      "id": "arac-kaldirma-liftleri",
+      "name": "Araç Kaldırma Liftleri",
+      "description": "İki sütunlu liftler, makaslı liftler ve oto servis kaldırma sistemleri.",
+      "cover": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-cover.webp",
+      "products": [
+        {
+          "id": "arac-kaldirma-liftleri-001-gpl-101",
+          "title": "4 Ton İki Sütunlu Elektro Hidrolik Lift (Yarı Otomatik) - GPL 101",
+          "model": "GPL 101",
+          "features": [
+            "Güçlendirilmiş Gövde",
+            "Yükseltici Takozlar",
+            "Zincir, Halat ve Kilit",
+            "Elektrik Panosu",
+            "2 Kademeli Kol",
+            "Kilit Açma Kolu"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "4 Ton",
+            "Kontrol": "Yarı Otomatik",
+            "Max. Kaldırma Yüksekliği": "1800 mm",
+            "Ara Mesafe": "2740 mm",
+            "Dıştan Dışa Lift Ölçüsü": "3300 mm",
+            "Sütun Yüksekliği": "2700 mm",
+            "Sütun Genişliği": "330 mm",
+            "Kısa Kol Ölçüsü": "760 - 1050 mm",
+            "Uzun Kol Ölçüsü": "760 - 1200 mm",
+            "Kaldırma Süresi": "50 sn",
+            "İndirme Süresi": "30 sn",
+            "Motor Gücü": "2.2 kW/3 Hp",
+            "Voltaj": "380V/220V",
+            "Ağırlık": "520 kg",
+            "Ambalajlı Ölçüsü": "2840x500x710 mm"
+          },
+          "images": [
+            "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-001-gpl-101-1.webp"
+          ],
+          "thumb": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-001-gpl-101-1.webp"
+        },
+        {
+          "id": "arac-kaldirma-liftleri-002-gpl-102",
+          "title": "4 Ton İki Sütunlu Elektro Hidrolik Lift (Tam Otomatik) - GPL 102",
+          "model": "GPL 102",
+          "features": [
+            "Güçlendirilmiş Gövde",
+            "Yükseltici Takozlar",
+            "Zincir, Halat ve Kilit",
+            "Elektrik Panosu",
+            "3 Kademeli Kol"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "4 Ton",
+            "Kontrol": "Tam Otomatik",
+            "Max. Kaldırma Yüksekliği": "1800 mm",
+            "Ara Mesafe": "2740 mm",
+            "Dıştan Dışa Lift Ölçüsü": "3300 mm",
+            "Sütun Yüksekliği": "2700 mm",
+            "Sütun Genişliği": "330 mm",
+            "Kısa Kol Ölçüsü": "760 - 1050 mm",
+            "Uzun Kol Ölçüsü": "760 - 1050-1240 mm",
+            "Kaldırma Süresi": "50 sn",
+            "İndirme Süresi": "30 sn",
+            "Motor Gücü": "2.2 kW/3 Hp",
+            "Voltaj": "380V/220V",
+            "Ağırlık": "535 kg",
+            "Ambalajlı Ölçüsü": "2840x500x710 mm"
+          },
+          "images": [
+            "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-002-gpl-102-1.webp"
+          ],
+          "thumb": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-002-gpl-102-1.webp"
+        },
+        {
+          "id": "arac-kaldirma-liftleri-003-gpl-102u",
+          "title": "4 Ton İki Sütunlu Üstten Bağlantılı Tam Otomatik Hidrolik Lift - GPL 102U",
+          "model": "GPL 102U",
+          "features": [
+            "Güçlendirilmiş Gövde",
+            "Yükseltici Takozlar",
+            "Zincir, Halat ve Kilit",
+            "Elektrik Panosu",
+            "3 Kademeli Kol"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "4 Ton",
+            "Kontrol": "Tam Otomatik",
+            "Max. Kaldırma Yüksekliği": "1800 mm",
+            "Ara Mesafe": "2750 mm",
+            "Dıştan Dışa Lift Ölçüsü": "3300 mm",
+            "Sütun Yüksekliği": "3600 mm",
+            "Sütun Genişliği": "330 mm",
+            "Kısa Kol Ölçüsü": "760 - 1050 mm",
+            "Uzun Kol Ölçüsü": "760 - 1050-1240 mm",
+            "Kaldırma Süresi": "50 sn",
+            "İndirme Süresi": "30 sn",
+            "Motor Gücü": "2.2 kW/3 Hp",
+            "Voltaj": "380V/220V",
+            "Ağırlık": "575 kg",
+            "Ambalajlı Ölçüsü": "280x7x45 cm"
+          },
+          "images": [
+            "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-003-gpl-102u-page.webp"
+          ],
+          "thumb": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-003-gpl-102u-page.webp"
+        },
+        {
+          "id": "arac-kaldirma-liftleri-004-gpl-103",
+          "title": "5 Ton İki Sütunlu Elektro Hidrolik Lift (Tam Otomatik) - GPL 103",
+          "model": "GPL 103",
+          "features": [
+            "Güçlendirilmiş Gövde",
+            "Yükseltici Takozlar",
+            "Zincir, Halat ve Kilit",
+            "Elektrik Panosu",
+            "3 Kademeli Kol"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "5 Ton",
+            "Kontrol": "Tam Otomatik",
+            "Max. Kaldırma Yüksekliği": "1800 mm",
+            "Ara Mesafe": "3190 mm",
+            "Dıştan Dışa Lift Ölçüsü": "3800 mm",
+            "Sütun Yüksekliği": "2700 mm",
+            "Sütun Genişliği": "380 mm",
+            "Kısa Kol Ölçüsü": "800 - 1100 - 1400 mm",
+            "Uzun Kol Ölçüsü": "870 - 1200 - 1500 mm",
+            "Kaldırma Süresi": "50 sn",
+            "İndirme Süresi": "30 sn",
+            "Motor Gücü": "2.2 kW/3 Hp",
+            "Voltaj": "380V/220V",
+            "Ağırlık": "650 kg",
+            "Ambalajlı Ölçüsü": "2840x500x710 mm"
+          },
+          "images": [
+            "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-004-gpl-103-1.webp"
+          ],
+          "thumb": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-004-gpl-103-1.webp"
+        },
+        {
+          "id": "arac-kaldirma-liftleri-005-gpl-103u",
+          "title": "5 Ton İki Sütunlu Üsten Bağlantılı Tam Otomatik Hidrolik Lift - GPL 103U",
+          "model": "GPL 103U",
+          "features": [
+            "Güçlendirilmiş Gövde",
+            "Yükseltici Takozlar",
+            "Zincir, Halat ve Kilit",
+            "Elektrik Panosu",
+            "3 Kademeli Kol"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "5 Ton",
+            "Kontrol": "Tam Otomatik",
+            "Max. Kaldırma Yüksekliği": "1800 mm",
+            "Ara Mesafe": "3200 mm",
+            "Dıştan Dışa Lift Ölçüsü": "3760 mm",
+            "Sütun Yüksekliği": "3920 mm",
+            "Sütun Genişliği": "380 mm",
+            "Kısa Kol Ölçüsü": "800 - 1100 - 1400 mm",
+            "Uzun Kol Ölçüsü": "870 - 1200 - 1500 mm",
+            "Kaldırma Süresi": "50 sn",
+            "İndirme Süresi": "30 sn",
+            "Motor Gücü": "2.2 kW/3 Hp",
+            "Voltaj": "380V/220V",
+            "Ağırlık": "700 kg",
+            "Ambalajlı Ölçüsü": "3340x520x720 mm"
+          },
+          "images": [
+            "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-005-gpl-103u-page.webp"
+          ],
+          "thumb": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-005-gpl-103u-page.webp"
+        },
+        {
+          "id": "arac-kaldirma-liftleri-006-gpml-102",
+          "title": "3 Ton 1 Metre Makaslı Lift - GPML 102",
+          "model": "GPML 102",
+          "features": [
+            "Yükseltici Takozlar",
+            "Araç Kaldırma Rampası",
+            "Kilit Sistemi"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "3 Ton",
+            "Kontrol": "Tam Otomatik",
+            "Max. Kaldırma Yüksekliği": "1000 mm",
+            "Ara Mesafe": "840 mm",
+            "Dıştan Dışa Lift Ölçüsü": "1980 mm",
+            "Tabla Uzunluğu": "1400 mm",
+            "Tabla Genişliği": "600 mm",
+            "Motor Gücü": "2.2 kW/3 Hp",
+            "Voltaj": "380V/220V",
+            "Ağırlık": "505 kg"
+          },
+          "images": [
+            "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-006-gpml-102-page.webp"
+          ],
+          "thumb": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-006-gpml-102-page.webp"
+        },
+        {
+          "id": "arac-kaldirma-liftleri-007-gpml-101",
+          "title": "3.5 Ton 2 Metre Makaslı Lift - GPML 101",
+          "model": "GPML 101",
+          "features": [
+            "Yükseltici Takozlar",
+            "Araç Kaldırma Rampası",
+            "Kilit Sistemi"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "3.5 Ton",
+            "Kontrol": "Tam Otomatik",
+            "Max. Kaldırma Yüksekliği": "1800 mm",
+            "Ara Mesafe": "800 mm",
+            "Dıştan Dışa Lift Ölçüsü": "2000 mm",
+            "Tabla Uzunluğu": "1400 mm",
+            "Tabla Genişliği": "600 mm",
+            "Motor Gücü": "2.2 kW/3 Hp",
+            "Voltaj": "380V/220V",
+            "Ağırlık": "763 kg"
+          },
+          "images": [
+            "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-007-gpml-101-page.webp"
+          ],
+          "thumb": "assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-007-gpml-101-page.webp"
+        }
+      ]
+    },
+    {
+      "id": "oto-servis-ekipmanlari",
+      "name": "Oto Servis Ekipmanları",
+      "description": "Katlanır vinç, garaj krikosu, motor standı, şanzıman krikosu, pres ve servis aparatları.",
+      "cover": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-cover.webp",
+      "products": [
+        {
+          "id": "oto-servis-ekipmanlari-001-gpt-101",
+          "title": "İki Ton Katlanır Vinç - GPT 101",
+          "model": "GPT 101",
+          "features": [
+            "Katlanabilir tip",
+            "Profesyonel kullanım",
+            "360° dönen tekerlekler"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "2 Ton",
+            "Kaldırma Aralığı": "25-2000 mm",
+            "Maksimum Yükseklik": "1750 mm",
+            "Ağırlık": "70 kg"
+          },
+          "images": [
+            "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-001-gpt-101-1.webp"
+          ],
+          "thumb": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-001-gpt-101-1.webp"
+        },
+        {
+          "id": "oto-servis-ekipmanlari-002-gpt-102",
+          "title": "Üç Ton Alçak Şase Garaj Krikosu - GPT 102",
+          "model": "GPT 102",
+          "features": [
+            "3 Ton kaldırma kapasitesi",
+            "Profesyonel kullanım",
+            "Çift piston",
+            "360° dönen tekerlekler",
+            "Alçak şase",
+            "Plastik yüzey"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "3 Ton",
+            "Minimum Yükseklik": "75 mm",
+            "Maksimum Yükseklik": "505 mm"
+          },
+          "images": [
+            "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-002-gpt-102-1.webp"
+          ],
+          "thumb": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-002-gpt-102-1.webp"
+        },
+        {
+          "id": "oto-servis-ekipmanlari-003-gpt-103",
+          "title": "0.5 Ton Dikey Şanzıman Krikosu - GPT 103",
+          "model": "GPT 103",
+          "features": [
+            "0.5 ton kapasite",
+            "Kaldırma mandalı",
+            "360° dönen tekerlekler"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "0.5 Ton",
+            "Minimum Yükseklik": "1130 mm",
+            "Maksimum Yükseklik": "1940 mm"
+          },
+          "images": [
+            "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-003-gpt-103-page.webp"
+          ],
+          "thumb": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-003-gpt-103-page.webp"
+        },
+        {
+          "id": "oto-servis-ekipmanlari-004-gpt-104",
+          "title": "450 Kg Motor Standı - GPT 104",
+          "model": "GPT 104",
+          "features": [
+            "Motor bağlama aparatı",
+            "360° dönen tekerlekler",
+            "Sabit kriko tablası",
+            "Profesyonel kullanım"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "450 kg",
+            "Çalışma Yüksekliği": "880 mm",
+            "Tip": "Motor Standı"
+          },
+          "images": [
+            "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-004-gpt-104-page.webp"
+          ],
+          "thumb": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-004-gpt-104-page.webp"
+        },
+        {
+          "id": "oto-servis-ekipmanlari-005-gpt-105",
+          "title": "650 Kg Motor Standı - GPT 105",
+          "model": "GPT 105",
+          "features": [
+            "Motor bağlama aparatı",
+            "360° dönen tekerlekler",
+            "Sabit kriko tablası",
+            "Profesyonel kullanım"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "650 kg",
+            "Çalışma Yüksekliği": "880 mm",
+            "Tip": "Motor Standı"
+          },
+          "images": [
+            "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-005-gpt-105-1.webp",
+            "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-005-gpt-105-2.webp"
+          ],
+          "thumb": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-005-gpt-105-1.webp"
+        },
+        {
+          "id": "oto-servis-ekipmanlari-009-gpt-101",
+          "title": "İki Ton Katlanır Vinç - GPT 101",
+          "model": "GPT 101",
+          "features": [
+            "Katlanabilir tip",
+            "Profesyonel kullanım",
+            "360° dönen tekerlekler"
+          ],
+          "specs": {
+            "Hareket Mesafesi": "125 mm",
+            "Ağırlık": "70 kg",
+            "Ambalajlı Ölçüsü": "Uzatma Pistonları",
+            "Kaldırma Kapasitesi": "2 Ton",
+            "Kaldırma Aralığı": "25-2000 mm",
+            "Maksimum Yükseklik": "1750 mm"
+          },
+          "images": [
+            "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-009-gpt-101-page.webp"
+          ],
+          "thumb": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-009-gpt-101-page.webp"
+        },
+        {
+          "id": "oto-servis-ekipmanlari-010-gpt-110",
+          "title": "10 Ton Hidrolik Oto Doğrultma - GPT 110",
+          "model": "GPT 110",
+          "features": [
+            "Profesyonel kullanım",
+            "Uzatma pistonları",
+            "Aparatlar dahil"
+          ],
+          "specs": {
+            "Hareket Mesafesi": "125 mm",
+            "Ağırlık": "28 kg",
+            "Ambalajlı Ölçüsü": "730x310x175 mm",
+            "Kapasite": "10 Ton"
+          },
+          "images": [
+            "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-010-gpt-110-page.webp"
+          ],
+          "thumb": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-010-gpt-110-page.webp"
+        },
+        {
+          "id": "oto-servis-ekipmanlari-012-gpt-101",
+          "title": "İki Ton Katlanır Vinç - GPT 101",
+          "model": "GPT 101",
+          "features": [
+            "Katlanabilir tip",
+            "Profesyonel kullanım",
+            "360° dönen tekerlekler"
+          ],
+          "specs": {
+            "Ağırlık": "70 kg",
+            "Kaldırma Kapasitesi": "2 Ton",
+            "Kaldırma Aralığı": "25-2000 mm",
+            "Maksimum Yükseklik": "1750 mm"
+          },
+          "images": [
+            "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-012-gpt-101-page.webp"
+          ],
+          "thumb": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-012-gpt-101-page.webp"
+        },
+        {
+          "id": "oto-servis-ekipmanlari-013-gpt-119",
+          "title": "Motor Askı Aparatı - GPT 119",
+          "model": "GPT 119",
+          "features": [
+            "Motor askı aparatı",
+            "2 adet cep",
+            "Yumuşak yastık"
+          ],
+          "specs": {
+            "Ağırlık": "15 kg",
+            "Taşıma Kapasitesi": "500 kg",
+            "Ölçüler": "805x370x205 mm"
+          },
+          "images": [
+            "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-013-gpt-119-page.webp"
+          ],
+          "thumb": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-013-gpt-119-page.webp"
+        },
+        {
+          "id": "oto-servis-ekipmanlari-016-gpt-116",
+          "title": "10 Ton Manuel Hidrolik Pres - GPT 116",
+          "model": "GPT 116",
+          "features": [
+            "H tipi çelik çerçeve",
+            "Kimyasal yıkama sonrası boyalı, pas önleyici yüzey",
+            "Geniş hidrolik silindir ünitesi",
+            "Kolay pompalama için sap dahil"
+          ],
+          "specs": {
+            "Kapasite": "10 Ton",
+            "Tip": "Manuel Hidrolik Pres"
+          },
+          "images": [
+            "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-016-gpt-116-page.webp"
+          ],
+          "thumb": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-016-gpt-116-page.webp"
+        },
+        {
+          "id": "oto-servis-ekipmanlari-021-gpt-117",
+          "title": "15 Ton Manuel Hidrolik Pres - GPT 117",
+          "model": "GPT 117",
+          "features": [
+            "Yüksek kaliteli çelikten imal",
+            "H tipi çerçeve",
+            "Yağ ve grese dayanıklı boya",
+            "Geniş hidrolik silindir, pompalama sapı dahil"
+          ],
+          "specs": {
+            "Kapasite": "15 Ton",
+            "Tip": "Manuel Hidrolik Pres"
+          },
+          "images": [
+            "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-021-gpt-117-page.webp"
+          ],
+          "thumb": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-021-gpt-117-page.webp"
+        },
+        {
+          "id": "oto-servis-ekipmanlari-025-gpt-118",
+          "title": "30 Ton Manuel Hidrolik Pres - GPT 118",
+          "model": "GPT 118",
+          "features": [
+            "H tipi çelik çerçeve",
+            "Uzun ömürlü pas önleyici boya",
+            "Düşük yağ basıncı ile geniş silindir",
+            "Kolay pompalama sapı"
+          ],
+          "specs": {
+            "Kapasite": "30 Ton",
+            "Tip": "Manuel Hidrolik Pres"
+          },
+          "images": [
+            "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-025-gpt-118-page.webp"
+          ],
+          "thumb": "assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-025-gpt-118-page.webp"
+        }
+      ]
+    },
+    {
+      "id": "yaglama-ve-yikama",
+      "name": "Yağlama Ekipmanları ve Yıkama Makineleri",
+      "description": "Gres pompaları, yağ boşaltma üniteleri ve basınçlı yıkama makineleri.",
+      "cover": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-cover.webp",
+      "products": [
+        {
+          "id": "yaglama-ve-yikama-001-gp-2000dc",
+          "title": "150 Bar Basınçlı Yıkama Makinesi - GP 2000DC",
+          "model": "GP 2000DC",
+          "features": [
+            "Kovadan Su",
+            "Carbon Brush Motor",
+            "Çekebilme Özelliği",
+            "Makaralı 5",
+            "Metre Hortum",
+            "Köpük Atma Aparatı"
+          ],
+          "specs": {
+            "Basınç": "150 Bar",
+            "Güç": "2000 Watt",
+            "Voltaj": "220 V",
+            "Akış": "7.5 lt/dk",
+            "Hortum Uzunluğu": "5 m"
+          },
+          "images": [
+            "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-001-gp-2000dc-page.webp"
+          ],
+          "thumb": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-001-gp-2000dc-page.webp"
+        },
+        {
+          "id": "yaglama-ve-yikama-002-gp-2100ac",
+          "title": "165 Bar İndüksiyon Motorlu Yıkama Makinesi - GP 2100AC",
+          "model": "GP 2100AC",
+          "features": [
+            "Kovadan Su",
+            "Induction Motor",
+            "Çekebilme Özelliği",
+            "Makaralı 8",
+            "Metre Hortum",
+            "Köpük Atma Aparatı"
+          ],
+          "specs": {
+            "Basınç": "165 Bar",
+            "Güç": "2100 Watt",
+            "Voltaj": "220 V",
+            "Akış": "7.2 lt/dk",
+            "Hortum Uzunluğu": "8 m"
+          },
+          "images": [
+            "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-002-gp-2100ac-page.webp"
+          ],
+          "thumb": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-002-gp-2100ac-page.webp"
+        },
+        {
+          "id": "yaglama-ve-yikama-004-gp-2500ac",
+          "title": "195 Bar İndüksiyon Motorlu Yıkama Makinesi - GP 2500AC",
+          "model": "GP 2500AC",
+          "features": [
+            "Kovadan Su",
+            "Induction Motor",
+            "Çekebilme Özelliği",
+            "8 Metre Hortum",
+            "Köpük Atma Haznesi"
+          ],
+          "specs": {
+            "Basınç": "195 Bar",
+            "Güç": "2500 Watt",
+            "Voltaj": "220 V",
+            "Akış": "8 lt/dk",
+            "Hortum Uzunluğu": "8 m"
+          },
+          "images": [
+            "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-004-gp-2500ac-page.webp"
+          ],
+          "thumb": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-004-gp-2500ac-page.webp"
+        },
+        {
+          "id": "yaglama-ve-yikama-005-gp-3200ac",
+          "title": "225 Bar İndüksiyon Motorlu Yıkama Makinesi - GP 3200AC",
+          "model": "GP 3200AC",
+          "features": [
+            "Kovadan Su",
+            "Induction Motor",
+            "Çekebilme Özelliği",
+            "Makaralı",
+            "8 Metre Hortum",
+            "Köpük Atma Haznesi"
+          ],
+          "specs": {
+            "Basınç": "225 Bar",
+            "Güç": "3200 Watt",
+            "Voltaj": "220 V",
+            "Akış": "9 lt/dk",
+            "Hortum Uzunluğu": "8 m"
+          },
+          "images": [
+            "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-005-gp-3200ac-page.webp"
+          ],
+          "thumb": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-005-gp-3200ac-page.webp"
+        },
+        {
+          "id": "yaglama-ve-yikama-007-gp-12a1",
+          "title": "12 lt Havalı Gres Pompası - GP 12A1",
+          "model": "GP 12A1",
+          "features": [
+            "Z Mafsallı Tabanca",
+            "1/4 Regülatör",
+            "4 M Hortum",
+            "Metal Gres Sıyırıcı"
+          ],
+          "specs": {
+            "Kazan Hacmi": "12 Lt",
+            "Basınç Oranı": "50:1",
+            "Gres Çıkışı": "0.85 lt/dk",
+            "Hava Basıncı": "6-8 Bar",
+            "Hortum Uzunluğu": "4 m"
+          },
+          "images": [
+            "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-007-gp-12a1-page.webp"
+          ],
+          "thumb": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-007-gp-12a1-page.webp"
+        },
+        {
+          "id": "yaglama-ve-yikama-008-metal-gres-siyirici",
+          "title": "Metal Gres Sıyırıcı",
+          "model": "",
+          "features": [],
+          "specs": {
+            "Kazan Hacmi": "12 Lt",
+            "Basınç Oranı": "50:1",
+            "Gres Çıkışı": "0.85 lt/dk",
+            "Hava Basıncı": "6-8 Bar",
+            "Hortum Uzunluğu": "4 m"
+          },
+          "images": [
+            "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-008-metal-gres-siyirici-page.webp"
+          ],
+          "thumb": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-008-metal-gres-siyirici-page.webp"
+        },
+        {
+          "id": "yaglama-ve-yikama-009-gp-35a1",
+          "title": "35 lt Havalı Gres Pompası - GP 35A1",
+          "model": "GP 35A1",
+          "features": [
+            "Z Mafsallı Tabanca",
+            "1/4 Regülatör",
+            "4 M Hortum",
+            "Metal Gres Sıyırıcı"
+          ],
+          "specs": {
+            "Kazan Hacmi": "35 Lt",
+            "Basınç Oranı": "50:1",
+            "Gres Çıkışı": "0.85 lt/dk",
+            "Hava Basıncı": "6-8 Bar",
+            "Hortum Uzunluğu": "4 m"
+          },
+          "images": [
+            "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-009-gp-35a1-page.webp"
+          ],
+          "thumb": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-009-gp-35a1-page.webp"
+        },
+        {
+          "id": "yaglama-ve-yikama-012-gp-12a2",
+          "title": "12 lt Havalı Gres Pompası - GP 12A2",
+          "model": "GP 12A2",
+          "features": [
+            "Z Mafsallı Tabanca",
+            "1/4 Regülatör",
+            "4 M Hortum",
+            "Metal Gres Sıyırıcı"
+          ],
+          "specs": {
+            "Kazan Hacmi": "12 Lt",
+            "Basınç Oranı": "60:1",
+            "Gres Çıkışı": "0.85 lt/dk",
+            "Hava Basıncı": "6-8 Bar",
+            "Hortum Uzunluğu": "4 m"
+          },
+          "images": [
+            "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-012-gp-12a2-page.webp"
+          ],
+          "thumb": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-012-gp-12a2-page.webp"
+        },
+        {
+          "id": "yaglama-ve-yikama-013-metal-gres-siyirici",
+          "title": "Metal Gres Sıyırıcı",
+          "model": "",
+          "features": [],
+          "specs": {
+            "Kazan Hacmi": "12 lt",
+            "Basınç Oranı": "60:1",
+            "Gres Çıkışı": "0.85 lt/dk",
+            "Hava Basıncı": "6-8 Bar",
+            "Hortum Uzunluğu": "4 m"
+          },
+          "images": [
+            "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-013-metal-gres-siyirici-page.webp"
+          ],
+          "thumb": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-013-metal-gres-siyirici-page.webp"
+        },
+        {
+          "id": "yaglama-ve-yikama-014-gp-35a2",
+          "title": "35 lt Havalı Gres Pompası - GP 35A2",
+          "model": "GP 35A2",
+          "features": [
+            "Z Mafsallı Tabanca",
+            "1/4 Regülatör",
+            "4 M Hortum",
+            "Metal Gres Sıyırıcı"
+          ],
+          "specs": {
+            "Kazan Hacmi": "35 Lt",
+            "Basınç Oranı": "60:1",
+            "Gres Çıkışı": "0.85 lt/dk",
+            "Hava Basıncı": "6-8 Bar",
+            "Hortum Uzunluğu": "4 m"
+          },
+          "images": [
+            "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-014-gp-35a2-page.webp"
+          ],
+          "thumb": "assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-014-gp-35a2-page.webp"
+        }
+      ]
+    },
+    {
+      "id": "sarjli-ve-havali-el-aletleri",
+      "name": "Şarjlı ve Havalı El Aletleri",
+      "description": "Darbeli somun sökme, cırcır, zımpara, hava tabancası ve şarjlı el aletleri.",
+      "cover": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-cover.webp",
+      "products": [
+        {
+          "id": "sarjli-ve-havali-el-aletleri-001-gp-850",
+          "title": "850 Nm 1/2 Darbeli Somun Sökme - GP 850",
+          "model": "GP 850",
+          "features": [
+            "21 Volt/4.0 Ah",
+            "Çift Batarya",
+            "Çift Çekiçli",
+            "Kömürsüz Motor",
+            "Uzun Ömürlü Güçlü Akü",
+            "Kare Ölçüsü (inc)",
+            "Tork Gücü (Nm)",
+            "Volt"
+          ],
+          "specs": {
+            "Yüksüz Hız": "2300/1900/1450 rpm",
+            "Ağırlık": "1.88 kg",
+            "Koli Adeti": "4 Adet",
+            "Kare Ölçüsü": "1/2 inç",
+            "Tork Gücü": "850 Nm",
+            "Voltaj": "21 V",
+            "Akü": "4.0 Ah/Li-ion"
+          },
+          "images": [
+            "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-001-gp-850-page.webp"
+          ],
+          "thumb": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-001-gp-850-page.webp"
+        },
+        {
+          "id": "sarjli-ve-havali-el-aletleri-002-gp-1300",
+          "title": "1300 Nm 1/2 Darbeli Somun Sökme - GP 1300",
+          "model": "GP 1300",
+          "features": [
+            "21 Volt/4.0 Ah",
+            "Çift Batarya",
+            "Çift Çekiçli",
+            "Kömürsüz Motor",
+            "Uzun Ömürlü Güçlü Akü",
+            "Kare Ölçüsü (inc)",
+            "Tork Gücü (Nm)",
+            "Volt"
+          ],
+          "specs": {
+            "Yüksüz Hız": "1800/1200/900 rpm",
+            "Ağırlık": "2.81 kg",
+            "Koli Adeti": "4 Adet",
+            "Kare Ölçüsü": "1/2 inç",
+            "Tork Gücü": "1300 Nm",
+            "Voltaj": "21 V",
+            "Akü": "4.0 Ah/Li-ion"
+          },
+          "images": [
+            "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-002-gp-1300-page.webp"
+          ],
+          "thumb": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-002-gp-1300-page.webp"
+        },
+        {
+          "id": "sarjli-ve-havali-el-aletleri-004-gpm-1201",
+          "title": "1/2 Mini Havalı Somun Sökme - GPM 1201",
+          "model": "GPM 1201",
+          "features": [
+            "Dar Alanlar İçin Kompakt Tasarım",
+            "Jumbo Hammer",
+            "Ergonomik Dizayn",
+            "Kare Ölçüsü (inc)",
+            "Tork Gücü (Nm)"
+          ],
+          "specs": {
+            "Devir": "9500 rpm",
+            "Civata Kapasitesi": "M14",
+            "Hava Girişi": "1/4",
+            "Hava Basıncı": "6.5 Bar",
+            "Ağırlık": "1.5 kg",
+            "Koli Adeti": "12 Adet"
+          },
+          "images": [
+            "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-004-gpm-1201-page.webp"
+          ],
+          "thumb": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-004-gpm-1201-page.webp"
+        },
+        {
+          "id": "sarjli-ve-havali-el-aletleri-006-gp-1201",
+          "title": "1/2 Havalı Somun Sökme - GP 1201",
+          "model": "GP 1201",
+          "features": [
+            "Twin Hammer",
+            "Ergonomik Dizayn",
+            "Kare Ölçüsü (inc)",
+            "Tork Gücü (Nm)"
+          ],
+          "specs": {
+            "Devir": "8500 rpm",
+            "Civata Kapasitesi": "M18",
+            "Hava Girişi": "1/4",
+            "Hava Basıncı": "6.5 Bar",
+            "Ağırlık": "2 kg",
+            "Koli Adeti": "10 Adet"
+          },
+          "images": [
+            "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-006-gp-1201-page.webp"
+          ],
+          "thumb": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-006-gp-1201-page.webp"
+        },
+        {
+          "id": "sarjli-ve-havali-el-aletleri-007-gp-3401",
+          "title": "3/4 Havalı Somun Sökme - GP 3401",
+          "model": "GP 3401",
+          "features": [
+            "Twin Hammer",
+            "Ergonomik Dizayn",
+            "Kare Ölçüsü (inc)",
+            "Tork Gücü (Nm)"
+          ],
+          "specs": {
+            "Devir": "7000 rpm",
+            "Civata Kapasitesi": "M24",
+            "Hava Girişi": "3/8",
+            "Hava Basıncı": "6.5 Bar",
+            "Ağırlık": "3.9 kg",
+            "Koli Adeti": "6 Adet"
+          },
+          "images": [
+            "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-007-gp-3401-page.webp"
+          ],
+          "thumb": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-007-gp-3401-page.webp"
+        },
+        {
+          "id": "sarjli-ve-havali-el-aletleri-009-gp-101",
+          "title": "1 Havalı Kısa Tip Somun Sökme - GP 101",
+          "model": "GP 101",
+          "features": [
+            "Twin Hammer",
+            "Ergonomik Dizayn",
+            "Kare Ölçüsü (inc)",
+            "Tork Gücü (Nm)"
+          ],
+          "specs": {
+            "Devir": "4300 rpm",
+            "Civata Kapasitesi": "M32",
+            "Hava Girişi": "1/2",
+            "Hava Basıncı": "6.5 Bar",
+            "Ağırlık": "7.3 kg",
+            "Koli Adeti": "2 Adet"
+          },
+          "images": [
+            "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-009-gp-101-page.webp"
+          ],
+          "thumb": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-009-gp-101-page.webp"
+        },
+        {
+          "id": "sarjli-ve-havali-el-aletleri-010-gp-102",
+          "title": "Binek Araç Lastik Sökme Takma Makinası  - GP 102",
+          "model": "GP 102",
+          "features": [
+            "Kare Ölçüsü (inc)",
+            "Tork Gücü (Nm)",
+            "Pinless Hammer"
+          ],
+          "specs": {
+            "Devir": "3000 rpm",
+            "Civata Kapasitesi": "M39",
+            "Hava Girişi": "1/2",
+            "Hava Basıncı": "6.5 Bar",
+            "Ağırlık": "16 kg",
+            "Koli Adeti": "1 Adet"
+          },
+          "images": [
+            "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-010-gp-102-page.webp"
+          ],
+          "thumb": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-010-gp-102-page.webp"
+        },
+        {
+          "id": "sarjli-ve-havali-el-aletleri-012-1-4-havali-circir-kolu",
+          "title": "1/4 Havalı Cırcır Kolu",
+          "model": "",
+          "features": [
+            "Kare Ölçüsü (inc)",
+            "Tork Gücü (Nm)",
+            "Ağırlı",
+            "Koli"
+          ],
+          "specs": {
+            "Devir": "150 rpm",
+            "Hava Girişi": "1/4",
+            "Hava Basıncı": "6 Bar"
+          },
+          "images": [
+            "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-012-1-4-havali-circir-kolu-1.webp"
+          ],
+          "thumb": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-012-1-4-havali-circir-kolu-1.webp"
+        },
+        {
+          "id": "sarjli-ve-havali-el-aletleri-013-havali-ortbital-zimpara",
+          "title": "Havalı Ortbital Zımpara",
+          "model": "",
+          "features": [
+            "Ağırlı",
+            "Koli"
+          ],
+          "specs": {
+            "Zımpara Ölçüsü": "125 mm",
+            "Devir": "12000 rpm",
+            "Hava Girişi": "1/4",
+            "Hava Basıncı": "6.5 Bar"
+          },
+          "images": [
+            "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-013-havali-ortbital-zimpara-1.webp"
+          ],
+          "thumb": "assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-013-havali-ortbital-zimpara-1.webp"
+        }
+      ]
+    },
+    {
+      "id": "vinc-ve-kaldırma-ekipmanlari",
+      "name": "Vinç ve Kaldırma Ekipmanları",
+      "description": "Elektrikli vinç, caraskal, hubzug ve transpalet modelleri.",
+      "cover": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-cover.webp",
+      "products": [
+        {
+          "id": "vinc-ve-kaldırma-ekipmanlari-001-gp250-500",
+          "title": "250-500 kg Elektrikli Vinç - GP250-500",
+          "model": "GP250-500",
+          "features": [
+            "%100 bakır sargı",
+            "10/20 metre halat boyu seçeneği"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "250-500 kg",
+            "Motor Gücü": "1020 W",
+            "Voltaj": "220 V/50 Hz",
+            "Halat Boyu": "20-10 m",
+            "Halat Kalınlığı": "4 mm",
+            "Ağırlık": "15 kg",
+            "Ölçüler": "44x32x26 cm"
+          },
+          "images": [
+            "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-001-gp250-500-1.webp"
+          ],
+          "thumb": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-001-gp250-500-1.webp"
+        },
+        {
+          "id": "vinc-ve-kaldırma-ekipmanlari-002-gp400-800",
+          "title": "400-800 kg Elektrikli Vinç - GP400-800",
+          "model": "GP400-800",
+          "features": [
+            "%100 bakır sargı",
+            "10/20 metre halat boyu seçeneği"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "400-800 kg",
+            "Motor Gücü": "1450 W",
+            "Voltaj": "220 V/50 Hz",
+            "Halat Boyu": "20-10 m",
+            "Ağırlık": "22 kg"
+          },
+          "images": [
+            "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-002-gp400-800-page.webp"
+          ],
+          "thumb": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-002-gp400-800-page.webp"
+        },
+        {
+          "id": "vinc-ve-kaldırma-ekipmanlari-003-gph15t",
+          "title": "1.5 Ton Zincirli Caraskal - GPH15T",
+          "model": "GPH15T",
+          "features": [
+            "Kompakt tasarım",
+            "Kolay taşıma"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "1.5 Ton",
+            "Kaldırma Yüksekliği": "1.5 m",
+            "Zincir Kalınlığı": "8 mm",
+            "Ağırlık": "12 kg",
+            "Ölçüler": "51x18x14 cm"
+          },
+          "images": [
+            "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-003-gph15t-page.webp"
+          ],
+          "thumb": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-003-gph15t-page.webp"
+        },
+        {
+          "id": "vinc-ve-kaldırma-ekipmanlari-004-gph3t",
+          "title": "3 Ton Zincirli Caraskal - GPH3T",
+          "model": "GPH3T",
+          "features": [
+            "Kompakt tasarım",
+            "Kolay taşıma"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "3 Ton",
+            "Kaldırma Yüksekliği": "1.5 m",
+            "Zincir Kalınlığı": "10 mm",
+            "Ağırlık": "18 kg"
+          },
+          "images": [
+            "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-004-gph3t-page.webp"
+          ],
+          "thumb": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-004-gph3t-page.webp"
+        },
+        {
+          "id": "vinc-ve-kaldırma-ekipmanlari-005-gpc1t3m",
+          "title": "1 Ton 3 m Hubzug - GPC1T3M",
+          "model": "GPC1T3M",
+          "features": [
+            "Zincirli hubzug",
+            "Kolay montaj"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "1 Ton",
+            "Kaldırma Yüksekliği": "3 m",
+            "Zincir Kalınlığı": "6 mm",
+            "Ağırlık": "10 kg",
+            "Ölçüler": "26x16x16 cm"
+          },
+          "images": [
+            "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-005-gpc1t3m-page.webp"
+          ],
+          "thumb": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-005-gpc1t3m-page.webp"
+        },
+        {
+          "id": "vinc-ve-kaldırma-ekipmanlari-006-gpc1t5m",
+          "title": "1 Ton 5 m Hubzug - GPC1T5M",
+          "model": "GPC1T5M",
+          "features": [
+            "Zincirli hubzug",
+            "Kolay montaj"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "1 Ton",
+            "Kaldırma Yüksekliği": "5 m",
+            "Zincir Kalınlığı": "6 mm",
+            "Ağırlık": "12.5 kg",
+            "Ölçüler": "28x17x16 cm"
+          },
+          "images": [
+            "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-006-gpc1t5m-page.webp"
+          ],
+          "thumb": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-006-gpc1t5m-page.webp"
+        },
+        {
+          "id": "vinc-ve-kaldırma-ekipmanlari-007-gpc2t3m",
+          "title": "2 Ton 3 m Hubzug - GPC2T3M",
+          "model": "GPC2T3M",
+          "features": [
+            "Zincirli hubzug",
+            "Kolay montaj"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "2 Ton",
+            "Kaldırma Yüksekliği": "3 m",
+            "Zincir Kalınlığı": "6 mm",
+            "Ağırlık": "13 kg",
+            "Ölçüler": "28x17x16 cm"
+          },
+          "images": [
+            "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-007-gpc2t3m-1.webp"
+          ],
+          "thumb": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-007-gpc2t3m-1.webp"
+        },
+        {
+          "id": "vinc-ve-kaldırma-ekipmanlari-008-gpc2t5m",
+          "title": "2 Ton 5 m Hubzug - GPC2T5M",
+          "model": "GPC2T5M",
+          "features": [
+            "Zincirli hubzug",
+            "Kolay montaj"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "2 Ton",
+            "Kaldırma Yüksekliği": "5 m",
+            "Zincir Kalınlığı": "6 mm",
+            "Ağırlık": "18 kg",
+            "Ölçüler": "34x22x19 cm"
+          },
+          "images": [
+            "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-008-gpc2t5m-page.webp"
+          ],
+          "thumb": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-008-gpc2t5m-page.webp"
+        },
+        {
+          "id": "vinc-ve-kaldırma-ekipmanlari-009-gp-25110k",
+          "title": "2.5 Ton Transpalet - GP 25110K",
+          "model": "GP 25110K",
+          "features": [
+            "Kemik teker",
+            "Döküm pompa"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "2500 kg",
+            "Minimum Çatal Yüksekliği": "85 mm",
+            "Maksimum Çatal Yüksekliği": "200 mm",
+            "Çatal Genişliği": "550 mm",
+            "Çatal Boyu": "1150 mm",
+            "Ağırlık": "64 kg"
+          },
+          "images": [
+            "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-009-gp-25110k-1.webp"
+          ],
+          "thumb": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-009-gp-25110k-1.webp"
+        },
+        {
+          "id": "vinc-ve-kaldırma-ekipmanlari-010-gp-25110p",
+          "title": "2.5 Ton Transpalet - GP 25110P",
+          "model": "GP 25110P",
+          "features": [
+            "Polyester teker",
+            "Döküm pompa"
+          ],
+          "specs": {
+            "Kaldırma Kapasitesi": "2500 kg",
+            "Minimum Çatal Yüksekliği": "85 mm",
+            "Maksimum Çatal Yüksekliği": "200 mm",
+            "Çatal Genişliği": "550 mm",
+            "Çatal Boyu": "1150 mm",
+            "Ağırlık": "70 kg"
+          },
+          "images": [
+            "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-010-gp-25110p-1.webp"
+          ],
+          "thumb": "assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-010-gp-25110p-1.webp"
+        }
+      ]
+    },
+    {
+      "id": "kaynak-ve-kaporta-cektirme",
+      "name": "Kaynak ve Kaporta Çektirme Makineleri",
+      "description": "İnvertörlü kaynak makineleri, kaporta çektirme üniteleri ve göçük düzeltme aparatları.",
+      "cover": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-cover.webp",
+      "products": [
+        {
+          "id": "kaynak-ve-kaporta-cektirme-001-gp-165i",
+          "title": "165 Amper İnvertörlü Kaynak Makinesi - GP 165i",
+          "model": "GP 165I",
+          "features": [
+            "Ağırlık (Kablolar hariç)",
+            "2.50 - 3.25 - Elektrod ile",
+            "Kullanıma Uygundur",
+            "2.5 m. Pense ve Kablosu",
+            "1.5 m. Şase ve Kablosu"
+          ],
+          "specs": {
+            "Voltaj": "220 V (AC)",
+            "Açık Devre Gerilimi": "70 V (DC)",
+            "Maximum Çıkış Akımı": "160 A",
+            "Tavsiye Edilen Şebeke Sigortası": "C Tipi 25 A",
+            "Eritilebilecek Elektrod Tipleri": "Rutil/Bazik",
+            "Elektrod Çapı": "2.50 - 3.25 - 4.00 (max)",
+            "Çalışma Verimi": "%20'te 160 A",
+            "Koruma Sınıfı": "IP21S",
+            "Ölçüler": "12 x 32 x 19,5 cm",
+            "Ağırlık": "3.5 kg"
+          },
+          "images": [
+            "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-001-gp-165i-1.webp"
+          ],
+          "thumb": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-001-gp-165i-1.webp"
+        },
+        {
+          "id": "kaynak-ve-kaporta-cektirme-002-gp-200i",
+          "title": "200 Amper İnvertörlü Kaynak Makinesi - GP 200i",
+          "model": "GP 200I",
+          "features": [
+            "Ağırlık (Kablolar hariç)",
+            "2.50 - 3.25 - 4.00 ile",
+            "Kullanıma Uygundur",
+            "2.5 m. Pense ve Kablosu",
+            "1.5 m. Şase ve Kablosu"
+          ],
+          "specs": {
+            "Voltaj": "220 V (AC)",
+            "Açık Devre Gerilimi": "70 V (DC)",
+            "Maximum Çıkış Akımı": "190 A",
+            "Tavsiye Edilen Şebeke Sigortası": "C Tipi 40 A",
+            "Eritilebilecek Elektrod Tipleri": "Rutil/Bazik/Selülozik",
+            "Elektrod Çapı": "2.50 - 3.25 - 4.00",
+            "Çalışma Verimi": "%20'te 190 A",
+            "Koruma Sınıfı": "IP21S",
+            "Ölçüler": "12 x 35 x 19,5 cm",
+            "Ağırlık": "4 kg"
+          },
+          "images": [
+            "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-002-gp-200i-page.webp"
+          ],
+          "thumb": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-002-gp-200i-page.webp"
+        },
+        {
+          "id": "kaynak-ve-kaporta-cektirme-004-gp-5kva",
+          "title": "5 kVA Kaporta Çektirme Makinesi - GP 5KVA",
+          "model": "GP 5KVA",
+          "features": [
+            "Otomobil kapı, çamurluk ve kaporta göçüklerini düzeltmek için tasarlanmış portatif makine",
+            "Yüksek transformatör gücü",
+            "5 kademeli akım ayarı",
+            "2 m. pense ve şase kablosu dahil"
+          ],
+          "specs": {
+            "Şebeke Gerilimi": "1 Faz, 220 V 50 Hz",
+            "Açık Devre Gerilimi": "8,5 V",
+            "Gerekli Şebeke Sigortası": "1x40 A (C Tipi)",
+            "Maximum Giriş Gücü": "5 kVA",
+            "Çektirme Kapasitesi": "0,60 ila 0,80 mm",
+            "İzolasyon Sınıfı": "H",
+            "Koruma Sınıfı": "IP 21 sn",
+            "Boyutlar": "24x35x31 cm",
+            "Ağırlık": "26 kg"
+          },
+          "images": [
+            "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-004-gp-5kva-page.webp"
+          ],
+          "thumb": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-004-gp-5kva-page.webp"
+        },
+        {
+          "id": "kaynak-ve-kaporta-cektirme-007-gp-10kva",
+          "title": "10 kVA Kaporta Çektirme Makinesi - GP 10KVA",
+          "model": "GP 10KVA",
+          "features": [
+            "Otomobil, otobüs ve kamyon kaporta göçüklerini düzeltmek için profesyonel tip makine",
+            "Yüksek transformatör gücü",
+            "2 kademe kaba ve ince akım ayarı",
+            "2 m. pense ve şase kablosu dahil"
+          ],
+          "specs": {
+            "Şebeke Gerilimi": "1 Faz, 220 V 50 Hz",
+            "Açık Devre Gerilimi": "7,7 V",
+            "Gerekli Şebeke Sigortası": "1x40 A (C Tipi)",
+            "Maximum Giriş Gücü": "10 kVA",
+            "Çektirme Kapasitesi": "0,80 ila 1,00 mm",
+            "Tek Taraflı Punta Kapasitesi": "0,60+0,60 mm",
+            "İzolasyon Sınıfı": "H",
+            "Koruma Sınıfı": "IP 21 sn",
+            "Boyutlar": "51x53x92 cm",
+            "Ağırlık": "52 kg"
+          },
+          "images": [
+            "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-007-gp-10kva-page.webp"
+          ],
+          "thumb": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-007-gp-10kva-page.webp"
+        },
+        {
+          "id": "kaynak-ve-kaporta-cektirme-011-gp-12kva",
+          "title": "12 kVA Kaporta Çektirme Makinası - GP 12KVA",
+          "model": "GP 12KVA",
+          "features": [
+            "Profesyonel tip kaporta çektirme makinesi",
+            "Yüksek transformatör gücü",
+            "2 kademe kaba ve ince akım ayarı",
+            "2 m. pense ve şase kablosu dahil"
+          ],
+          "specs": {
+            "Şebeke Gerilimi": "1 Faz, 220 V 50 Hz",
+            "Açık Devre Gerilimi": "8,9 V",
+            "Gerekli Şebeke Sigortası": "1x63 A (C Tipi)",
+            "Maximum Giriş Gücü": "12 kVA",
+            "Çektirme Kapasitesi": "0,80 ila 1,20 mm",
+            "Tek Taraflı Punta Kapasitesi": "0,80+0,80 mm",
+            "İzolasyon Sınıfı": "H",
+            "Koruma Sınıfı": "IP 21 sn",
+            "Boyutlar": "51x53x92 cm",
+            "Ağırlık": "60 kg"
+          },
+          "images": [
+            "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-011-gp-12kva-page.webp"
+          ],
+          "thumb": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-011-gp-12kva-page.webp"
+        },
+        {
+          "id": "kaynak-ve-kaporta-cektirme-014-gp-10max",
+          "title": "Elektronik 10 kVA Kaporta Çektirme Makinası - GP 10MAX",
+          "model": "GP 10MAX",
+          "features": [
+            "10 kVA elektronik akım ve zaman kontrollü profesyonel kaporta çektirme makinesi",
+            "Dijital ayar ile minimum iz bırakma",
+            "Yüksek transformatör gücü",
+            "2 m. pense ve şase kablosu dahil"
+          ],
+          "specs": {
+            "Şebeke Gerilimi": "1 Faz, 220 V 50 Hz",
+            "Açık Devre Gerilimi": "7,7 V",
+            "Gerekli Şebeke Sigortası": "1x25 A (C Tipi)",
+            "Maximum Giriş Gücü": "10 kVA",
+            "Çektirme Kapasitesi": "0,30 ila 1,30 mm",
+            "İzolasyon Sınıfı": "H",
+            "Koruma Sınıfı": "IP 21 sn",
+            "Boyutlar": "47x50x100 cm",
+            "Ağırlık": "35 kg"
+          },
+          "images": [
+            "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-014-gp-10max-page.webp"
+          ],
+          "thumb": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-014-gp-10max-page.webp"
+        },
+        {
+          "id": "kaynak-ve-kaporta-cektirme-016-cektirme-yapilacak-kaporta-kalinligina-gore-kaportada",
+          "title": "Çektirme yapılacak kaporta kalınlığına göre kaportada",
+          "model": "",
+          "features": [],
+          "specs": {
+            "Şebeke Gerilimi": "1 Faz, 220 V 50 Hz.",
+            "Açık Devre Gerilimi": "7,7 V",
+            "Gerekli Şebeke Sigortası": "1x25 A (C Tipi)",
+            "Maximum Giriş Gücü": "10 kVA"
+          },
+          "images": [
+            "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-016-cektirme-yapilacak-kaporta-kalinligina-gore-kaportada-page.webp"
+          ],
+          "thumb": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-016-cektirme-yapilacak-kaporta-kalinligina-gore-kaportada-page.webp"
+        },
+        {
+          "id": "kaynak-ve-kaporta-cektirme-019-gp-12pro",
+          "title": "Elektronik 12 kVA Kaporta Çektirme Makinası - GP 12PRO",
+          "model": "GP 12PRO",
+          "features": [
+            "12 kVA elektronik akım ve zaman kontrollü profesyonel kaporta çektirme seti",
+            "Normal ve sinerjik çalışma modları",
+            "Manuel ve otomatik çalışma seçeneği",
+            "7 özel program: üçgen pul, zigzag teli, pul puntalama, şiş alma vb.",
+            "Çektirme aparatı, pul, tel, kablo ve aslan pençesi aksesuarları dahil"
+          ],
+          "specs": {
+            "Şebeke Gerilimi": "1 Faz, 220 V 50 Hz",
+            "Açık Devre Gerilimi": "7,7 V",
+            "Gerekli Şebeke Sigortası": "1x32 A (C Tipi)",
+            "Maximum Giriş Gücü": "12 kVA",
+            "Çektirme Kapasitesi": "0,30 ila 1,60 mm",
+            "İzolasyon Sınıfı": "H",
+            "Koruma Sınıfı": "IP 21 sn",
+            "Boyutlar": "47x50x100 cm",
+            "Ağırlık": "40 kg"
+          },
+          "images": [
+            "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-019-gp-12pro-page.webp"
+          ],
+          "thumb": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-019-gp-12pro-page.webp"
+        },
+        {
+          "id": "kaynak-ve-kaporta-cektirme-021-cektirme-yapilacak-kaporta-kalinligina-gore-kaportada",
+          "title": "Çektirme yapılacak kaporta kalınlığına göre kaportada",
+          "model": "",
+          "features": [],
+          "specs": {
+            "Şebeke Gerilimi": "1 Faz, 220 V 50 Hz.",
+            "Açık Devre Gerilimi": "7,7 V",
+            "Gerekli Şebeke Sigortası": "1x32 A (C Tipi)",
+            "Maximum Giriş Gücü": "12 kVA"
+          },
+          "images": [
+            "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-021-cektirme-yapilacak-kaporta-kalinligina-gore-kaportada-page.webp"
+          ],
+          "thumb": "assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-021-cektirme-yapilacak-kaporta-kalinligina-gore-kaportada-page.webp"
+        }
+      ]
+    },
+    {
+      "id": "takim-arabalari-ve-tezgahlari",
+      "name": "Takım Arabaları ve Tezgahları",
+      "description": "Çekmeceli takım arabaları ve endüstriyel çalışma tezgahları.",
+      "cover": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-cover.webp",
+      "products": [
+        {
+          "id": "takim-arabalari-ve-tezgahlari-001-gpt-201",
+          "title": "Çekmecesiz Takım Arabası - GPT 201",
+          "model": "GPT 201",
+          "features": [
+            "Elektrostatik toz boyalı",
+            "Geniş üst çalışma bölümü"
+          ],
+          "specs": {
+            "En": "450 mm",
+            "Genişlik": "600 mm",
+            "Yükseklik": "900 mm",
+            "Taşıma Kapasitesi": "240 kg"
+          },
+          "images": [
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-001-gpt-201-1.webp",
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-001-gpt-201-2.webp"
+          ],
+          "thumb": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-001-gpt-201-1.webp"
+        },
+        {
+          "id": "takim-arabalari-ve-tezgahlari-002-gpt-202",
+          "title": "Tek Çekmeceli Takım Arabası - GPT 202",
+          "model": "GPT 202",
+          "features": [
+            "Elektrostatik toz boyalı",
+            "Geniş üst çalışma bölümü",
+            "1 çekmece"
+          ],
+          "specs": {
+            "En": "450 mm",
+            "Genişlik": "600 mm",
+            "Yükseklik": "900 mm",
+            "Taşıma Kapasitesi": "240 kg"
+          },
+          "images": [
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-002-gpt-202-1.webp",
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-002-gpt-202-2.webp",
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-002-gpt-202-3.webp"
+          ],
+          "thumb": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-002-gpt-202-1.webp"
+        },
+        {
+          "id": "takim-arabalari-ve-tezgahlari-004-gpt-203",
+          "title": "İki Çekmeceli Takım Arabası - GPT 203",
+          "model": "GPT 203",
+          "features": [
+            "Elektrostatik toz boyalı",
+            "Kilit sistemi",
+            "2 çekmece"
+          ],
+          "specs": {
+            "En": "450 mm",
+            "Genişlik": "600 mm",
+            "Yükseklik": "900 mm",
+            "Taşıma Kapasitesi": "240 kg"
+          },
+          "images": [
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-004-gpt-203-1.webp",
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-004-gpt-203-2.webp",
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-004-gpt-203-3.webp"
+          ],
+          "thumb": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-004-gpt-203-1.webp"
+        },
+        {
+          "id": "takim-arabalari-ve-tezgahlari-005-gpt-204",
+          "title": "5 Çekmeceli Takım Arabası - GPT 204",
+          "model": "GPT 204",
+          "features": [
+            "Elektrostatik toz boyalı",
+            "Kilit sistemi",
+            "5 çekmece"
+          ],
+          "specs": {
+            "En": "450 mm",
+            "Genişlik": "600 mm",
+            "Yükseklik": "900 mm",
+            "Taşıma Kapasitesi": "240 kg"
+          },
+          "images": [
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-005-gpt-204-1.webp",
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-005-gpt-204-2.webp",
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-005-gpt-204-3.webp"
+          ],
+          "thumb": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-005-gpt-204-1.webp"
+        },
+        {
+          "id": "takim-arabalari-ve-tezgahlari-008-gpt-205",
+          "title": "1500 mm Endüstriyel Çekmeceli Çalışma Tezgahı - GPT 205",
+          "model": "GPT 205",
+          "features": [
+            "Led lamba",
+            "1 adet priz",
+            "Avadanlık",
+            "6 çekmece",
+            "30 adet kanca"
+          ],
+          "specs": {
+            "En": "1500 mm",
+            "Genişlik": "650 mm",
+            "Yükseklik": "900 mm",
+            "Pano Ölçüsü": "850 mm",
+            "Taşıma Kapasitesi": "250 kg"
+          },
+          "images": [
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-008-gpt-205-page.webp"
+          ],
+          "thumb": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-008-gpt-205-page.webp"
+        },
+        {
+          "id": "takim-arabalari-ve-tezgahlari-011-gpt-206",
+          "title": "2000 mm Endüstriyel Çekmeceli Çalışma Tezgahı - GPT 206",
+          "model": "GPT 206",
+          "features": [
+            "Led lamba",
+            "2 adet priz",
+            "Avadanlık",
+            "Kilit sistemi",
+            "30 adet kanca"
+          ],
+          "specs": {
+            "En": "2000 mm",
+            "Derinlik": "650 mm",
+            "Yükseklik": "900 mm",
+            "Pano Ölçüsü": "850 mm",
+            "Taşıma Kapasitesi": "350 kg"
+          },
+          "images": [
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-011-gpt-206-page.webp"
+          ],
+          "thumb": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-011-gpt-206-page.webp"
+        },
+        {
+          "id": "takim-arabalari-ve-tezgahlari-013-gpt-207",
+          "title": "2000 mm Endüstriyel Dolaplı Çalışma Tezgahı - GPT 207",
+          "model": "GPT 207",
+          "features": [
+            "Led lamba",
+            "1 adet priz",
+            "Avadanlık",
+            "Dolaplı tezgah",
+            "30 adet kanca"
+          ],
+          "specs": {
+            "En": "2000 mm",
+            "Genişlik": "650 mm",
+            "Yükseklik": "900 mm",
+            "Pano Ölçüsü": "850 mm",
+            "Taşıma Kapasitesi": "250 kg"
+          },
+          "images": [
+            "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-013-gpt-207-page.webp"
+          ],
+          "thumb": "assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-013-gpt-207-page.webp"
+        }
+      ]
+    }
+  ]
+}
