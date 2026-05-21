@@ -1,0 +1,459 @@
+2026-05-21 15:38:04,940 INFO Indexing gapkompresor.com …
+2026-05-21 15:38:13,682 INFO Found 69 GAP product URLs
+2026-05-21 15:38:13,682 INFO Indexing gaptools.net …
+2026-05-21 15:40:38,429 INFO Found 82 GAP Tools product URLs
+2026-05-21 15:41:59,431 INFO Indexed 151 remote products with images
+2026-05-21 15:41:59,441 INFO MATCH (title-fuzzy 0.93): 50 lt 8 Bar 2 Hp Pistonlu Hava Kompresörü - GP 50 -> 50 Lt 8 Bar 2 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:41:59,447 INFO MATCH (title-fuzzy 0.93): 100 lt 2 Kafa 8 Bar 2 Hp Pistonlu Hava Kompresörü - GP 100 -> 100 Lt 2 Kafa 8 Bar 2 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:41:59,453 INFO MATCH (title-fuzzy 0.93): 200 lt 2 Kafa 8 Bar 3 Hp Pistonlu Hava Kompresörü - GP 200 -> 200 Lt 2 Kafa 8 Bar 3 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:41:59,459 INFO MATCH (title-fuzzy 0.94): 300 lt 2 Kafa 8 Bar 5.5 Hp Pistonlu Hava Kompresörü - GP 290 -> 300 Lt 2 Kafa 8 Bar 5.5 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:41:59,465 INFO MATCH (title-fuzzy 1.00): 300 lt 2 Kafa 12 Bar 5.5 Hp Pistonlu Hava Kompresörü -> 300 Lt 2 Kafa 12 Bar 5.5 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:41:59,471 INFO MATCH (title-fuzzy 1.00): 500 lt 2 Kafa 8 Bar 5.5 Hp Pistonlu Hava Kompresörü -> 500 Lt 2 Kafa 8 Bar 5.5 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:41:59,476 INFO MATCH (title-fuzzy 0.93): 500 lt 3 Kafa 8 Bar 10 Hp Pistonlu Hava Kompresörü - GP 390 -> 500 Lt 3 Kafa 8 Bar 10 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:41:59,482 INFO MATCH (title-fuzzy 1.00): 500 lt 3 Kafa 12 Bar 10 Hp Pistonlu Hava Kompresörü -> 500 Lt 3 Kafa 12 Bar 10 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:41:59,487 INFO MATCH (title-fuzzy 0.93): 600 lt 3 Kafa 8 Bar 10 Hp Pistonlu Hava Kompresörü - GP 600 -> 600 Lt 3 Kafa 8 Bar 10 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:41:59,492 INFO MATCH (title-fuzzy 1.00): 600 lt 3 Kafa 12 Bar 10 Hp Pistonlu Hava Kompresörü -> 600 Lt 3 Kafa 12 Bar 10 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:41:59,495 INFO MATCH (title-fuzzy 0.89): 10 Hp 500 lt Vidalı Hava Kompresörü -> 10 Hp Vidalı Hava Kompresörü
+2026-05-21 15:41:59,497 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 1200
+2026-05-21 15:41:59,502 INFO MATCH (title-fuzzy 0.89): 15 Hp 500 lt Vidalı Hava Kompresörü -> 15 Hp Vidalı Hava Kompresörü
+2026-05-21 15:41:59,504 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 1800
+2026-05-21 15:41:59,507 INFO MATCH (title-fuzzy 0.87): 20 Hp 1000 lt Vidalı Hava Kompresörü -> 20 Hp Vidalı Hava Kompresörü
+2026-05-21 15:41:59,508 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 2600
+2026-05-21 15:41:59,512 INFO MATCH (title-fuzzy 0.87): 30 Hp 1000 lt Vidalı Hava Kompresörü -> 30 Hp Vidalı Hava Kompresörü
+2026-05-21 15:41:59,514 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 3700
+2026-05-21 15:41:59,518 INFO MATCH (title-fuzzy 0.87): 50 Hp 1000 lt Vidalı Hava Kompresörü -> 50 Hp Vidalı Hava Kompresörü
+2026-05-21 15:41:59,520 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 6500
+2026-05-21 15:41:59,525 INFO MATCH (title-fuzzy 1.00): 10 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü -> 10 Hp 500 Lt Depo Üstü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,532 INFO MATCH (title-fuzzy 1.00): 15 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü -> 15 Hp 500 Lt Depo Üstü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,536 INFO MATCH (title-fuzzy 1.00): 20 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü -> 20 Hp 500 Lt Depo Üstü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,540 INFO MATCH (title-fuzzy 0.93): 10 Hp 500 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 20 Hp 500 Lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,541 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 1200
+2026-05-21 15:41:59,546 INFO MATCH (title-fuzzy 0.92): 15 Hp 500 lt İnvertörlü Vidalı Hava Kompresörü -> 15 Hp İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,547 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 1800
+2026-05-21 15:41:59,552 INFO MATCH (title-fuzzy 0.91): 20 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 30 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,553 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 2600
+2026-05-21 15:41:59,557 INFO MATCH (title-fuzzy 0.93): 30 Hp 1000 lt İnvertörlü  Vidalı Hava Kompresörü -> 16 Bar 30 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,559 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 3700
+2026-05-21 15:41:59,563 INFO MATCH (title-fuzzy 0.93): 50 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 50 Hp 1000 Lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,564 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 6500
+2026-05-21 15:41:59,569 INFO MATCH (title-fuzzy 0.90): 75 Hp 2000 lt İnvertörlü Vidalı Hava Kompresörü -> 75 Hp İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,570 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 11000
+2026-05-21 15:41:59,575 INFO MATCH (title-fuzzy 0.91): 100 Hp 2000 lt İnvertörlü Vidalı Hava Kompresörü -> 100 Hp İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,576 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 13000
+2026-05-21 15:41:59,584 INFO MATCH (title-fuzzy 1.00): 10 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü -> 10 Hp 500 Lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,590 INFO MATCH (title-fuzzy 1.00): 15 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü -> 15 Hp 500 Lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,596 INFO MATCH (title-fuzzy 1.00): 20 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü -> 20 Hp 500 Lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,604 INFO MATCH (title-fuzzy 0.98): 16 Bar 20 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 30 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,606 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 1800
+2026-05-21 15:41:59,611 INFO MATCH (title-fuzzy 1.00): 16 Bar 30 Hp 1000 lt İnvertörlü  Vidalı Hava Kompresörü -> 16 Bar 30 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,613 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 2600
+2026-05-21 15:41:59,620 INFO MATCH (title-fuzzy 1.00): 16 Bar 50 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 50 Hp 1000 Lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:41:59,622 WARNING NO MATCH: [vidali-hava-kompresorleri] GPHK 3700
+2026-05-21 15:41:59,625 INFO Done. total=46 matched=31 downloaded=0 skipped=0 failed=0 no_match=15
+2026-05-21 15:41:59,625 INFO Manifest written to C:\Users\hmzis\Desktop\eren dosya\nova-borwerk-site-main\assets\urunler\image_sources_manifest.json
+2026-05-21 15:42:04,578 INFO Indexing gapkompresor.com …
+2026-05-21 15:42:16,940 INFO Found 69 GAP product URLs
+2026-05-21 15:42:16,941 INFO Indexing gaptools.net …
+2026-05-21 15:45:34,453 INFO Found 82 GAP Tools product URLs
+2026-05-21 15:47:26,521 INFO Indexed 151 remote products with images
+2026-05-21 15:47:58,860 INFO Indexing gapkompresor.com …
+2026-05-21 15:48:04,813 INFO Found 69 GAP product URLs
+2026-05-21 15:48:04,814 INFO Indexing gaptools.net …
+2026-05-21 15:49:33,691 INFO Found 82 GAP Tools product URLs
+2026-05-21 15:50:24,081 INFO Indexed 151 remote products with images
+2026-05-21 15:50:24,086 INFO MATCH (title-fuzzy 0.89): 10 Hp 500 lt Vidalı Hava Kompresörü -> 10 Hp Vidalı Hava Kompresörü
+2026-05-21 15:50:24,086 INFO MATCH (model:GPHK1200 1.00): GPHK 1200 -> 1200'lük Hava Kurutucu
+2026-05-21 15:50:24,089 INFO MATCH (title-fuzzy 0.89): 15 Hp 500 lt Vidalı Hava Kompresörü -> 15 Hp Vidalı Hava Kompresörü
+2026-05-21 15:50:24,089 INFO MATCH (model:GPHK 1800 1.00): GPHK 1800 -> 1800'lük Hava Kurutucu
+2026-05-21 15:50:24,093 INFO MATCH (title-fuzzy 0.87): 20 Hp 1000 lt Vidalı Hava Kompresörü -> 20 Hp Vidalı Hava Kompresörü
+2026-05-21 15:50:24,093 INFO MATCH (model:GPHK-2600 1.00): GPHK 2600 -> 2600'lük Hava Kurutucu
+2026-05-21 15:50:24,097 INFO MATCH (title-fuzzy 0.87): 30 Hp 1000 lt Vidalı Hava Kompresörü -> 30 Hp Vidalı Hava Kompresörü
+2026-05-21 15:50:24,097 INFO MATCH (model:GPHK3700 1.00): GPHK 3700 -> 3700'lük Hava Kurutucu
+2026-05-21 15:50:24,100 INFO MATCH (title-fuzzy 0.87): 50 Hp 1000 lt Vidalı Hava Kompresörü -> 50 Hp Vidalı Hava Kompresörü
+2026-05-21 15:50:24,100 INFO MATCH (model:GPHK 6500 1.00): GPHK 6500 -> 6500'lük Hava Kurutucu
+2026-05-21 15:50:24,104 INFO MATCH (title-fuzzy 1.00): 10 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü -> 10 Hp 500 Lt Depo Üstü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,108 INFO MATCH (title-fuzzy 1.00): 15 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü -> 15 Hp 500 Lt Depo Üstü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,112 INFO MATCH (title-fuzzy 1.00): 20 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü -> 20 Hp 500 Lt Depo Üstü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,116 INFO MATCH (title-fuzzy 0.93): 10 Hp 500 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 20 Hp 500 Lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,116 INFO MATCH (model:GPHK1200 1.00): GPHK 1200 -> 1200'lük Hava Kurutucu
+2026-05-21 15:50:24,120 INFO MATCH (title-fuzzy 0.92): 15 Hp 500 lt İnvertörlü Vidalı Hava Kompresörü -> 15 Hp İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,121 INFO MATCH (model:GPHK 1800 1.00): GPHK 1800 -> 1800'lük Hava Kurutucu
+2026-05-21 15:50:24,125 INFO MATCH (title-fuzzy 0.91): 20 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 30 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,125 INFO MATCH (model:GPHK-2600 1.00): GPHK 2600 -> 2600'lük Hava Kurutucu
+2026-05-21 15:50:24,129 INFO MATCH (title-fuzzy 0.93): 30 Hp 1000 lt İnvertörlü  Vidalı Hava Kompresörü -> 16 Bar 30 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,129 INFO MATCH (model:GPHK3700 1.00): GPHK 3700 -> 3700'lük Hava Kurutucu
+2026-05-21 15:50:24,133 INFO MATCH (title-fuzzy 0.93): 50 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 50 Hp 1000 Lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,133 INFO MATCH (model:GPHK 6500 1.00): GPHK 6500 -> 6500'lük Hava Kurutucu
+2026-05-21 15:50:24,137 INFO MATCH (title-fuzzy 0.90): 75 Hp 2000 lt İnvertörlü Vidalı Hava Kompresörü -> 75 Hp İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,137 INFO MATCH (model:GPHK11000 1.00): GPHK 11000 -> 11000'lük Hava Kurutucu
+2026-05-21 15:50:24,142 INFO MATCH (title-fuzzy 0.91): 100 Hp 2000 lt İnvertörlü Vidalı Hava Kompresörü -> 100 Hp İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,142 INFO MATCH (model:GPHK 13000 1.00): GPHK 13000 -> 13000'lük Hava Kurutucu
+2026-05-21 15:50:24,147 INFO MATCH (title-fuzzy 1.00): 10 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü -> 10 Hp 500 Lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,151 INFO MATCH (title-fuzzy 1.00): 15 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü -> 15 Hp 500 Lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,156 INFO MATCH (title-fuzzy 1.00): 20 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü -> 20 Hp 500 Lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,161 INFO MATCH (title-fuzzy 0.98): 16 Bar 20 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 30 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,161 INFO MATCH (model:GPHK 1800 1.00): GPHK 1800 -> 1800'lük Hava Kurutucu
+2026-05-21 15:50:24,165 INFO MATCH (title-fuzzy 1.00): 16 Bar 30 Hp 1000 lt İnvertörlü  Vidalı Hava Kompresörü -> 16 Bar 30 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,165 INFO MATCH (model:GPHK-2600 1.00): GPHK 2600 -> 2600'lük Hava Kurutucu
+2026-05-21 15:50:24,170 INFO MATCH (title-fuzzy 1.00): 16 Bar 50 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 50 Hp 1000 Lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:50:24,170 INFO MATCH (model:GPHK3700 1.00): GPHK 3700 -> 3700'lük Hava Kurutucu
+2026-05-21 15:50:24,172 INFO Done. total=36 matched=36 downloaded=0 skipped=0 failed=0 no_match=0
+2026-05-21 15:50:24,172 INFO Manifest written to C:\Users\hmzis\Desktop\eren dosya\assets\urunler\image_sources_manifest.json
+2026-05-21 15:50:28,553 INFO Indexing gapkompresor.com …
+2026-05-21 15:50:37,777 INFO Found 69 GAP product URLs
+2026-05-21 15:50:37,778 INFO Indexing gaptools.net …
+2026-05-21 15:53:00,726 INFO Found 82 GAP Tools product URLs
+2026-05-21 15:54:22,736 INFO Indexed 151 remote products with images
+2026-05-21 15:54:22,743 INFO MATCH (title-fuzzy 0.93): 50 lt 8 Bar 2 Hp Pistonlu Hava Kompresörü - GP 50 -> 50 Lt 8 Bar 2 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:54:23,657 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-001-gp-50-1.webp (1244x829)
+2026-05-21 15:54:24,147 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-001-gp-50-2.webp (1244x829)
+2026-05-21 15:54:24,780 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-001-gp-50-3.webp (1244x829)
+2026-05-21 15:54:24,788 INFO MATCH (title-fuzzy 0.93): 100 lt 2 Kafa 8 Bar 2 Hp Pistonlu Hava Kompresörü - GP 100 -> 100 Lt 2 Kafa 8 Bar 2 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:54:25,490 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-002-gp-100-1.webp (1244x829)
+2026-05-21 15:54:26,157 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-002-gp-100-2.webp (1244x829)
+2026-05-21 15:54:26,763 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-002-gp-100-3.webp (1244x829)
+2026-05-21 15:54:26,769 INFO MATCH (title-fuzzy 0.93): 200 lt 2 Kafa 8 Bar 3 Hp Pistonlu Hava Kompresörü - GP 200 -> 200 Lt 2 Kafa 8 Bar 3 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:54:27,406 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-004-gp-200-1.webp (1244x829)
+2026-05-21 15:54:28,505 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-004-gp-200-2.webp (1244x829)
+2026-05-21 15:54:29,187 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-004-gp-200-3.webp (1244x829)
+2026-05-21 15:54:29,195 INFO MATCH (title-fuzzy 0.94): 300 lt 2 Kafa 8 Bar 5.5 Hp Pistonlu Hava Kompresörü - GP 290 -> 300 Lt 2 Kafa 8 Bar 5.5 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:54:29,855 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-005-gp-290-1.webp (1244x829)
+2026-05-21 15:54:30,535 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-005-gp-290-2.webp (1244x829)
+2026-05-21 15:54:31,184 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-005-gp-290-3.webp (1244x829)
+2026-05-21 15:54:31,189 INFO MATCH (title-fuzzy 1.00): 300 lt 2 Kafa 12 Bar 5.5 Hp Pistonlu Hava Kompresörü -> 300 Lt 2 Kafa 12 Bar 5.5 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:54:31,833 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-007-300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:54:32,504 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-007-300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:54:33,171 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-007-300-lt-2-kafa-12-bar-5-5-hp-pistonlu-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:54:33,177 INFO MATCH (title-fuzzy 1.00): 500 lt 2 Kafa 8 Bar 5.5 Hp Pistonlu Hava Kompresörü -> 500 Lt 2 Kafa 8 Bar 5.5 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:54:33,842 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-008-500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:54:34,484 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-008-500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:54:35,159 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-008-500-lt-2-kafa-8-bar-5-5-hp-pistonlu-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:54:35,167 INFO MATCH (title-fuzzy 0.93): 500 lt 3 Kafa 8 Bar 10 Hp Pistonlu Hava Kompresörü - GP 390 -> 500 Lt 3 Kafa 8 Bar 10 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:54:35,835 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-010-gp-390-1.webp (1244x829)
+2026-05-21 15:54:36,501 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-010-gp-390-2.webp (1244x829)
+2026-05-21 15:54:37,157 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-010-gp-390-3.webp (1244x829)
+2026-05-21 15:54:37,163 INFO MATCH (title-fuzzy 1.00): 500 lt 3 Kafa 12 Bar 10 Hp Pistonlu Hava Kompresörü -> 500 Lt 3 Kafa 12 Bar 10 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:54:37,830 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-011-500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:54:38,508 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-011-500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:54:39,162 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-011-500-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:54:39,167 INFO MATCH (title-fuzzy 0.93): 600 lt 3 Kafa 8 Bar 10 Hp Pistonlu Hava Kompresörü - GP 600 -> 600 Lt 3 Kafa 8 Bar 10 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:54:39,806 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-013-gp-600-1.webp (1244x829)
+2026-05-21 15:54:40,941 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-013-gp-600-2.webp (1244x829)
+2026-05-21 15:54:41,640 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-013-gp-600-3.webp (1244x829)
+2026-05-21 15:54:41,645 INFO MATCH (title-fuzzy 1.00): 600 lt 3 Kafa 12 Bar 10 Hp Pistonlu Hava Kompresörü -> 600 Lt 3 Kafa 12 Bar 10 Hp Pistonlu Hava Kompresörü
+2026-05-21 15:54:42,294 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-014-600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:54:42,991 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-014-600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:54:43,648 INFO   saved assets/urunler/pistonlu-hava-kompresorleri/pistonlu-hava-kompresorleri-014-600-lt-3-kafa-12-bar-10-hp-pistonlu-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:54:43,653 INFO MATCH (title-fuzzy 0.90): 50 lt Sessiz ve Yağsız Hava Kompresörü - GPS 750 -> 50 Lt Sessiz ve Yağsız Hava Kompresörü
+2026-05-21 15:54:44,247 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-001-gps-750-1.webp (1244x829)
+2026-05-21 15:54:45,325 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-001-gps-750-2.webp (1244x829)
+2026-05-21 15:54:46,350 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-001-gps-750-3.webp (1244x829)
+2026-05-21 15:54:46,355 INFO MATCH (title-fuzzy 0.88): 50 lt Sessiz ve Yağsız Hava Kompresörü - GPS 750x2 -> 50 Lt Sessiz ve Yağsız Hava Kompresörü
+2026-05-21 15:54:46,970 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-004-gps-750x2-1.webp (1244x829)
+2026-05-21 15:54:47,635 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-004-gps-750x2-2.webp (1244x829)
+2026-05-21 15:54:48,250 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-004-gps-750x2-3.webp (1244x829)
+2026-05-21 15:54:48,255 INFO MATCH (title-fuzzy 0.89): 100 lt Sessiz ve Yağsız Hava Kompresörü - GPS 750x3 -> 100 Lt Sessiz ve Yağsız Hava Kompresörü
+2026-05-21 15:54:48,932 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-005-gps-750x3-1.webp (1244x829)
+2026-05-21 15:54:49,610 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-005-gps-750x3-2.webp (1244x829)
+2026-05-21 15:54:50,275 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-005-gps-750x3-3.webp (1244x829)
+2026-05-21 15:54:50,279 INFO MATCH (title-fuzzy 0.88): 100 lt Sessiz ve Yağsız Hava Kompresörü - GPS 1100x3 -> 100 Lt Sessiz ve Yağsız Hava Kompresörü
+2026-05-21 15:54:50,928 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-007-gps-1100x3-1.webp (1244x829)
+2026-05-21 15:54:51,606 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-007-gps-1100x3-2.webp (1244x829)
+2026-05-21 15:54:52,274 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-007-gps-1100x3-3.webp (1244x829)
+2026-05-21 15:54:52,278 INFO MATCH (title-fuzzy 1.00): 200 lt Sessiz ve Yağsız Hava Kompresörü -> 200 Lt Sessiz ve Yağsız Hava Kompresörü
+2026-05-21 15:54:52,930 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-008-200-lt-sessiz-ve-yagsiz-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:54:53,989 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-008-200-lt-sessiz-ve-yagsiz-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:54:54,655 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-008-200-lt-sessiz-ve-yagsiz-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:54:54,660 INFO MATCH (title-fuzzy 0.89): 200 lt Sessiz ve Yağsız Hava Kompresörü - GPS 750x4 -> 200 Lt Sessiz ve Yağsız Hava Kompresörü
+2026-05-21 15:54:55,310 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-010-gps-750x4-1.webp (1244x829)
+2026-05-21 15:54:56,368 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-010-gps-750x4-2.webp (1244x829)
+2026-05-21 15:54:57,047 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-010-gps-750x4-3.webp (1244x829)
+2026-05-21 15:54:57,051 INFO MATCH (title-fuzzy 0.88): 220 lt Sessiz ve Yağsız Hava Kompresörü - GPS 1100x4 -> 220 Lt Sessiz ve Yağsız Hava Kompresörü
+2026-05-21 15:54:58,178 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-011-gps-1100x4-1.webp (1244x829)
+2026-05-21 15:54:58,878 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-011-gps-1100x4-2.webp (1244x829)
+2026-05-21 15:54:59,549 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-011-gps-1100x4-3.webp (1244x829)
+2026-05-21 15:54:59,554 INFO MATCH (title-fuzzy 0.88): 300 lt Sessiz ve Yağsız Hava Kompresörü - GPS 1100x6 -> 300 Lt Sessiz ve Yağsız Hava Kompresörü
+2026-05-21 15:55:00,676 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-013-gps-1100x6-1.webp (1244x829)
+2026-05-21 15:55:01,343 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-013-gps-1100x6-2.webp (1244x829)
+2026-05-21 15:55:02,001 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-013-gps-1100x6-3.webp (1244x829)
+2026-05-21 15:55:02,008 INFO MATCH (title-fuzzy 0.88): 500 lt Sessiz ve Yağsız Hava Kompresörü - GPS 1500x6 -> 500 Lt Sessiz ve Yağsız Hava Kompresörü
+2026-05-21 15:55:02,640 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-014-gps-1500x6-1.webp (1244x829)
+2026-05-21 15:55:03,280 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-014-gps-1500x6-2.webp (1244x829)
+2026-05-21 15:55:03,973 INFO   saved assets/urunler/sessiz-ve-yagsiz-hava-kompresorleri/sessiz-ve-yagsiz-hava-kompresorleri-014-gps-1500x6-3.webp (1244x829)
+2026-05-21 15:55:03,979 INFO MATCH (title-fuzzy 0.92): 50 lt Yüksek Emişli Yağsız Teknoloji Hava Kompresörü - GPY 1 -> 50 Lt Yüksek Emişli Yağsız Teknoloji Hava Kompresörü
+2026-05-21 15:55:04,554 INFO   saved assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-001-gpy-1500-1.webp (1244x829)
+2026-05-21 15:55:05,199 INFO   saved assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-001-gpy-1500-2.webp (1244x829)
+2026-05-21 15:55:05,798 INFO   saved assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-001-gpy-1500-3.webp (1244x829)
+2026-05-21 15:55:05,805 INFO MATCH (title-fuzzy 0.91): 100 lt Yüksek Emişli Yağsız Teknoloji Hava Kompresörü - GPY  -> 100 Lt Yüksek Emişli Yağsız Teknoloji Hava Kompresörü
+2026-05-21 15:55:06,916 INFO   saved assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-004-gpy-1500x2-1.webp (1244x829)
+2026-05-21 15:55:07,556 INFO   saved assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-004-gpy-1500x2-2.webp (1244x829)
+2026-05-21 15:55:08,201 INFO   saved assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-004-gpy-1500x2-3.webp (1244x829)
+2026-05-21 15:55:08,207 INFO MATCH (title-fuzzy 0.91): 200 lt Yüksek Emişli Yağsız Teknoloji Hava Kompresörü - GPY  -> 200 Lt Yüksek Emişli Yağsız Teknoloji Hava Kompresörü
+2026-05-21 15:55:08,812 INFO   saved assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-008-gpy-1500x4-1.webp (1244x829)
+2026-05-21 15:55:09,434 INFO   saved assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-008-gpy-1500x4-2.webp (1244x829)
+2026-05-21 15:55:10,056 INFO   saved assets/urunler/yuksek-emisli-yagsiz-kompresorler/yuksek-emisli-yagsiz-kompresorler-008-gpy-1500x4-3.webp (1244x829)
+2026-05-21 15:55:10,065 WARNING NO MATCH: [yuksek-emisli-yagsiz-kompresorler] Çift Piston 8 Bar Kompresör Kafası
+2026-05-21 15:55:10,074 WARNING NO MATCH: [yuksek-emisli-yagsiz-kompresorler] Çift Piston 12 Bar Kompresör Kafası
+2026-05-21 15:55:10,081 WARNING NO MATCH: [yuksek-emisli-yagsiz-kompresorler] Üç Piston 12 Bar Kompresör Kafası
+2026-05-21 15:55:10,090 WARNING NO MATCH: [yuksek-emisli-yagsiz-kompresorler] 100 Litre hava tankı ile kullanıma uygun
+2026-05-21 15:55:10,099 WARNING NO MATCH: [yuksek-emisli-yagsiz-kompresorler] 500 Litre hava tankı ile kullanımına uygun
+2026-05-21 15:55:10,103 INFO MATCH (title-fuzzy 0.89): 10 Hp 500 lt Vidalı Hava Kompresörü -> 10 Hp Vidalı Hava Kompresörü
+2026-05-21 15:55:10,829 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-001-10-hp-500-lt-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:11,401 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-001-10-hp-500-lt-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:12,234 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-001-10-hp-500-lt-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:12,234 INFO MATCH (model:GPHK-1200 1.00): GPHK 1200 -> 1200'lük Hava Kurutucu
+2026-05-21 15:55:12,683 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-002-gphk-1200-1.webp (1244x829)
+2026-05-21 15:55:12,687 INFO MATCH (title-fuzzy 0.89): 15 Hp 500 lt Vidalı Hava Kompresörü -> 15 Hp Vidalı Hava Kompresörü
+2026-05-21 15:55:13,485 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-004-15-hp-500-lt-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:14,175 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-004-15-hp-500-lt-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:14,864 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-004-15-hp-500-lt-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:14,865 INFO MATCH (model:GPHK 1800 1.00): GPHK 1800 -> 1800'lük Hava Kurutucu
+2026-05-21 15:55:15,433 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-005-gphk-1800-1.webp (1244x829)
+2026-05-21 15:55:15,438 INFO MATCH (title-fuzzy 0.87): 20 Hp 1000 lt Vidalı Hava Kompresörü -> 20 Hp Vidalı Hava Kompresörü
+2026-05-21 15:55:16,219 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-007-20-hp-1000-lt-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:16,959 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-007-20-hp-1000-lt-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:17,612 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-007-20-hp-1000-lt-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:17,613 INFO MATCH (model:GPHK2600 1.00): GPHK 2600 -> 2600'lük Hava Kurutucu
+2026-05-21 15:55:18,491 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-008-gphk-2600-1.webp (1244x829)
+2026-05-21 15:55:18,495 INFO MATCH (title-fuzzy 0.87): 30 Hp 1000 lt Vidalı Hava Kompresörü -> 30 Hp Vidalı Hava Kompresörü
+2026-05-21 15:55:19,271 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-010-30-hp-1000-lt-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:19,969 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-010-30-hp-1000-lt-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:20,727 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-010-30-hp-1000-lt-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:20,727 INFO MATCH (model:GPHK3700 1.00): GPHK 3700 -> 3700'lük Hava Kurutucu
+2026-05-21 15:55:22,097 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-011-gphk-3700-1.webp (1919x1280)
+2026-05-21 15:55:22,101 INFO MATCH (title-fuzzy 0.87): 50 Hp 1000 lt Vidalı Hava Kompresörü -> 50 Hp Vidalı Hava Kompresörü
+2026-05-21 15:55:22,635 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-013-50-hp-1000-lt-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:23,393 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-013-50-hp-1000-lt-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:24,089 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-013-50-hp-1000-lt-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:24,089 INFO MATCH (model:GPHK6500 1.00): GPHK 6500 -> 6500'lük Hava Kurutucu
+2026-05-21 15:55:24,619 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-014-gphk-6500-1.webp (1244x829)
+2026-05-21 15:55:25,203 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-014-gphk-6500-2.webp (1244x829)
+2026-05-21 15:55:25,207 INFO MATCH (title-fuzzy 1.00): 10 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü -> 10 Hp 500 Lt Depo Üstü Vidalı Hava Kompresörü
+2026-05-21 15:55:25,873 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-024-10-hp-500-lt-depo-ustu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:26,551 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-024-10-hp-500-lt-depo-ustu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:27,155 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-024-10-hp-500-lt-depo-ustu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:27,160 INFO MATCH (title-fuzzy 1.00): 15 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü -> 15 Hp 500 Lt Depo Üstü Vidalı Hava Kompresörü
+2026-05-21 15:55:27,807 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-025-15-hp-500-lt-depo-ustu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:28,442 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-025-15-hp-500-lt-depo-ustu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:29,044 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-025-15-hp-500-lt-depo-ustu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:29,049 INFO MATCH (title-fuzzy 1.00): 20 Hp 500 lt Depo Üstü Vidalı Hava Kompresörü -> 20 Hp 500 Lt Depo Üstü Vidalı Hava Kompresörü
+2026-05-21 15:55:29,672 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-027-20-hp-500-lt-depo-ustu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:30,727 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-027-20-hp-500-lt-depo-ustu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:31,415 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-027-20-hp-500-lt-depo-ustu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:31,419 INFO MATCH (title-fuzzy 0.93): 10 Hp 500 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 20 Hp 500 Lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:55:32,631 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-030-10-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:33,340 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-030-10-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:34,124 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-030-10-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:34,125 INFO MATCH (model:GPHK-1200 1.00): GPHK 1200 -> 1200'lük Hava Kurutucu
+2026-05-21 15:55:34,677 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-031-gphk-1200-1.webp (1244x829)
+2026-05-21 15:55:34,681 INFO MATCH (title-fuzzy 0.92): 15 Hp 500 lt İnvertörlü Vidalı Hava Kompresörü -> 15 Hp İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:55:35,431 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-033-15-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:36,178 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-033-15-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:36,876 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-033-15-hp-500-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:36,876 INFO MATCH (model:GPHK 1800 1.00): GPHK 1800 -> 1800'lük Hava Kurutucu
+2026-05-21 15:55:37,383 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-034-gphk-1800-1.webp (1244x829)
+2026-05-21 15:55:37,387 INFO MATCH (title-fuzzy 0.91): 20 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 50 Hp 1000 Lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:55:38,615 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-036-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:39,262 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-036-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:40,056 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-036-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:40,056 INFO MATCH (model:GPHK2600 1.00): GPHK 2600 -> 2600'lük Hava Kurutucu
+2026-05-21 15:55:40,560 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-037-gphk-2600-1.webp (1244x829)
+2026-05-21 15:55:40,564 INFO MATCH (title-fuzzy 0.93): 30 Hp 1000 lt İnvertörlü  Vidalı Hava Kompresörü -> 16 Bar 30 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:55:41,282 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-039-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:41,860 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-039-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:43,067 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-039-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:43,067 INFO MATCH (model:GPHK3700 1.00): GPHK 3700 -> 3700'lük Hava Kurutucu
+2026-05-21 15:55:43,953 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-040-gphk-3700-1.webp (1919x1280)
+2026-05-21 15:55:43,957 INFO MATCH (title-fuzzy 0.93): 50 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 50 Hp 1000 Lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:55:44,507 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-042-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:45,123 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-042-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:45,908 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-042-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:45,909 INFO MATCH (model:GPHK6500 1.00): GPHK 6500 -> 6500'lük Hava Kurutucu
+2026-05-21 15:55:46,376 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-043-gphk-6500-1.webp (1244x829)
+2026-05-21 15:55:47,015 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-043-gphk-6500-2.webp (1244x829)
+2026-05-21 15:55:47,020 INFO MATCH (title-fuzzy 0.90): 75 Hp 2000 lt İnvertörlü Vidalı Hava Kompresörü -> 75 Hp İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:55:47,734 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-045-75-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:48,476 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-045-75-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:49,188 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-045-75-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:49,189 INFO MATCH (model:GPHK-11000 1.00): GPHK 11000 -> 11000'lük Hava Kurutucu
+2026-05-21 15:55:49,717 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-046-gphk-11000-1.webp (1244x829)
+2026-05-21 15:55:50,261 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-046-gphk-11000-2.webp (1244x829)
+2026-05-21 15:55:50,265 INFO MATCH (title-fuzzy 0.91): 100 Hp 2000 lt İnvertörlü Vidalı Hava Kompresörü -> 100 Hp İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:55:51,062 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-048-100-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:51,754 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-048-100-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:52,432 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-048-100-hp-2000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:52,433 INFO MATCH (model:GPHK 13000 1.00): GPHK 13000 -> 13000'lük Hava Kurutucu
+2026-05-21 15:55:52,925 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-049-gphk-13000-1.webp (1244x829)
+2026-05-21 15:55:53,533 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-049-gphk-13000-2.webp (1244x829)
+2026-05-21 15:55:53,538 INFO MATCH (title-fuzzy 1.00): 10 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü -> 10 Hp 500 Lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:55:54,641 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-059-10-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:55,320 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-059-10-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:55,928 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-059-10-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:55,934 INFO MATCH (title-fuzzy 1.00): 15 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü -> 15 Hp 500 Lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:55:56,576 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-060-15-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:57,187 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-060-15-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:57,819 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-060-15-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:57,825 INFO MATCH (title-fuzzy 1.00): 20 Hp 500 lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü -> 20 Hp 500 Lt Depo Üstü İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:55:58,505 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-062-20-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:55:59,144 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-062-20-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:55:59,745 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-062-20-hp-500-lt-depo-ustu-i-nvertorlu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:55:59,752 INFO MATCH (title-fuzzy 0.98): 16 Bar 20 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 50 Hp 1000 Lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:56:00,467 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-065-16-bar-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:56:01,112 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-065-16-bar-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:56:01,896 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-065-16-bar-20-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:56:01,896 INFO MATCH (model:GPHK 1800 1.00): GPHK 1800 -> 1800'lük Hava Kurutucu
+2026-05-21 15:56:02,410 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-066-gphk-1800-1.webp (1244x829)
+2026-05-21 15:56:02,416 INFO MATCH (title-fuzzy 1.00): 16 Bar 30 Hp 1000 lt İnvertörlü  Vidalı Hava Kompresörü -> 16 Bar 30 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:56:03,065 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-068-16-bar-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:56:03,704 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-068-16-bar-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:56:04,446 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-068-16-bar-30-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:56:04,446 INFO MATCH (model:GPHK2600 1.00): GPHK 2600 -> 2600'lük Hava Kurutucu
+2026-05-21 15:56:04,956 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-069-gphk-2600-1.webp (1244x829)
+2026-05-21 15:56:04,960 INFO MATCH (title-fuzzy 1.00): 16 Bar 50 Hp 1000 lt İnvertörlü Vidalı Hava Kompresörü -> 16 Bar 50 Hp 1000 Lt İnvertörlü Vidalı Hava Kompresörü
+2026-05-21 15:56:05,701 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-071-16-bar-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-1.webp (1244x829)
+2026-05-21 15:56:06,800 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-071-16-bar-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-2.webp (1244x829)
+2026-05-21 15:56:07,595 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-071-16-bar-50-hp-1000-lt-i-nvertorlu-vidali-hava-kompresoru-3.webp (1244x829)
+2026-05-21 15:56:07,595 INFO MATCH (model:GPHK3700 1.00): GPHK 3700 -> 3700'lük Hava Kurutucu
+2026-05-21 15:56:08,458 INFO   saved assets/urunler/vidali-hava-kompresorleri/vidali-hava-kompresorleri-072-gphk-3700-1.webp (1919x1280)
+2026-05-21 15:56:08,471 WARNING NO MATCH: [hava-kurutucu-ve-filtreler] Alüminyum Gövdeli Kimyasal Hava Kurutucuları - GPDK 1800/2600/3700
+2026-05-21 15:56:08,483 WARNING NO MATCH: [hava-kurutucu-ve-filtreler] Alüminyum Gövdeli Aktif Karbon Kuleleri - GPAC 1800/2600/3700
+2026-05-21 15:56:08,487 INFO MATCH (title-fuzzy 0.82): 3/4" Su Tutucu Filtre - GPF 1800 -> 3/4” Su Tutucu Filtre
+2026-05-21 15:56:08,759 INFO   saved assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-003-gpf-1800-1.webp (1244x829)
+2026-05-21 15:56:09,336 INFO   saved assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-003-gpf-1800-2.webp (1244x829)
+2026-05-21 15:56:09,344 INFO MATCH (title-fuzzy 0.80): 1" Su Tutucu Filtre - GPF 2600 -> 1” Su Tutucu Filtre
+2026-05-21 15:56:09,867 INFO   saved assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-004-gpf-2600-page.webp (1244x829)
+2026-05-21 15:56:09,871 INFO MATCH (title-fuzzy 0.83): 1-1/2" Su Tutucu Filtre - GPF 3700 -> 1-1/2” Su Tutucu Filtre
+2026-05-21 15:56:10,679 INFO   saved assets/urunler/hava-kurutucu-ve-filtreler/hava-kurutucu-ve-filtreler-005-gpf-3700-page.webp (1244x829)
+2026-05-21 15:56:10,695 INFO MATCH (title-overlap 0.71): 4 Ton İki Sütunlu Elektro Hidrolik Lift (Yarı Otomatik) - GP -> 4 Ton İki Sütunlu Yarı Otomatik Hidrolik Lift
+2026-05-21 15:56:11,327 INFO   saved assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-001-gpl-101-1.webp (1244x829)
+2026-05-21 15:56:11,340 INFO MATCH (title-overlap 0.71): 4 Ton İki Sütunlu Elektro Hidrolik Lift (Tam Otomatik) - GPL -> 4 Ton İki Sütunlu Tam Otomatik Hidrolik Lift
+2026-05-21 15:56:11,849 INFO   saved assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-002-gpl-102-1.webp (1244x829)
+2026-05-21 15:56:11,856 INFO MATCH (title-fuzzy 0.93): 4 Ton İki Sütunlu Üstten Bağlantılı Tam Otomatik Hidrolik Li -> 4 Ton İki Sütunlu Üstten Bağlantılı Tam Otomatik Hidrolik Li
+2026-05-21 15:56:12,392 INFO   saved assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-003-gpl-102u-page.webp (1244x829)
+2026-05-21 15:56:12,405 INFO MATCH (title-overlap 0.71): 5 Ton İki Sütunlu Elektro Hidrolik Lift (Tam Otomatik) - GPL -> 5 Ton İki Sütunlu Tam Otomatik Hidrolik Lift
+2026-05-21 15:56:13,298 INFO   saved assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-004-gpl-103-1.webp (1244x829)
+2026-05-21 15:56:13,307 INFO MATCH (title-fuzzy 0.93): 5 Ton İki Sütunlu Üsten Bağlantılı Tam Otomatik Hidrolik Lif -> 5 Ton İki Sütunlu Üsten Bağlantılı Tam Otomatik Hidrolik Lif
+2026-05-21 15:56:13,856 INFO   saved assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-005-gpl-103u-page.webp (1244x829)
+2026-05-21 15:56:13,860 INFO MATCH (title-fuzzy 0.85): 3 Ton 1 Metre Makaslı Lift - GPML 102 -> 3 Ton 1 Metre Makaslı Lift
+2026-05-21 15:56:14,509 INFO   saved assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-006-gpml-102-page.webp (1244x829)
+2026-05-21 15:56:14,513 INFO MATCH (title-fuzzy 0.86): 3.5 Ton 2 Metre Makaslı Lift - GPML 101 -> 3.5 Ton 2 Metre Makaslı Lift
+2026-05-21 15:56:15,074 INFO   saved assets/urunler/arac-kaldirma-liftleri/arac-kaldirma-liftleri-007-gpml-101-page.webp (1244x829)
+2026-05-21 15:56:15,079 INFO MATCH (title-fuzzy 0.74): İki Ton Katlanır Vinç - GPT 101 -> İki Ton Katlanabilir Vinç
+2026-05-21 15:56:15,959 INFO   saved assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-001-gpt-101-1.webp (1244x829)
+2026-05-21 15:56:15,964 INFO MATCH (title-fuzzy 0.89): Üç Ton Alçak Şase Garaj Krikosu - GPT 102 -> Üç Ton Alçak Şase Garaj Krikosu
+2026-05-21 15:56:16,936 INFO   saved assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-002-gpt-102-1.webp (1244x829)
+2026-05-21 15:56:16,943 INFO MATCH (title-fuzzy 0.88): 0.5 Ton Dikey Şanzıman Krikosu - GPT 103 -> 0.5 Ton Dikey Şanzıman Krikosu
+2026-05-21 15:56:17,754 INFO   saved assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-003-gpt-103-page.webp (1244x829)
+2026-05-21 15:56:17,758 INFO MATCH (title-fuzzy 0.82): 450 Kg Motor Standı - GPT 104 -> 450 Kg Motor Standı
+2026-05-21 15:56:18,391 INFO   saved assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-004-gpt-104-page.webp (1244x829)
+2026-05-21 15:56:18,395 INFO MATCH (title-fuzzy 0.82): 650 Kg Motor Standı - GPT 105 -> 650 Kg Motor Standı
+2026-05-21 15:56:19,178 INFO   saved assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-005-gpt-105-1.webp (1244x829)
+2026-05-21 15:56:19,861 INFO   saved assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-005-gpt-105-2.webp (1244x829)
+2026-05-21 15:56:19,865 INFO MATCH (title-fuzzy 0.74): İki Ton Katlanır Vinç - GPT 101 -> İki Ton Katlanabilir Vinç
+2026-05-21 15:56:20,757 INFO   saved assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-009-gpt-101-page.webp (1244x829)
+2026-05-21 15:56:20,764 INFO MATCH (title-fuzzy 0.88): 10 Ton Hidrolik Oto Doğrultma - GPT 110 -> 10 Ton Hidrolik Oto Doğrultma
+2026-05-21 15:56:21,366 INFO   saved assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-010-gpt-110-page.webp (1244x829)
+2026-05-21 15:56:21,371 INFO MATCH (title-fuzzy 0.74): İki Ton Katlanır Vinç - GPT 101 -> İki Ton Katlanabilir Vinç
+2026-05-21 15:56:21,922 INFO   saved assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-012-gpt-101-page.webp (1244x829)
+2026-05-21 15:56:21,926 INFO MATCH (title-fuzzy 0.80): Motor Askı Aparatı - GPT 119 -> Motor Askı Aparatı
+2026-05-21 15:56:22,776 INFO   saved assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-013-gpt-119-page.webp (1244x829)
+2026-05-21 15:56:22,781 INFO MATCH (title-fuzzy 0.87): 10 Ton Manuel Hidrolik Pres - GPT 116 -> 10 Ton Manuel Hidrolik Pres
+2026-05-21 15:56:23,357 INFO   saved assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-016-gpt-116-page.webp (1244x829)
+2026-05-21 15:56:23,361 INFO MATCH (title-fuzzy 0.87): 15 Ton Manuel Hidrolik Pres - GPT 117 -> 15 Ton Manuel Hidrolik Pres
+2026-05-21 15:56:23,922 INFO   saved assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-021-gpt-117-page.webp (1244x829)
+2026-05-21 15:56:23,927 INFO MATCH (title-fuzzy 0.87): 30 Ton Manuel Hidrolik Pres - GPT 118 -> 30 Ton Manuel Hidrolik Pres
+2026-05-21 15:56:24,629 INFO   saved assets/urunler/oto-servis-ekipmanlari/oto-servis-ekipmanlari-025-gpt-118-page.webp (1200x1800)
+2026-05-21 15:56:24,634 INFO MATCH (title-fuzzy 0.86): 150 Bar Basınçlı Yıkama Makinesi - GP 2000DC -> 150 Bar Basınçlı Yıkama Makinesi
+2026-05-21 15:56:25,109 INFO   saved assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-001-gp-2000dc-page.webp (1244x829)
+2026-05-21 15:56:25,116 INFO MATCH (title-fuzzy 0.89): 165 Bar İndüksiyon Motorlu Yıkama Makinesi - GP 2100AC -> 165 Bar İndüksiyon Motorlu Yıkama Makinesi
+2026-05-21 15:56:25,637 INFO   saved assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-002-gp-2100ac-page.webp (1244x829)
+2026-05-21 15:56:25,645 INFO MATCH (title-fuzzy 0.89): 195 Bar İndüksiyon Motorlu Yıkama Makinesi - GP 2500AC -> 195 Bar İndüksiyon Motorlu Yıkama Makinesi
+2026-05-21 15:56:26,177 INFO   saved assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-004-gp-2500ac-page.webp (1244x829)
+2026-05-21 15:56:26,184 INFO MATCH (title-fuzzy 0.89): 225 Bar İndüksiyon Motorlu Yıkama Makinesi - GP 3200AC -> 225 Bar İndüksiyon Motorlu Yıkama Makinesi
+2026-05-21 15:56:26,727 INFO   saved assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-005-gp-3200ac-page.webp (1244x829)
+2026-05-21 15:56:26,731 INFO MATCH (title-fuzzy 0.85): 12 lt Havalı Gres Pompası - GP 12A1 -> 12 Lt Havalı Gres Pompası
+2026-05-21 15:56:27,257 INFO   saved assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-007-gp-12a1-page.webp (1244x829)
+2026-05-21 15:56:27,263 WARNING NO MATCH: [yaglama-ve-yikama] Metal Gres Sıyırıcı
+2026-05-21 15:56:27,268 INFO MATCH (title-fuzzy 0.85): 35 lt Havalı Gres Pompası - GP 35A1 -> 35 Lt Havalı Gres Pompası
+2026-05-21 15:56:27,836 INFO   saved assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-009-gp-35a1-page.webp (1244x829)
+2026-05-21 15:56:27,841 INFO MATCH (title-fuzzy 0.85): 12 lt Havalı Gres Pompası - GP 12A2 -> 12 Lt Havalı Gres Pompası
+2026-05-21 15:56:28,372 INFO   saved assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-012-gp-12a2-page.webp (1244x829)
+2026-05-21 15:56:28,379 WARNING NO MATCH: [yaglama-ve-yikama] Metal Gres Sıyırıcı
+2026-05-21 15:56:28,383 INFO MATCH (title-fuzzy 0.85): 35 lt Havalı Gres Pompası - GP 35A2 -> 35 Lt Havalı Gres Pompası
+2026-05-21 15:56:28,958 INFO   saved assets/urunler/yaglama-ve-yikama/yaglama-ve-yikama-014-gp-35a2-page.webp (1244x829)
+2026-05-21 15:56:28,968 INFO MATCH (title-overlap 0.62): 850 Nm 1/2 Darbeli Somun Sökme - GP 850 -> 1/2 Havalı Somun Sökme
+2026-05-21 15:56:29,533 INFO   saved assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-001-gp-850-page.webp (1244x829)
+2026-05-21 15:56:29,546 INFO MATCH (title-overlap 0.60): 1300 Nm 1/2 Darbeli Somun Sökme - GP 1300 -> 1/2 Havalı Somun Sökme
+2026-05-21 15:56:30,102 INFO   saved assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-002-gp-1300-page.webp (1244x829)
+2026-05-21 15:56:30,107 INFO MATCH (title-fuzzy 0.85): 1/2 Mini Havalı Somun Sökme - GPM 1201 -> 1/2 Mini Havalı Somun Sökme
+2026-05-21 15:56:30,634 INFO   saved assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-004-gpm-1201-page.webp (1244x829)
+2026-05-21 15:56:30,638 INFO MATCH (title-fuzzy 0.84): 1/2 Havalı Somun Sökme - GP 1201 -> 1/2 Havalı Somun Sökme
+2026-05-21 15:56:31,226 INFO   saved assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-006-gp-1201-page.webp (1244x829)
+2026-05-21 15:56:31,230 INFO MATCH (title-fuzzy 0.84): 3/4 Havalı Somun Sökme - GP 3401 -> 3/4 Havalı Somun Sökme
+2026-05-21 15:56:31,793 INFO   saved assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-007-gp-3401-page.webp (1244x829)
+2026-05-21 15:56:31,798 INFO MATCH (title-fuzzy 0.89): 1 Havalı Kısa Tip Somun Sökme - GP 101 -> 1" Havalı Kısa Tip Somun Sökme
+2026-05-21 15:56:32,352 INFO   saved assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-009-gp-101-page.webp (1244x829)
+2026-05-21 15:56:32,362 WARNING NO MATCH: [sarjli-ve-havali-el-aletleri] Binek Araç Lastik Sökme Takma Makinası  - GP 102
+2026-05-21 15:56:32,365 INFO MATCH (title-fuzzy 1.00): 1/4 Havalı Cırcır Kolu -> 1/4 Havalı Cırcır Kolu
+2026-05-21 15:56:33,128 INFO   saved assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-012-1-4-havali-circir-kolu-1.webp (1244x829)
+2026-05-21 15:56:33,132 INFO MATCH (title-fuzzy 0.98): Havalı Ortbital Zımpara -> Havalı Orbital Zımpara
+2026-05-21 15:56:33,716 INFO   saved assets/urunler/sarjli-ve-havali-el-aletleri/sarjli-ve-havali-el-aletleri-013-havali-ortbital-zimpara-1.webp (1244x829)
+2026-05-21 15:56:33,725 INFO MATCH (title-overlap 0.82): 250-500 kg Elektrikli Vinç - GP250-500 -> 250-500 Kg Kapasiteli Elektrikli Vinç
+2026-05-21 15:56:34,329 INFO   saved assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-001-gp250-500-1.webp (1244x829)
+2026-05-21 15:56:34,339 INFO MATCH (title-overlap 0.82): 400-800 kg Elektrikli Vinç - GP400-800 -> 400-800 Kg Kapasiteli Elektrikli Vinç
+2026-05-21 15:56:34,918 INFO   saved assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-002-gp400-800-page.webp (1244x829)
+2026-05-21 15:56:34,923 INFO MATCH (title-fuzzy 0.78): 1.5 Ton Zincirli Caraskal - GPH15T -> 1 Ton 5 M Zincirli Caraskal
+2026-05-21 15:56:35,503 INFO   saved assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-003-gph15t-page.webp (1244x829)
+2026-05-21 15:56:35,507 INFO MATCH (title-fuzzy 0.82): 3 Ton Zincirli Caraskal - GPH3T -> 3 Ton 3 M Zincirli Caraskal
+2026-05-21 15:56:36,084 INFO   saved assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-004-gph3t-page.webp (1244x829)
+2026-05-21 15:56:36,090 INFO MATCH (title-overlap 0.64): 1 Ton 3 m Hubzug - GPC1T3M -> 1 Ton 3 M Zincirli Caraskal
+2026-05-21 15:56:36,672 INFO   saved assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-005-gpc1t3m-page.webp (1244x829)
+2026-05-21 15:56:36,679 INFO MATCH (title-overlap 0.65): 1 Ton 5 m Hubzug - GPC1T5M -> 1.5 Ton Kapasiteli Hubzug
+2026-05-21 15:56:37,219 INFO   saved assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-006-gpc1t5m-page.webp (1244x829)
+2026-05-21 15:56:37,225 INFO MATCH (title-overlap 0.64): 2 Ton 3 m Hubzug - GPC2T3M -> 2 Ton 3 M Zincirli Caraskal
+2026-05-21 15:56:37,820 INFO   saved assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-007-gpc2t3m-1.webp (1244x829)
+2026-05-21 15:56:37,826 INFO MATCH (title-overlap 0.64): 2 Ton 5 m Hubzug - GPC2T5M -> 2 Ton 5 M Zincirli Caraskal
+2026-05-21 15:56:38,405 INFO   saved assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-008-gpc2t5m-page.webp (1244x829)
+2026-05-21 15:56:38,409 INFO MATCH (title-fuzzy 0.78): 2.5 Ton Transpalet - GP 25110K -> 2.5 Ton Transpalet
+2026-05-21 15:56:38,977 INFO   saved assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-009-gp-25110k-1.webp (1244x829)
+2026-05-21 15:56:38,981 INFO MATCH (title-fuzzy 0.78): 2.5 Ton Transpalet - GP 25110P -> 2.5 Ton Transpalet
+2026-05-21 15:56:39,545 INFO   saved assets/urunler/vinc-ve-kaldırma-ekipmanlari/vinc-ve-kaldırma-ekipmanlari-010-gp-25110p-1.webp (1244x829)
+2026-05-21 15:56:39,550 INFO MATCH (title-fuzzy 0.90): 165 Amper İnvertörlü Kaynak Makinesi - GP 165i -> 165 Amper İnvertörlü Kaynak Makinesi
+2026-05-21 15:56:40,141 INFO   saved assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-001-gp-165i-1.webp (1244x829)
+2026-05-21 15:56:40,147 INFO MATCH (title-fuzzy 0.90): 200 Amper İnvertörlü Kaynak Makinesi - GP 200i -> 200 Amper İnvertörlü Kaynak Makinesi
+2026-05-21 15:56:40,775 INFO   saved assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-002-gp-200i-page.webp (1244x829)
+2026-05-21 15:56:40,782 INFO MATCH (title-fuzzy 0.87): 5 kVA Kaporta Çektirme Makinesi - GP 5KVA -> 5KVA Kaporta Çektirme Makinesi
+2026-05-21 15:56:41,355 INFO   saved assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-004-gp-5kva-page.webp (1244x829)
+2026-05-21 15:56:41,360 INFO MATCH (title-fuzzy 0.88): 10 kVA Kaporta Çektirme Makinesi - GP 10KVA -> 10 kVA Kaporta Çektirme Makinesi
+2026-05-21 15:56:42,313 INFO   saved assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-007-gp-10kva-page.webp (1244x829)
+2026-05-21 15:56:42,320 INFO MATCH (title-fuzzy 0.83): 12 kVA Kaporta Çektirme Makinası - GP 12KVA -> 12 kVA Kaporta Çektirme Makinesi
+2026-05-21 15:56:42,905 INFO   saved assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-011-gp-12kva-page.webp (1244x829)
+2026-05-21 15:56:42,911 INFO MATCH (title-fuzzy 0.87): Elektronik 10 kVA Kaporta Çektirme Makinası - GP 10MAX -> Elektronik 10 kVA Kaporta Çektirme Makinesi
+2026-05-21 15:56:43,497 INFO   saved assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-014-gp-10max-page.webp (1244x829)
+2026-05-21 15:56:43,511 WARNING NO MATCH: [kaynak-ve-kaporta-cektirme] Çektirme yapılacak kaporta kalınlığına göre kaportada
+2026-05-21 15:56:43,516 INFO MATCH (title-fuzzy 0.87): Elektronik 12 kVA Kaporta Çektirme Makinası - GP 12PRO -> Elektronik 12 kVA Kaporta Çektirme Makinesi
+2026-05-21 15:56:44,177 INFO   saved assets/urunler/kaynak-ve-kaporta-cektirme/kaynak-ve-kaporta-cektirme-019-gp-12pro-page.webp (1244x829)
+2026-05-21 15:56:44,194 WARNING NO MATCH: [kaynak-ve-kaporta-cektirme] Çektirme yapılacak kaporta kalınlığına göre kaportada
+2026-05-21 15:56:44,200 INFO MATCH (title-fuzzy 0.85): Çekmecesiz Takım Arabası - GPT 201 -> Çekmecesiz Takım Arabası
+2026-05-21 15:56:44,680 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-001-gpt-201-1.webp (1244x829)
+2026-05-21 15:56:45,261 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-001-gpt-201-2.webp (1244x829)
+2026-05-21 15:56:45,267 INFO MATCH (title-fuzzy 0.87): Tek Çekmeceli Takım Arabası - GPT 202 -> Tek Çekmeceli Takım Arabası
+2026-05-21 15:56:45,839 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-002-gpt-202-1.webp (1244x829)
+2026-05-21 15:56:46,763 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-002-gpt-202-2.webp (1244x829)
+2026-05-21 15:56:47,339 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-002-gpt-202-3.webp (1244x829)
+2026-05-21 15:56:47,344 INFO MATCH (title-fuzzy 0.87): İki Çekmeceli Takım Arabası - GPT 203 -> İki Çekmeceli Takım Arabası
+2026-05-21 15:56:47,956 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-004-gpt-203-1.webp (1244x829)
+2026-05-21 15:56:48,872 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-004-gpt-203-2.webp (1244x829)
+2026-05-21 15:56:49,461 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-004-gpt-203-3.webp (1244x829)
+2026-05-21 15:56:49,466 INFO MATCH (title-fuzzy 0.86): 5 Çekmeceli Takım Arabası - GPT 204 -> 5 Çekmeceli Takım Arabası
+2026-05-21 15:56:50,047 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-005-gpt-204-1.webp (1244x829)
+2026-05-21 15:56:50,684 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-005-gpt-204-2.webp (1244x829)
+2026-05-21 15:56:51,273 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-005-gpt-204-3.webp (1244x829)
+2026-05-21 15:56:51,280 INFO MATCH (title-fuzzy 0.92): 1500 mm Endüstriyel Çekmeceli Çalışma Tezgahı - GPT 205 -> 1500 mm Endüstriyel Çekmeceli Çalışma Tezgahı
+2026-05-21 15:56:52,317 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-008-gpt-205-page.webp (1244x829)
+2026-05-21 15:56:52,323 INFO MATCH (title-fuzzy 0.92): 2000 mm Endüstriyel Çekmeceli Çalışma Tezgahı - GPT 206 -> 2000 mm Endüstriyel Çekmeceli Çalışma Tezgahı
+2026-05-21 15:56:53,010 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-011-gpt-206-page.webp (1244x829)
+2026-05-21 15:56:53,015 INFO MATCH (title-fuzzy 0.91): 2000 mm Endüstriyel Dolaplı Çalışma Tezgahı - GPT 207 -> 2000 mm Endüstriyel Dolaplı Çalışma Tezgahı
+2026-05-21 15:56:54,163 INFO   saved assets/urunler/takim-arabalari-ve-tezgahlari/takim-arabalari-ve-tezgahlari-013-gpt-207-page.webp (1244x829)
+2026-05-21 15:56:54,171 INFO Done. total=132 matched=120 downloaded=120 skipped=0 failed=0 no_match=12
+2026-05-21 15:56:54,171 INFO Manifest written to C:\Users\hmzis\Desktop\eren dosya\assets\urunler\image_sources_manifest.json
